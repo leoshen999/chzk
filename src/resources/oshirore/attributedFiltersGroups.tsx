@@ -11,7 +11,7 @@ const attributedFiltersGroups = [
       id: terrain.id,
       name: terrain.name,
       color: terrain.color,
-      func: (chara) => chara.terrains.includes(terrain.id),
+      func: (chara: any) => chara.terrains.includes(terrain.id),
     })),
   },
   {
@@ -20,10 +20,10 @@ const attributedFiltersGroups = [
     usesSmallButton: true,
     filters: weapons.map((weapon) => ({
       id: weapon.id,
-      img: "%PUBLIC_URL%/weapon_imgs/" + weapon.id + ".png",
+      img: process.env.PUBLIC_URL + "/weapon_imgs/" + weapon.id + ".png",
       name: weapon.name,
       color: weapon.color,
-      func: (chara) => chara.weapon === weapon.id,
+      func: (chara: any) => chara.weapon === weapon.id,
     })),
   },
   {
@@ -34,7 +34,7 @@ const attributedFiltersGroups = [
       id: "rarity_" + r,
       name: "★ " + r.toString(),
       color: "#e0815e",
-      func: (chara) => chara.rarity === r,
+      func: (chara: any) => chara.rarity === r,
     })),
   },
   {
@@ -45,7 +45,7 @@ const attributedFiltersGroups = [
       id: loc.id,
       name: loc.name,
       color: loc.name,
-      func: (chara) => chara.location === loc,
+      func: (chara: any) => chara.location === loc,
     })),
   },
 ];

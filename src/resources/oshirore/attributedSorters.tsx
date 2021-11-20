@@ -1,33 +1,33 @@
 import terrains from "./terrains.json";
 import weapons from "./weapons.json";
 
-const weaponIdToIndex = {};
+const weaponIdToIndex: any = {};
 weapons.forEach((wp, idx) => {
   weaponIdToIndex[wp.id] = idx;
 });
-const terrainIdToIndex = {};
+const terrainIdToIndex: any = {};
 terrains.forEach((tr, idx) => {
   terrainIdToIndex[tr.id] = idx;
 });
 
-function idIndexer(c) {
+function idIndexer(c: any) {
   return c.id;
 }
 
-function terrainIndexer(c) {
+function terrainIndexer(c: any) {
   return c.terrains.length > 0 ? terrainIdToIndex[c.terrains[0]] : 999999999;
 }
 
-function weaponIndexer(c) {
+function weaponIndexer(c: any) {
   return weaponIdToIndex[c.weapon];
 }
 
-function rarityIndexer(c) {
+function rarityIndexer(c: any) {
   return c.rarity;
 }
 
-function createCompareFunc(indexer, multiplier) {
-  return function cmp(c1, c2) {
+function createCompareFunc(indexer: (c: any) => number, multiplier: number) {
+  return function cmp(c1: any, c2: any) {
     const i1 = indexer(c1);
     const i2 = indexer(c2);
     return i1 !== i2 ? multiplier * (i1 - i2) : c1.id - c2.id;
@@ -62,7 +62,7 @@ const attributedSorters = {
         id: "terrain_desc",
         name: "属性▼",
         color: "#007b43",
-        func: createCompareFunc(terrainIndexer, 1),
+        func: createCompareFunc(terrainIndexer, -1),
       },
     ],
     [
@@ -76,7 +76,7 @@ const attributedSorters = {
         id: "weapon_desc",
         name: "武器▼",
         color: "#eb6238",
-        func: createCompareFunc(weaponIndexer, 1),
+        func: createCompareFunc(weaponIndexer, -1),
       },
     ],
     [
@@ -90,7 +90,7 @@ const attributedSorters = {
         id: "rarity_desc",
         name: "★▼",
         color: "#e6b422",
-        func: createCompareFunc(rarityIndexer, 1),
+        func: createCompareFunc(rarityIndexer, -1),
       },
     ],
   ],
