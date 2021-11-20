@@ -1,0 +1,4994 @@
+[
+  {
+    "id": 1,
+    "name": "福山館",
+    "rarity": 1,
+    "terrains": ["hill", "water"],
+    "location": "hokkaido",
+    "weapon": "bow"
+  },
+  {
+    "id": 2,
+    "name": "松前城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "hokkaido",
+    "weapon": "gun"
+  },
+  {
+    "id": 3,
+    "name": "根城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 4,
+    "name": "不来方城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 5,
+    "name": "盛岡城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 6,
+    "name": "千代城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 7,
+    "name": "仙台城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 8,
+    "name": "東黒川館",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 9,
+    "name": "黒川城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 10,
+    "name": "会津若松城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 11,
+    "name": "山形城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 12,
+    "name": "矢留ノ城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 13,
+    "name": "窪田城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 14,
+    "name": "久保田城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 15,
+    "name": "大宝寺城",
+    "rarity": 2,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 16,
+    "name": "鶴ヶ岡城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 17,
+    "name": "馬場城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 18,
+    "name": "水戸城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 19,
+    "name": "石倉城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 20,
+    "name": "厩橋城",
+    "rarity": 2,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 21,
+    "name": "前橋城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 22,
+    "name": "宇都宮城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 23,
+    "name": "飛山城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "hammer"
+  },
+  {
+    "id": 24,
+    "name": "小田喜城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 25,
+    "name": "大多喜城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 26,
+    "name": "忍城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 27,
+    "name": "本庄城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 28,
+    "name": "滝山城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 29,
+    "name": "小田原城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 30,
+    "name": "三崎城",
+    "rarity": 1,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 31,
+    "name": "新府城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "spear"
+  },
+  {
+    "id": 32,
+    "name": "鍋蓋城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "bow"
+  },
+  {
+    "id": 33,
+    "name": "小諸城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "spear"
+  },
+  {
+    "id": 34,
+    "name": "今川館",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "bow"
+  },
+  {
+    "id": 35,
+    "name": "駿府城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "bow"
+  },
+  {
+    "id": 36,
+    "name": "小牧山城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "bow"
+  },
+  {
+    "id": 37,
+    "name": "柳之丸",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 38,
+    "name": "那古野城",
+    "rarity": 2,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 39,
+    "name": "名古屋城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 40,
+    "name": "稲葉山城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 41,
+    "name": "岐阜城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "gun"
+  },
+  {
+    "id": 42,
+    "name": "苗木城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 43,
+    "name": "坂戸城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 44,
+    "name": "富山城",
+    "rarity": 2,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "gun"
+  },
+  {
+    "id": 45,
+    "name": "七尾城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 46,
+    "name": "大聖寺城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "spell"
+  },
+  {
+    "id": 47,
+    "name": "北ノ庄城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 48,
+    "name": "福井城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 49,
+    "name": "津留賀城",
+    "rarity": 1,
+    "terrains": ["mountain", "water"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 50,
+    "name": "金ヶ崎城",
+    "rarity": 2,
+    "terrains": ["mountain", "water"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 51,
+    "name": "坂本城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 52,
+    "name": "佐和山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 53,
+    "name": "水口城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 54,
+    "name": "仁木館",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 55,
+    "name": "伊賀上野城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 56,
+    "name": "二条城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 57,
+    "name": "多聞山城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 58,
+    "name": "龍王山城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 59,
+    "name": "石山御坊",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 60,
+    "name": "大坂城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 61,
+    "name": "飯盛山城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 62,
+    "name": "鬼ヶ城",
+    "rarity": 2,
+    "terrains": ["mountain", "water"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 63,
+    "name": "雑賀城",
+    "rarity": 3,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 64,
+    "name": "三木城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 65,
+    "name": "石山城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 66,
+    "name": "岡山城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 67,
+    "name": "備中高松城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 68,
+    "name": "三原城",
+    "rarity": 3,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 69,
+    "name": "桜尾城",
+    "rarity": 2,
+    "terrains": ["water"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 70,
+    "name": "鹿野城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 71,
+    "name": "鳥取城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 72,
+    "name": "防己尾城",
+    "rarity": 1,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 73,
+    "name": "三本松城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 74,
+    "name": "津和野城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 75,
+    "name": "上関城",
+    "rarity": 2,
+    "terrains": ["water"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 76,
+    "name": "高松城",
+    "rarity": 3,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 77,
+    "name": "引田城",
+    "rarity": 2,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 78,
+    "name": "勝瑞城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "shigoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 79,
+    "name": "来島城",
+    "rarity": 1,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 80,
+    "name": "大高坂山城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 81,
+    "name": "高知城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 82,
+    "name": "鶴崎城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 83,
+    "name": "福岡城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 84,
+    "name": "若松城",
+    "rarity": 2,
+    "terrains": ["water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 85,
+    "name": "島原城",
+    "rarity": 3,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 86,
+    "name": "村中城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 87,
+    "name": "佐賀城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 88,
+    "name": "日之嶽城",
+    "rarity": 1,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "spear"
+  },
+  {
+    "id": 89,
+    "name": "平戸城",
+    "rarity": 3,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "spell"
+  },
+  {
+    "id": 90,
+    "name": "宇土古城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 91,
+    "name": "宇土城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 92,
+    "name": "飫肥城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 93,
+    "name": "鹿児島城",
+    "rarity": 2,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 94,
+    "name": "首里城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "okinawa",
+    "weapon": "sword"
+  },
+  {
+    "id": 95,
+    "name": "浦添城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "okinawa",
+    "weapon": "bow"
+  },
+  {
+    "id": 96,
+    "name": "丸亀城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 97,
+    "name": "小谷城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 98,
+    "name": "能島城",
+    "rarity": 3,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 99,
+    "name": "月山富田城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 100,
+    "name": "脇本城",
+    "rarity": 2,
+    "terrains": ["mountain", "water"],
+    "location": "touhoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 101,
+    "name": "一乗谷城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 102,
+    "name": "墨俣城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "gun"
+  },
+  {
+    "id": 103,
+    "name": "岩櫃城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 104,
+    "name": "福山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 105,
+    "name": "志自岐原城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 106,
+    "name": "原城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 107,
+    "name": "根来城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 108,
+    "name": "鳥羽城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 109,
+    "name": "春日山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 110,
+    "name": "丹波横山城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 111,
+    "name": "福知山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 112,
+    "name": "今浜城",
+    "rarity": 1,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 113,
+    "name": "長浜城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 114,
+    "name": "八王子城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 115,
+    "name": "多賀城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 116,
+    "name": "松倉城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 117,
+    "name": "フランケンシュタイン城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 118,
+    "name": "与板城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 119,
+    "name": "和歌山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 120,
+    "name": "久慈城",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 121,
+    "name": "彦根城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 122,
+    "name": "乙女城",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 123,
+    "name": "柳川城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 124,
+    "name": "石垣山城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 125,
+    "name": "今治城",
+    "rarity": 4,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 126,
+    "name": "真田丸",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 127,
+    "name": "観音寺城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 128,
+    "name": "ブラン城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 129,
+    "name": "萩城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 130,
+    "name": "岡豊城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "shigoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 131,
+    "name": "尾山御坊",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 132,
+    "name": "佐久間金沢城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 133,
+    "name": "菩提山城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "spell"
+  },
+  {
+    "id": 134,
+    "name": "岩手山城",
+    "rarity": 2,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 135,
+    "name": "山科本願寺",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 136,
+    "name": "深志城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "bow"
+  },
+  {
+    "id": 137,
+    "name": "松本城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 138,
+    "name": "広島城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 139,
+    "name": "尾山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 140,
+    "name": "天神西舘",
+    "rarity": 1,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 141,
+    "name": "中村舘",
+    "rarity": 2,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 142,
+    "name": "相馬中村城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 143,
+    "name": "吉野ヶ里",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 144,
+    "name": "四稜郭",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "gun"
+  },
+  {
+    "id": 145,
+    "name": "五稜郭",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "cannon"
+  },
+  {
+    "id": 146,
+    "name": "前田金沢城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 147,
+    "name": "安平古堡",
+    "rarity": 3,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 148,
+    "name": "オレンジ城",
+    "rarity": 3,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 149,
+    "name": "ゼーランディア城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 150,
+    "name": "信貴山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 151,
+    "name": "笹原城",
+    "rarity": 2,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 152,
+    "name": "久留米城",
+    "rarity": 3,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 153,
+    "name": "安平城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 154,
+    "name": "高岡城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 155,
+    "name": "吉田郡山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 156,
+    "name": "竹田城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 157,
+    "name": "帰雲城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 158,
+    "name": "ノイシュヴァンシュタイン城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 159,
+    "name": "大仏城",
+    "rarity": 1,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 160,
+    "name": "杉目城",
+    "rarity": 2,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 161,
+    "name": "福島城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 162,
+    "name": "躑躅ヶ崎館",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 163,
+    "name": "清洲城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 164,
+    "name": "伊丹城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 165,
+    "name": "有岡城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 166,
+    "name": "犬山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 167,
+    "name": "サンタンジェロ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 168,
+    "name": "備中松山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 169,
+    "name": "板島丸串城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "cannon"
+  },
+  {
+    "id": 170,
+    "name": "弘前城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 171,
+    "name": "伊予松山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 172,
+    "name": "聚楽第",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 173,
+    "name": "岡城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 174,
+    "name": "中津城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 175,
+    "name": "丸山城",
+    "rarity": 3,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 176,
+    "name": "浜松城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 177,
+    "name": "ガイヤール城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 178,
+    "name": "亀居城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 179,
+    "name": "安土城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 180,
+    "name": "ユクエピラチャシ",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "hokkaido",
+    "weapon": "hammer"
+  },
+  {
+    "id": 181,
+    "name": "宇和島城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "cannon"
+  },
+  {
+    "id": 182,
+    "name": "徳島城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 183,
+    "name": "肥後千葉城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 184,
+    "name": "隈本城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 185,
+    "name": "熊本城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 186,
+    "name": "丸岡城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "spell"
+  },
+  {
+    "id": 187,
+    "name": "指月伏見城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bell"
+  },
+  {
+    "id": 188,
+    "name": "コンウィ城",
+    "rarity": 2,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 189,
+    "name": "カーナーヴォン城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 190,
+    "name": "淀城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 191,
+    "name": "内城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 192,
+    "name": "万里の長城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 193,
+    "name": "井伊谷城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "bow"
+  },
+  {
+    "id": 194,
+    "name": "臼杵城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "cannon"
+  },
+  {
+    "id": 195,
+    "name": "津山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 196,
+    "name": "マルボルク城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 197,
+    "name": "大和郡山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 198,
+    "name": "ユッセ城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 199,
+    "name": "村尾城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 200,
+    "name": "浜田城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "bell"
+  },
+  {
+    "id": 201,
+    "name": "上田城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "spear"
+  },
+  {
+    "id": 202,
+    "name": "聚楽城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 203,
+    "name": "姫路城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 204,
+    "name": "丹波亀山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 205,
+    "name": "岩殿山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 206,
+    "name": "シュノンソー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 207,
+    "name": "山中城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 208,
+    "name": "曳馬城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 209,
+    "name": "プラハ城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 210,
+    "name": "白河小峰城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 211,
+    "name": "アンボワーズ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 212,
+    "name": "岩国城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 213,
+    "name": "亀田御役所土塁",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "sword"
+  },
+  {
+    "id": 214,
+    "name": "紫禁城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 215,
+    "name": "大垣城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 216,
+    "name": "ホーエンザルツブルク城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 217,
+    "name": "杵築城",
+    "rarity": 4,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 218,
+    "name": "長安城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 219,
+    "name": "徳川大坂城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 220,
+    "name": "古河城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 221,
+    "name": "カステル・デル・モンテ",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 222,
+    "name": "松江城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 223,
+    "name": "［夏］犬山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 224,
+    "name": "［夏］指月伏見城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bell"
+  },
+  {
+    "id": 225,
+    "name": "［夏］名古屋城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 226,
+    "name": "高天神城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "gun"
+  },
+  {
+    "id": 227,
+    "name": "新田金山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "bell"
+  },
+  {
+    "id": 228,
+    "name": "柳生城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 229,
+    "name": "エディンバラ城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 230,
+    "name": "ウィンザー城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 231,
+    "name": "青葉城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 232,
+    "name": "銀杏城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "spear"
+  },
+  {
+    "id": 233,
+    "name": "シノン城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 234,
+    "name": "アイリーン・ドナン城",
+    "rarity": 4,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 235,
+    "name": "高遠城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 236,
+    "name": "長篠城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "gun"
+  },
+  {
+    "id": 237,
+    "name": "城塞都市カルカソンヌ",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 238,
+    "name": "城塞都市ルクセンブルク",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 239,
+    "name": "明石城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 240,
+    "name": "柳之御所",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 241,
+    "name": "ヴァルトブルク城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 242,
+    "name": "大洲城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 243,
+    "name": "平遥古城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 244,
+    "name": "シェーンブルン宮殿",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 245,
+    "name": "［ハロウィン］ユッセ城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 246,
+    "name": "高島城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "koushinetsu",
+    "weapon": "bell"
+  },
+  {
+    "id": 247,
+    "name": "クロンボー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 248,
+    "name": "小倉城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "cannon"
+  },
+  {
+    "id": 249,
+    "name": "セゴビアのアルカサル",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 250,
+    "name": "津城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 251,
+    "name": "錦城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 252,
+    "name": "長門指月城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 253,
+    "name": "新宮城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 254,
+    "name": "リーズ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bow"
+  },
+  {
+    "id": 255,
+    "name": "シャンボール城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "spear"
+  },
+  {
+    "id": 256,
+    "name": "ウォリック城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 257,
+    "name": "江戸氏館",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "bow"
+  },
+  {
+    "id": 258,
+    "name": "湊城",
+    "rarity": 3,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 259,
+    "name": "［正月］熊本城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 260,
+    "name": "［正月］信貴山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 261,
+    "name": "フォンテーヌブロー宮殿",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 262,
+    "name": "水府城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "dancing"
+  },
+  {
+    "id": 263,
+    "name": "ペーナ宮殿",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 264,
+    "name": "鬼ノ城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 265,
+    "name": "［節分］鬼ヶ城",
+    "rarity": 5,
+    "terrains": ["mountain", "water"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 266,
+    "name": "モン・サン＝ミッシェル",
+    "rarity": 7,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 267,
+    "name": "ウェストミンスター宮殿",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 268,
+    "name": "洛陽城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 269,
+    "name": "篠山城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 270,
+    "name": "天童城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "touhoku",
+    "weapon": "bell"
+  },
+  {
+    "id": 271,
+    "name": "ヴェルサイユ宮殿",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 272,
+    "name": "城塞都市アビラ",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 273,
+    "name": "烏城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "bell"
+  },
+  {
+    "id": 274,
+    "name": "鎌倉城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "bow"
+  },
+  {
+    "id": 275,
+    "name": "品川台場",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "kantou",
+    "weapon": "cannon"
+  },
+  {
+    "id": 276,
+    "name": "松代城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 277,
+    "name": "リンドス・アクロポリス",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 278,
+    "name": "キャメロット城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "sonohoka",
+    "weapon": "sword"
+  },
+  {
+    "id": 279,
+    "name": "金亀城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 280,
+    "name": "邯鄲",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 281,
+    "name": "勝竜寺城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 282,
+    "name": "ネスヴィジ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 283,
+    "name": "府内城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 284,
+    "name": "スピシュ城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 285,
+    "name": "［端午］多賀城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 286,
+    "name": "ペテルゴフ宮殿",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 287,
+    "name": "ケルフィリー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 288,
+    "name": "郡上八幡城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 289,
+    "name": "近江八幡城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 290,
+    "name": "兵庫城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 291,
+    "name": "金華山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 292,
+    "name": "高取城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 293,
+    "name": "ロンドン塔",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 294,
+    "name": "［花嫁衣装］アンボワーズ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 295,
+    "name": "カゼルタ宮殿",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 296,
+    "name": "十河城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "shigoku",
+    "weapon": "throwing"
+  },
+  {
+    "id": 297,
+    "name": "高崎城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 298,
+    "name": "ダノター城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "bow"
+  },
+  {
+    "id": 299,
+    "name": "鉢形城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "hammer"
+  },
+  {
+    "id": 300,
+    "name": "二本松城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "cannon"
+  },
+  {
+    "id": 301,
+    "name": "長谷堂城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "touhoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 302,
+    "name": "城塞都市アンベール",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 303,
+    "name": "秋田城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 304,
+    "name": "［夏］シェーンブルン宮殿",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 305,
+    "name": "［夏］柳之御所",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 306,
+    "name": "［夏］古河城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 307,
+    "name": "城塞都市トレド",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 308,
+    "name": "岩村城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 309,
+    "name": "マルクスブルク城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 310,
+    "name": "佐土原城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 311,
+    "name": "成都城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 312,
+    "name": "城塞都市アッシジ",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 313,
+    "name": "川越城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "bell"
+  },
+  {
+    "id": 314,
+    "name": "掛川城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 315,
+    "name": "麗江古城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 316,
+    "name": "ウチヒサル城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 317,
+    "name": "人吉城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 318,
+    "name": "上赤坂城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 319,
+    "name": "尼崎城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 320,
+    "name": "チャンドラ・マハル",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 321,
+    "name": "膳所城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 322,
+    "name": "松坂城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 323,
+    "name": "琉球御城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "okinawa",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 324,
+    "name": "モーリッツブルク城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 325,
+    "name": "［聖夜］サンタンジェロ城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 326,
+    "name": "伊勢長島城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 327,
+    "name": "［正月］大坂城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 328,
+    "name": "［正月］姫路城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 329,
+    "name": "今帰仁城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "okinawa",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 330,
+    "name": "竜宮城",
+    "rarity": 7,
+    "terrains": ["water"],
+    "location": "sonohoka",
+    "weapon": "spear"
+  },
+  {
+    "id": 331,
+    "name": "米沢城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 332,
+    "name": "［バレンタイン］安土城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 333,
+    "name": "エステンセ城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 334,
+    "name": "百地丹波城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 335,
+    "name": "木幡山伏見城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 336,
+    "name": "久能山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 337,
+    "name": "芥川山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 338,
+    "name": "立花山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 339,
+    "name": "フレデリクスボー城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 340,
+    "name": "館山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 341,
+    "name": "江戸城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 342,
+    "name": "金鯱城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 343,
+    "name": "千代田城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 344,
+    "name": "甘崎城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 345,
+    "name": "虎臥城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 346,
+    "name": "室町第",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 347,
+    "name": "ホーエンツォレルン城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 348,
+    "name": "菖蒲城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 349,
+    "name": "小峯城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "throwing"
+  },
+  {
+    "id": 350,
+    "name": "佐竹城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 351,
+    "name": "龍岡城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "cannon"
+  },
+  {
+    "id": 352,
+    "name": "コッヘム・ライヒスブルク城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 353,
+    "name": "許昌城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 354,
+    "name": "岡崎城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "spell"
+  },
+  {
+    "id": 355,
+    "name": "名胡桃城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 356,
+    "name": "千早城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 357,
+    "name": "中城城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "okinawa",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 358,
+    "name": "延岡城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "bell"
+  },
+  {
+    "id": 359,
+    "name": "［花嫁衣装］秋田城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 360,
+    "name": "［花嫁衣装］ロンドン塔",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 361,
+    "name": "［花嫁衣装］シノン城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 362,
+    "name": "閻魔庁",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "spell"
+  },
+  {
+    "id": 363,
+    "name": "大宰府",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 364,
+    "name": "鶴島城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 365,
+    "name": "越中高岡城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "gun"
+  },
+  {
+    "id": 366,
+    "name": "スフォルツェスコ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 367,
+    "name": "山崎城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 368,
+    "name": "オラヴィ城",
+    "rarity": 7,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 369,
+    "name": "吹揚城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 370,
+    "name": "［夏］浦添城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "okinawa",
+    "weapon": "bow"
+  },
+  {
+    "id": 371,
+    "name": "［夏］聚楽第",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 372,
+    "name": "［夏］真田丸",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 373,
+    "name": "［夏］富山城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "gun"
+  },
+  {
+    "id": 374,
+    "name": "［肝試し］帰雲城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 375,
+    "name": "［肝試し］松江城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 376,
+    "name": "［肝試し］丸岡城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "spell"
+  },
+  {
+    "id": 377,
+    "name": "［肝試し］八王子城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 378,
+    "name": "白石城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 379,
+    "name": "平安京",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 380,
+    "name": "スワローズ・ネスト",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 381,
+    "name": "ハイデルベルク城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 382,
+    "name": "サン・レーオ城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 383,
+    "name": "鶴丸城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 384,
+    "name": "平城京",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "bell"
+  },
+  {
+    "id": 385,
+    "name": "肥前名護屋城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 386,
+    "name": "鶴ヶ城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 387,
+    "name": "阿波一宮城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "shigoku",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 388,
+    "name": "［ハロウィン］万里の長城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 389,
+    "name": "［ハロウィン］ケルフィリー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 390,
+    "name": "［ハロウィン］フランケンシュタイン城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 391,
+    "name": "レーヴェンブルク城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 392,
+    "name": "駿河田中城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "bow"
+  },
+  {
+    "id": 393,
+    "name": "城塞都市ニュールンベルク",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 394,
+    "name": "平井城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 395,
+    "name": "ドーヴァー城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 396,
+    "name": "コンシェルジュリー",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 397,
+    "name": "扇城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "throwing"
+  },
+  {
+    "id": 398,
+    "name": "新発田城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "spear"
+  },
+  {
+    "id": 399,
+    "name": "足利氏館",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 400,
+    "name": "ハーレック城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 401,
+    "name": "岸和田城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 402,
+    "name": "［聖夜］エステンセ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 403,
+    "name": "［聖夜］ダノター城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "bow"
+  },
+  {
+    "id": 404,
+    "name": "［聖夜］モン・サン＝ミッシェル",
+    "rarity": 7,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 405,
+    "name": "［聖夜］城塞都市トレド",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 406,
+    "name": "新高山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 407,
+    "name": "置塩城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 408,
+    "name": "赤穂城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 409,
+    "name": "結城城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spear"
+  },
+  {
+    "id": 410,
+    "name": "唐津城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 411,
+    "name": "トームペア城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 412,
+    "name": "美作一ノ瀬城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 413,
+    "name": "千賀地氏城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 414,
+    "name": "葛根城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 415,
+    "name": "椿尾上城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 416,
+    "name": "多気城",
+    "rarity": 3,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 417,
+    "name": "洲本城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 418,
+    "name": "一条小山城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 419,
+    "name": "佐倉城",
+    "rarity": 3,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 420,
+    "name": "浪岡城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "bell"
+  },
+  {
+    "id": 421,
+    "name": "日暮城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "staff"
+  },
+  {
+    "id": 422,
+    "name": "神辺城",
+    "rarity": 4,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 423,
+    "name": "［正月］五稜郭",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "cannon"
+  },
+  {
+    "id": 424,
+    "name": "［正月］宇都宮城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 425,
+    "name": "［正月］小田原城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 426,
+    "name": "［正月］竹田城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 427,
+    "name": "［正月］柳川城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 428,
+    "name": "都於郡城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 429,
+    "name": "徳丹城",
+    "rarity": 4,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 430,
+    "name": "二条亭",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 431,
+    "name": "黒井城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 432,
+    "name": "エーリューズニル",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "throwing"
+  },
+  {
+    "id": 433,
+    "name": "アーケシュフース城",
+    "rarity": 7,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 434,
+    "name": "白帝城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 435,
+    "name": "魚津城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "hokuriku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 436,
+    "name": "［バレンタイン］大洲城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 437,
+    "name": "［バレンタイン］シャンボール城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "spear"
+  },
+  {
+    "id": 438,
+    "name": "［バレンタイン］城塞都市カルカソンヌ",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 439,
+    "name": "［バレンタイン］小倉城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "cannon"
+  },
+  {
+    "id": 440,
+    "name": "［バレンタイン］高島城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "koushinetsu",
+    "weapon": "bell"
+  },
+  {
+    "id": 441,
+    "name": "志波城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 442,
+    "name": "アテナイ・アクロポリス",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 443,
+    "name": "鮫ヶ尾城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 444,
+    "name": "箕輪城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 445,
+    "name": "足利学校",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "book"
+  },
+  {
+    "id": 446,
+    "name": "バベルの塔",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "sonohoka",
+    "weapon": "cannon"
+  },
+  {
+    "id": 447,
+    "name": "勝幡城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 448,
+    "name": "要害山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 449,
+    "name": "甲府城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "book"
+  },
+  {
+    "id": 450,
+    "name": "墨俣一夜城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 451,
+    "name": "唐沢山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "sword"
+  },
+  {
+    "id": 452,
+    "name": "若桜鬼ヶ城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 453,
+    "name": "玉縄城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "dancing"
+  },
+  {
+    "id": 454,
+    "name": "栗橋城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 455,
+    "name": "月山城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "throwing"
+  },
+  {
+    "id": 456,
+    "name": "伊豆下田城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "toukai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 457,
+    "name": "カステル・ヴェッキオ",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 458,
+    "name": "江尻城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "toukai",
+    "weapon": "spear"
+  },
+  {
+    "id": 459,
+    "name": "ラピュータ",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "sonohoka",
+    "weapon": "gun"
+  },
+  {
+    "id": 460,
+    "name": "カステル・ヌオーヴォ",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 461,
+    "name": "城塞都市ルシュノフ",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 462,
+    "name": "城塞都市ドゥブロヴニク",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 463,
+    "name": "鞠智城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 464,
+    "name": "湯築城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 465,
+    "name": "高鍋城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "book"
+  },
+  {
+    "id": 466,
+    "name": "ストラホフ修道院",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 467,
+    "name": "コーブルク城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 468,
+    "name": "リンディスファーン城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 469,
+    "name": "城塞都市ローテンブルク",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 470,
+    "name": "［花嫁衣装］山形城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 471,
+    "name": "［花嫁衣装］チャンドラ・マハル",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 472,
+    "name": "［花嫁衣装］萩城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 473,
+    "name": "［花嫁衣装］新田金山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kantou",
+    "weapon": "bell"
+  },
+  {
+    "id": 474,
+    "name": "［花嫁衣装］アイリーン・ドナン城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 475,
+    "name": "［夏］首里城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "okinawa",
+    "weapon": "sword"
+  },
+  {
+    "id": 476,
+    "name": "［夏］甘崎城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "shigoku",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 477,
+    "name": "［夏］安平城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 478,
+    "name": "［夏］紫禁城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 479,
+    "name": "［夏］久留米城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 480,
+    "name": "［夏］立花山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 481,
+    "name": "［夏］柳川城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 482,
+    "name": "［夏］延岡城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "bell"
+  },
+  {
+    "id": 483,
+    "name": "敦賀城",
+    "rarity": 4,
+    "terrains": ["plain", "water"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 484,
+    "name": "白鳳城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 485,
+    "name": "佐柿国吉城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 486,
+    "name": "沼田城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "bell"
+  },
+  {
+    "id": 487,
+    "name": "不夜城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 488,
+    "name": "エゲル城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 489,
+    "name": "名島城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "spell"
+  },
+  {
+    "id": 490,
+    "name": "［肝試し］三木城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 491,
+    "name": "［肝試し］足利氏館",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 492,
+    "name": "［肝試し］川越城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "bell"
+  },
+  {
+    "id": 493,
+    "name": "［肝試し］平戸城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "spell"
+  },
+  {
+    "id": 494,
+    "name": "津軽鷹岡城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 495,
+    "name": "近江望月城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 496,
+    "name": "プファルツ城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 497,
+    "name": "ホッホオスターヴィッツ城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 498,
+    "name": "モースハム城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 499,
+    "name": "大津城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 500,
+    "name": "霞城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 501,
+    "name": "桑名城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 502,
+    "name": "［お月見］備中高松城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 503,
+    "name": "月の都",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "sonohoka",
+    "weapon": "bow"
+  },
+  {
+    "id": 504,
+    "name": "［お月見］新宮城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 505,
+    "name": "［お月見］津城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 506,
+    "name": "冬宮殿",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 507,
+    "name": "大宮城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "toukai",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 508,
+    "name": "岩剣城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "sword"
+  },
+  {
+    "id": 509,
+    "name": "［ハロウィン］平遥古城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 510,
+    "name": "［ハロウィン］ブラン城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 511,
+    "name": "［ハロウィン］ヴェルサイユ宮殿",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 512,
+    "name": "［ハロウィン］安平古堡",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 513,
+    "name": "リヒテンシュタイン城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "spear"
+  },
+  {
+    "id": 514,
+    "name": "シャンティイ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 515,
+    "name": "リープ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 516,
+    "name": "ベリー・ポメロイ城",
+    "rarity": 4,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 517,
+    "name": "城塞都市コトル",
+    "rarity": 7,
+    "terrains": ["mountain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 518,
+    "name": "真岡城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 519,
+    "name": "大野城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 520,
+    "name": "胆沢城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 521,
+    "name": "カルルシュテイン城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 522,
+    "name": "雨城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "staff"
+  },
+  {
+    "id": 523,
+    "name": "［聖夜］四稜郭",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "gun"
+  },
+  {
+    "id": 524,
+    "name": "［聖夜］スピシュ城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 525,
+    "name": "［聖夜］プラハ城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 526,
+    "name": "［聖夜］フレデリクスボー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "bell"
+  },
+  {
+    "id": 527,
+    "name": "［絢爛］大坂城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "dancing"
+  },
+  {
+    "id": 528,
+    "name": "［絢爛］福岡城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 529,
+    "name": "［絢爛］小谷城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 530,
+    "name": "花巻城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 531,
+    "name": "［正月］福山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "sword"
+  },
+  {
+    "id": 532,
+    "name": "［正月］一条小山城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 533,
+    "name": "［正月］甲府城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "koushinetsu",
+    "weapon": "book"
+  },
+  {
+    "id": 534,
+    "name": "［正月］小峯城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "kantou",
+    "weapon": "throwing"
+  },
+  {
+    "id": 535,
+    "name": "［正月］天童城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "touhoku",
+    "weapon": "bell"
+  },
+  {
+    "id": 536,
+    "name": "マチュ・ピチュ",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 537,
+    "name": "七飯台場",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "hokkaido",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 538,
+    "name": "飯沼城",
+    "rarity": 5,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "throwing"
+  },
+  {
+    "id": 539,
+    "name": "鬼ヶ島",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "sonohoka",
+    "weapon": "hammer"
+  },
+  {
+    "id": 540,
+    "name": "グラーフェンステーン",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 541,
+    "name": "［バレンタイン］与板城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 542,
+    "name": "［バレンタイン］十河城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "shigoku",
+    "weapon": "throwing"
+  },
+  {
+    "id": 543,
+    "name": "［バレンタイン］成都城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 544,
+    "name": "［バレンタイン］シュノンソー城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 545,
+    "name": "小丸山城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 546,
+    "name": "ムーア城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 547,
+    "name": "蜂ヶ峰城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 548,
+    "name": "湯島聖堂",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "book"
+  },
+  {
+    "id": 549,
+    "name": "鷹城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 550,
+    "name": "麋城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "toukai",
+    "weapon": "gun"
+  },
+  {
+    "id": 551,
+    "name": "元和江戸城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 552,
+    "name": "寛永江戸城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "whip"
+  },
+  {
+    "id": 553,
+    "name": "白鷺城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "scythe"
+  },
+  {
+    "id": 554,
+    "name": "ペレシュ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 555,
+    "name": "［学園］苗木城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "toukai",
+    "weapon": "sword"
+  },
+  {
+    "id": 556,
+    "name": "［学園］金亀城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "cannon"
+  },
+  {
+    "id": 557,
+    "name": "［学園］聚楽城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 558,
+    "name": "［学園］岡城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 559,
+    "name": "徳川伏見城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 560,
+    "name": "チャフティツェ城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 561,
+    "name": "エカテリーナ宮殿",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "cannon"
+  },
+  {
+    "id": 562,
+    "name": "宇佐山城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 563,
+    "name": "アラゴネーゼ城",
+    "rarity": 7,
+    "terrains": ["mountain", "water"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 564,
+    "name": "城塞都市ニネヴェ",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 565,
+    "name": "［絢爛］彦根城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 566,
+    "name": "［絢爛］岡豊城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "shigoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 567,
+    "name": "［絢爛］津山城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 568,
+    "name": "ロケト城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 569,
+    "name": "［花嫁衣装］鹿児島城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "gun"
+  },
+  {
+    "id": 570,
+    "name": "［花嫁衣装］シャンティイ城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 571,
+    "name": "［花嫁衣装］二条亭",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spear"
+  },
+  {
+    "id": 572,
+    "name": "［花嫁衣装］フォンテーヌブロー宮殿",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 573,
+    "name": "エルツ城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "scythe"
+  },
+  {
+    "id": 574,
+    "name": "［夏］三原城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 575,
+    "name": "［夏］ノイシュヴァンシュタイン城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 576,
+    "name": "［夏］ペテルゴフ宮殿",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 577,
+    "name": "［夏］千賀地氏城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 578,
+    "name": "［夏］肥前名護屋城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 579,
+    "name": "［夏］雑賀城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 580,
+    "name": "［夏］白帝城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 581,
+    "name": "［夏］エゲル城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 582,
+    "name": "アンジェ城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 583,
+    "name": "クリンタ城",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 584,
+    "name": "［裏］大宰府",
+    "rarity": 7,
+    "terrains": ["hell", "plain"],
+    "location": "sonohoka",
+    "weapon": "sword"
+  },
+  {
+    "id": 585,
+    "name": "［肝試し］前橋城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
+    "id": 586,
+    "name": "［肝試し］伊予松山城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 587,
+    "name": "［肝試し］白河小峰城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 588,
+    "name": "［肝試し］岩殿山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 589,
+    "name": "バルディ城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "scythe"
+  },
+  {
+    "id": 590,
+    "name": "ノッティンガム城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 591,
+    "name": "ブダ城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
+    "id": 592,
+    "name": "高田城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "koushinetsu",
+    "weapon": "spell"
+  },
+  {
+    "id": 593,
+    "name": "基肄城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 594,
+    "name": "ラムリー城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "scythe"
+  },
+  {
+    "id": 595,
+    "name": "千方窟",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "throwing"
+  },
+  {
+    "id": 596,
+    "name": "日出城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 597,
+    "name": "オリュンポス宮殿",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "sonohoka",
+    "weapon": "scythe"
+  },
+  {
+    "id": 598,
+    "name": "メヘラーンガル城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 599,
+    "name": "天神山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 600,
+    "name": "トルツェルツ城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 601,
+    "name": "［ハロウィン］トームペア城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 602,
+    "name": "［ハロウィン］コンシェルジュリー",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 603,
+    "name": "［ハロウィン］クロンボー城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 604,
+    "name": "［ハロウィン］モースハム城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 801,
+    "name": "前田利家",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 802,
+    "name": "黒田長政",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "kyuushuu",
+    "weapon": "cannon"
+  },
+  {
+    "id": 803,
+    "name": "毛利元就",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "chuugoku",
+    "weapon": "bow"
+  },
+  {
+    "id": 804,
+    "name": "シュテファン",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 901,
+    "name": "鹿目まどか",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 902,
+    "name": "暁美ほむら",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 903,
+    "name": "巴マミ",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 904,
+    "name": "佐倉杏子",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 905,
+    "name": "美樹さやか",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 906,
+    "name": "アクア",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 907,
+    "name": "めぐみん",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 908,
+    "name": "ダクネス",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 909,
+    "name": "ウィズ",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 910,
+    "name": "ゆんゆん",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 911,
+    "name": "紅月カレン",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 912,
+    "name": "アーニャ・アールストレイム",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 913,
+    "name": "C.C.",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 914,
+    "name": "牧瀬紅莉栖",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 915,
+    "name": "阿万音鈴羽",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 916,
+    "name": "フェイリス",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  }
+]
