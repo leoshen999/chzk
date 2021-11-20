@@ -1,0 +1,8 @@
+[
+  { "id": "plain", "name": "平", "color": "rgb(0, 153, 75)" },
+  { "id": "hill", "name": "平山", "color": "rgb(102, 153, 0)" },
+  { "id": "mountain", "name": "山", "color": "rgb(153, 75, 0)" },
+  { "id": "water", "name": "水", "color": "rgb(0, 153, 153)" },
+  { "id": "hell", "name": "地獄", "color": "rgb(75, 0, 153)" },
+  { "id": "none", "name": "無", "color": "rgb(75, 75, 75)" }
+]

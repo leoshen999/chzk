@@ -1,0 +1,77 @@
+[
+  { "id": "sword", "name": "刀", "color": "rgb(213, 28, 28)", "type": "melee" },
+  { "id": "spear", "name": "槍", "color": "rgb(210, 91, 12)", "type": "melee" },
+  {
+    "id": "hammer",
+    "name": "槌",
+    "color": "rgb(210, 12, 157)",
+    "type": "melee"
+  },
+  { "id": "shield", "name": "盾", "color": "rgb(28, 81, 5)", "type": "melee" },
+  {
+    "id": "gaunlets",
+    "name": "拳",
+    "color": "rgb(163, 73, 164)",
+    "type": "melee"
+  },
+  { "id": "scythe", "name": "鎌", "color": "rgb(22, 44, 44)", "type": "melee" },
+  { "id": "mace", "name": "棍", "color": "rgb(91, 247, 54)", "type": "melee" },
+  { "id": "bow", "name": "弓", "color": "rgb(38, 86, 208)", "type": "ranged" },
+  {
+    "id": "crossbow",
+    "name": "石",
+    "color": "rgb(48, 43, 178)",
+    "type": "ranged"
+  },
+  { "id": "gun", "name": "鉄", "color": "rgb(12, 156, 148)", "type": "ranged" },
+  {
+    "id": "cannon",
+    "name": "大",
+    "color": "rgb(56, 54, 55)",
+    "type": "ranged"
+  },
+  {
+    "id": "dancing",
+    "name": "歌",
+    "color": "rgb(60, 173, 10)",
+    "type": "ranged"
+  },
+  {
+    "id": "spell",
+    "name": "術",
+    "color": "rgb(11, 140, 194)",
+    "type": "ranged"
+  },
+  { "id": "bell", "name": "鈴", "color": "rgb(89, 12, 148)", "type": "ranged" },
+  {
+    "id": "staff",
+    "name": "杖",
+    "color": "rgb(98, 160, 143)",
+    "type": "ranged"
+  },
+  {
+    "id": "haraegushi",
+    "name": "祓",
+    "color": "rgb(139, 0, 0)",
+    "type": "ranged"
+  },
+  {
+    "id": "book",
+    "name": "本",
+    "color": "rgb(157, 171, 41)",
+    "type": "ranged"
+  },
+  {
+    "id": "throwing",
+    "name": "投",
+    "color": "rgb(247, 166, 60)",
+    "type": "both"
+  },
+  { "id": "whip", "name": "鞭", "color": "rgb(255, 125, 203)", "type": "both" },
+  {
+    "id": "other",
+    "name": "他",
+    "color": "rgb(127, 127, 127)",
+    "type": "other"
+  }
+]
