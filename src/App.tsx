@@ -40,7 +40,14 @@ export default function App() {
     if (targetSorters.length > 0) finalSorterFunc = targetSorters[0].func;
 
     setCharaList(
-      characters.filter((chara) => finalFilterFunc(chara)).sort(finalSorterFunc)
+      characters
+        .map((chara) => {
+          return {
+            ...chara,
+            shows: finalFilterFunc(chara),
+          };
+        })
+        .sort(finalSorterFunc)
     );
   }, [selectedFilters, selectedSorter]);
 
@@ -48,7 +55,7 @@ export default function App() {
     <>
       <MainCharactersView>
         {charaList.map((chara) => (
-          <ShiroCharaItem chara={chara} key={chara.id} />
+          <ShiroCharaItem chara={chara} key={chara.id} shows={chara.shows} />
         ))}
       </MainCharactersView>
       <FilterSorterView
