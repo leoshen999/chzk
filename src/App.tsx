@@ -9,8 +9,7 @@ import FilterSorterView from "./components/FilterSorterView";
 export default function App() {
   const [selectedFilters, setSelectedFilters] = useState<Array<string>>([]);
   const [selectedSorter, setSelectedSorter] = useState<string>("id_asc");
-
-  const [charaList, setCharaList] = useState<Array<any>>([]);
+  const [charaListWithShows, setCharaListWithShows] = useState<Array<any>>([]);
 
   useEffect(() => {
     const groupFuncs = filtersGroups.map((group) => {
@@ -39,23 +38,24 @@ export default function App() {
     );
     if (targetSorters.length > 0) finalSorterFunc = targetSorters[0].func;
 
-    setCharaList(
-      characters
-        .map((chara) => {
-          return {
-            ...chara,
-            shows: finalFilterFunc(chara),
-          };
-        })
-        .sort(finalSorterFunc)
-    );
+    const finalList = characters
+      .map((chara) => ({
+        chara,
+        shows: finalFilterFunc(chara),
+      }))
+      .sort(finalSorterFunc);
+    setCharaListWithShows(finalList);
   }, [selectedFilters, selectedSorter]);
 
   return (
     <>
       <MainCharactersView>
-        {charaList.map((chara) => (
-          <ShiroCharaItem chara={chara} key={chara.id} shows={chara.shows} />
+        {charaListWithShows.map((cws) => (
+          <ShiroCharaItem
+            chara={cws.chara}
+            key={cws.chara.id}
+            shows={cws.shows}
+          />
         ))}
       </MainCharactersView>
       <FilterSorterView
