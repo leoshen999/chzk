@@ -46,7 +46,10 @@ export default function FilterSorterView({
     <>
       <input
         type="button"
-        className={styles.floatingButton}
+        className={clsx(
+          styles.floatingButton,
+          opened && styles.floatingButtonOpened
+        )}
         onClick={handleOpen}
       ></input>
 

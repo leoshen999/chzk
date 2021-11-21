@@ -1,8 +1,8 @@
 [
-  { "id": "plain", "name": "平", "color": "rgb(0, 153, 75)" },
-  { "id": "hill", "name": "平山", "color": "rgb(102, 153, 0)" },
-  { "id": "mountain", "name": "山", "color": "rgb(153, 75, 0)" },
-  { "id": "water", "name": "水", "color": "rgb(0, 153, 153)" },
-  { "id": "hell", "name": "地獄", "color": "rgb(75, 0, 153)" },
-  { "id": "none", "name": "無", "color": "rgb(75, 75, 75)" }
+  { "id": "plain", "name": "平", "color": "#00875f" },
+  { "id": "hill", "name": "平山", "color": "#5f8700" },
+  { "id": "mountain", "name": "山", "color": "#af5f00" },
+  { "id": "water", "name": "水", "color": "#008787" },
+  { "id": "hell", "name": "地獄", "color": "#870087" },
+  { "id": "none", "name": "無", "color": "#808080" }
 ]
