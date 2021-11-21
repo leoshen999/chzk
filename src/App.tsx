@@ -38,12 +38,10 @@ export default function App() {
     );
     if (targetSorters.length > 0) finalSorterFunc = targetSorters[0].func;
 
-    const finalList = characters
-      .map((chara) => ({
-        chara,
-        shows: finalFilterFunc(chara),
-      }))
-      .sort(finalSorterFunc);
+    const finalList = characters.sort(finalSorterFunc).map((chara) => ({
+      chara,
+      shows: finalFilterFunc(chara),
+    }));
     setCharaListWithShows(finalList);
   }, [selectedFilters, selectedSorter]);
 
