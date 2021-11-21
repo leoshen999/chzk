@@ -39,7 +39,7 @@ export default function ShiroCharaItem({ chara }: Props) {
     >
       <img
         className={styles.icon}
-        src={process.env.PUBLIC_URL + "/oshirore_imgs/" + idStr + ".png"}
+        src={process.env.PUBLIC_URL + "/oshirore/" + idStr + ".png"}
         alt={chara.name}
       />
       <div
