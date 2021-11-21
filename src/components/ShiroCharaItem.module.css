@@ -27,7 +27,8 @@
 .icon {
   width: 72px;
   height: 72px;
-  cursor: pointer;
+  object-fit: cover;
+  user-select: none;
 }
 
 .textContainer {
