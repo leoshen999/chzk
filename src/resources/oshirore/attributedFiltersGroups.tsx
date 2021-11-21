@@ -20,7 +20,7 @@ const attributedFiltersGroups = [
     usesSmallButton: true,
     filters: weapons.map((weapon) => ({
       id: weapon.id,
-      img: process.env.PUBLIC_URL + "/weapon_imgs/" + weapon.id + ".png",
+      img: process.env.PUBLIC_URL + "/oshirore/weapon_imgs/" + weapon.id + ".png",
       name: weapon.name,
       color: weapon.color,
       func: (chara: any) => chara.weapon === weapon.id,
