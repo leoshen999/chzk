@@ -51,14 +51,14 @@ const sorters = [
   },
   {
     id: "terrain_asc",
-    name: "属性▲",
+    name: "地形▲",
     color: "#007b43",
     usesSmallButton: true,
     func: createCompareFunc(terrainIndexer, 1),
   },
   {
     id: "terrain_desc",
-    name: "属性▼",
+    name: "地形▼",
     color: "#007b43",
     usesSmallButton: true,
     func: createCompareFunc(terrainIndexer, -1),
