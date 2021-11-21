@@ -1,0 +1,170 @@
+.floatingButton {
+  position: fixed;
+  bottom: 5px;
+  left: 0;
+  box-sizing: border-box;
+  height: 50px;
+  width: 70px;
+  min-height: 50px;
+  min-width: 70px;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #1c1c1c;
+  background-position: center;
+  background-image: url(./filter.svg);
+
+  border-style: solid;
+  border-width: 1px;
+  border-left-width: 0px;
+  border-color: #808080;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  cursor: pointer;
+
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.floatingButton:active {
+  opacity: 1;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .floatingButton:hover {
+    opacity: 1;
+  }
+}
+
+.mask {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  background-color: transparent;
+  transition: background-color 0.2s;
+}
+
+.maskOpened {
+  pointer-events: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.menuContainer {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(100%);
+  max-width: 800px;
+  max-height: 50vh;
+  min-width: 0;
+  min-height: 0;
+  width: 100%;
+  background-color: #1c1c1c;
+  overflow: hidden;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 0px;
+  border-color: #808080;
+  transition: transform 0.2s;
+}
+
+@media screen and (min-width: 801px) {
+  .menuContainer {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+}
+
+.menuContainerOpened {
+  transform: translateX(-50%);
+}
+
+.scrollContainer {
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 100%;
+  max-height: 50vh;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.titleContainer {
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title {
+  font-size: 16px;
+}
+
+.groupTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 28px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.groupView {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.itemContainer {
+  display: inline-flex;
+  box-sizing: border-box;
+  height: 24px;
+  min-width: 40px;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  user-select: none;
+  border-radius: 3px;
+  padding: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  filter: brightness(45%);
+  cursor: pointer;
+}
+
+.itemContainerSmall {
+  width: 35px;
+  padding-left: 0px;
+  padding-right: 0px;
+  overflow: hidden;
+}
+
+.itemContainerSelected {
+  filter: brightness(100%);
+}
+
+.itemImg {
+  align-self: stretch;
+}
+
+.itemTxt {
+}
+
+.resetButton {
+  opacity: 0;
+  margin-left: 10px;
+  color: #1c1c1c;
+  background-color: #c6c6c6;
+}
+
+.resetButtonShown {
+  opacity: 1;
+  pointer-events: auto;
+}
