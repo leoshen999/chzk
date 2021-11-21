@@ -32,7 +32,7 @@ const filtersGroups = [
       .map((r) => ({
         id: "rarity_" + r,
         name: "★ " + r.toString(),
-        color: "#e0815e",
+        color: "#af5f00",
         usesSmallButton: true,
         func: (chara: any) => chara.rarity === r,
       })),

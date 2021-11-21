@@ -1,12 +1,13 @@
 .floatingButton {
   position: fixed;
-  bottom: 5px;
+  bottom: 0px;
   left: 0;
   box-sizing: border-box;
   height: 50px;
   width: 70px;
   min-height: 50px;
   min-width: 70px;
+  cursor: pointer;
 
   background-repeat: no-repeat;
   background-size: contain;
@@ -15,28 +16,32 @@
   background-image: url(./filter.svg);
 
   border-style: solid;
-  border-width: 1px;
-  border-left-width: 0px;
+  border-width: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
   border-color: #808080;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-
-  cursor: pointer;
+  border-top-right-radius: 4px;
 
   opacity: 0.8;
-  transition: opacity 0.2s;
+  transition: opacity 0.2s, transform 0.2s, box-shadow 0.2s;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
 
 .floatingButton:active {
+  box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
   opacity: 1;
 }
 
 @media (hover: hover) and (pointer: fine) {
   .floatingButton:hover {
+    box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
     opacity: 1;
   }
+}
+
+.floatingButtonOpened {
+  transform: translateY(100%);
 }
 
 .mask {
@@ -70,6 +75,7 @@
   box-sizing: border-box;
   border-style: solid;
   border-width: 0px;
+  border-top-width: 1px;
   border-color: #808080;
   transition: transform 0.2s;
 }
@@ -78,6 +84,8 @@
   .menuContainer {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    border-left-width: 1px;
+    border-right-width: 1px;
   }
 }
 
@@ -135,8 +143,9 @@
   padding: 1px;
   padding-left: 5px;
   padding-right: 5px;
-  filter: brightness(45%);
+  filter: brightness(50%);
   cursor: pointer;
+  transition: filter 0.2s, box-shadow 0.2s, opacity 0.2s;
 }
 
 .itemContainerSmall {
@@ -148,6 +157,16 @@
 
 .itemContainerSelected {
   filter: brightness(100%);
+}
+
+.itemContainer:active {
+  box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .itemContainer:hover {
+    box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
+  }
 }
 
 .itemImg {
@@ -162,6 +181,7 @@
   margin-left: 10px;
   color: #1c1c1c;
   background-color: #c6c6c6;
+  pointer-events: none;
 }
 
 .resetButtonShown {
