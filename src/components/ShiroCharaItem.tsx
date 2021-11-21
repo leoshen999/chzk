@@ -21,9 +21,10 @@ interface Props {
     location: string;
     weapon: string;
   };
+  shows: boolean;
 }
 
-export default function ShiroCharaItem({ chara }: Props) {
+export default function ShiroCharaItem({ chara, shows }: Props) {
   let type = "other";
   if (chara.weapon in weaponIdToTypeMapping)
     type = weaponIdToTypeMapping[chara.weapon];
@@ -32,7 +33,7 @@ export default function ShiroCharaItem({ chara }: Props) {
 
   return (
     <a
-      className={styles.container}
+      className={clsx(styles.container, !shows && styles.containerHidden)}
       href={"https://scre.swiki.jp/index.php?" + chara.name}
       target="_blank"
       rel="noreferrer noopener"
