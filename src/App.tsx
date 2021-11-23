@@ -1,19 +1,67 @@
 import { useState, useEffect } from "react";
 import MainCharactersView from "./components/MainCharactersView";
-import ShiroCharaItem from "./components/ShiroCharaItem";
-import characters from "./resources/oshirore/characters.json";
-import filtersGroups from "./resources/oshirore/filtersGroups";
-import sorters from "./resources/oshirore/sorters";
 import FilterSorterView from "./components/FilterSorterView";
 
+const gameList = ["oshirore"];
+
+function getGameFromURL() {
+  const searchParams = new URLSearchParams(document.location.search);
+  const g = searchParams.get("game");
+  if (!g || !gameList.includes(g)) return "";
+  return g;
+}
+
+function renderCharacters(CharaItem: any, charaListWithShows: any) {
+  return (
+    <>
+      {charaListWithShows.map((cws: any) => (
+        <CharaItem chara={cws.chara} key={cws.chara.id} shows={cws.shows} />
+      ))}
+    </>
+  );
+}
+
 export default function App() {
+  const [game, setGame] = useState<string>(getGameFromURL());
+  const [characters, setCharacters] = useState<Array<any>>([]);
+  const [filtersGroups, setFiltersGroups] = useState<Array<any>>([]);
+  const [sorters, setSorters] = useState<Array<any>>([]);
+
   const [selectedFilters, setSelectedFilters] = useState<Array<string>>([]);
-  const [selectedSorter, setSelectedSorter] = useState<string>("id_asc");
+  const [selectedSorter, setSelectedSorter] = useState<string>("");
+  const [CharaItem, setCharaItem] = useState<any>(null);
+
   const [charaListWithShows, setCharaListWithShows] = useState<Array<any>>([]);
 
   useEffect(() => {
+    setCharacters([]);
+    setFiltersGroups([]);
+    setSorters([]);
+    setSelectedFilters([]);
+    setSelectedSorter("");
+    setCharaItem(null);
+    setCharaListWithShows([]);
+
+    (async () => {
+      if (!game) return;
+      const c = (await import("./resources/" + game + "/characters.json"))
+        .default;
+      const f = (await import("./resources/" + game + "/filtersGroups"))
+        .default;
+      const s = (await import("./resources/" + game + "/sorters")).default;
+      const ci = (await import("./components/" + game + "/CharaItem")).default;
+
+      setCharacters(c);
+      setFiltersGroups(f);
+      setSorters(s);
+      setCharaItem(() => ci);
+      setSelectedSorter(s.length > 0 ? s[0].id : "");
+    })();
+  }, [game]);
+
+  useEffect(() => {
     const groupFuncs = filtersGroups.map((group) => {
-      const selected = group.filters.filter((f) =>
+      const selected = group.filters.filter((f: any) =>
         selectedFilters.includes(f.id)
       );
       if (selected.length === 0)
@@ -32,7 +80,12 @@ export default function App() {
       return true;
     };
 
-    let finalSorterFunc = sorters[0].func;
+    let finalSorterFunc =
+      sorters.length > 0
+        ? sorters[0].func
+        : function () {
+            return false;
+          };
     const targetSorters = sorters.filter(
       (sorter) => sorter.id === selectedSorter
     );
@@ -43,18 +96,12 @@ export default function App() {
       shows: finalFilterFunc(chara),
     }));
     setCharaListWithShows(finalList);
-  }, [selectedFilters, selectedSorter]);
+  }, [characters, filtersGroups, sorters, selectedFilters, selectedSorter]);
 
   return (
     <>
       <MainCharactersView>
-        {charaListWithShows.map((cws) => (
-          <ShiroCharaItem
-            chara={cws.chara}
-            key={cws.chara.id}
-            shows={cws.shows}
-          />
-        ))}
+        {CharaItem !== null && renderCharacters(CharaItem, charaListWithShows)}
       </MainCharactersView>
       <FilterSorterView
         filtersGroups={filtersGroups}

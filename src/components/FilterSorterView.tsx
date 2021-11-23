@@ -31,10 +31,10 @@ export default function FilterSorterView({
 
   function handleSelectFilter(id: string) {
     const newFilters = filtersGroups
-      .map((group) => group.filters)
+      .map((group: any) => group.filters)
       .flat()
-      .map((filter) => filter.id)
-      .filter((fid) => {
+      .map((filter: any) => filter.id)
+      .filter((fid: any) => {
         const includes = selectedFilters.includes(fid);
         if (fid !== id) return includes;
         return !includes;
@@ -82,13 +82,13 @@ export default function FilterSorterView({
             </div>
           </div>
 
-          {filtersGroups.map((group) => (
+          {filtersGroups.map((group: any) => (
             <Fragment key={group.id}>
               {group.name && (
                 <div className={styles.groupTitle}>{group.name}</div>
               )}
               <div className={styles.groupView}>
-                {group.filters.map((filter) => (
+                {group.filters.map((filter: any) => (
                   <div
                     key={filter.id}
                     className={clsx(
@@ -118,7 +118,7 @@ export default function FilterSorterView({
           </div>
 
           <div className={styles.groupView}>
-            {sorters.map((sorter) => (
+            {sorters.map((sorter: any) => (
               <div
                 key={sorter.id}
                 className={clsx(
