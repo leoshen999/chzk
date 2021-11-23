@@ -1,7 +1,7 @@
 {
   "background_color": "#1c1c1c",
   "categories": ["entertainment", "games", "utilities"],
-  "description": "色々なソシャゲのキャラクター検索ツールです。絞込や表示順などの設定ご利用いただけます。",
+  "description": "高速なソシャゲキャラ検索ツールです。絞込や表示順などの設定ご利用いただけます。",
   "dir": "ltr",
   "display": "standalone",
   "icons": [
@@ -29,9 +29,9 @@
     }
   ],
   "lang": "jp",
-  "name": "みんなのキャラクター図鑑",
+  "name": "爆速図鑑：ソシャゲキャラ検索",
   "screenshots": [],
-  "short_name": "キャラ図鑑",
+  "short_name": "爆速図鑑",
   "start_url": ".",
   "theme_color": "#1c1c1c",
   "scope": "."
