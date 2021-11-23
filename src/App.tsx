@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
-import MainCharactersView from "./components/MainCharactersView";
-import FilterSorterView from "./components/FilterSorterView";
+import { useRef, useState, useEffect } from "react";
+import LobbyView from "./components/LobbyView";
+import GameView from "./components/GameView";
 
 const gameList = ["oshirore"];
 
@@ -11,102 +11,34 @@ function getGameFromURL() {
   return g;
 }
 
-function renderCharacters(CharaItem: any, charaListWithShows: any) {
-  return (
-    <>
-      {charaListWithShows.map((cws: any) => (
-        <CharaItem chara={cws.chara} key={cws.chara.id} shows={cws.shows} />
-      ))}
-    </>
-  );
-}
-
 export default function App() {
   const [game, setGame] = useState<string>(getGameFromURL());
-  const [characters, setCharacters] = useState<Array<any>>([]);
-  const [filterGroups, setFilterGroups] = useState<Array<any>>([]);
-  const [sorters, setSorters] = useState<Array<any>>([]);
-
-  const [selectedFilters, setSelectedFilters] = useState<Array<string>>([]);
-  const [selectedSorter, setSelectedSorter] = useState<string>("");
-  const [CharaItem, setCharaItem] = useState<any>(null);
-
-  const [charaListWithShows, setCharaListWithShows] = useState<Array<any>>([]);
+  const setGameRef = useRef<(g: string) => void>(() => {});
 
   useEffect(() => {
-    setCharacters([]);
-    setFilterGroups([]);
-    setSorters([]);
-    setSelectedFilters([]);
-    setSelectedSorter("");
-    setCharaItem(null);
-    setCharaListWithShows([]);
-
-    (async () => {
-      if (!game) return;
-      const res = await import("./resources/" + game);
-      const ci = (await import("./components/" + game + "/CharaItem")).default;
-
-      setCharacters(res.characters);
-      setFilterGroups(res.filterGroups);
-      setSorters(res.sorters);
-      setCharaItem(() => ci);
-      setSelectedSorter(res.sorters.length > 0 ? res.sorters[0].id : "");
-    })();
-  }, [game]);
+    setGameRef.current = setGame;
+  }, [setGame]);
 
   useEffect(() => {
-    const groupFuncs = filterGroups.map((group) => {
-      const selected = group.filters.filter((f: any) =>
-        selectedFilters.includes(f.id)
-      );
-      if (selected.length === 0)
-        return function () {
-          return true;
-        };
-      return function (chara: any) {
-        for (var i = 0; i < selected.length; i++)
-          if (selected[i].func(chara)) return true;
-        return false;
-      };
-    });
-    const finalFilterFunc = function (chara: any) {
-      for (var i = 0; i < groupFuncs.length; i++)
-        if (!groupFuncs[i](chara)) return false;
-      return true;
+    const popStateFunc = () => {
+      const g = getGameFromURL();
+      setGameRef.current(g);
     };
 
-    let finalSorterFunc =
-      sorters.length > 0
-        ? sorters[0].func
-        : function () {
-            return false;
-          };
-    const targetSorters = sorters.filter(
-      (sorter) => sorter.id === selectedSorter
-    );
-    if (targetSorters.length > 0) finalSorterFunc = targetSorters[0].func;
+    window.addEventListener("popstate", popStateFunc);
+    return function () {
+      window.removeEventListener("popstate", popStateFunc);
+    };
+  }, []);
 
-    const finalList = characters.sort(finalSorterFunc).map((chara) => ({
-      chara,
-      shows: finalFilterFunc(chara),
-    }));
-    setCharaListWithShows(finalList);
-  }, [characters, filterGroups, sorters, selectedFilters, selectedSorter]);
+  function handleSelectGame(g: string) {
+    if (!gameList.includes(g)) return;
+    window.history.pushState({}, "", "?game=" + g);
+    setGame(g);
+  }
 
-  return (
-    <>
-      <MainCharactersView>
-        {CharaItem !== null && renderCharacters(CharaItem, charaListWithShows)}
-      </MainCharactersView>
-      <FilterSorterView
-        filterGroups={filterGroups}
-        sorters={sorters}
-        selectedFilters={selectedFilters}
-        selectedSorter={selectedSorter}
-        onSelectFilters={setSelectedFilters}
-        onSelectSorter={setSelectedSorter}
-      />
-    </>
-  );
+  if (game === "")
+    return <LobbyView gameList={gameList} onSelectGame={handleSelectGame} />;
+
+  return <GameView game={game} />;
 }

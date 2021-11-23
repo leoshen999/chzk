@@ -1,0 +1,43 @@
+.container {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+.innerContainer {
+  min-height: 100%;
+  width: 100%;
+  display: flex;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgContainer {
+  width: 100%;
+  max-width: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.img {
+  display: block;
+  min-width: 100%;
+  width: 100%;
+  transition: filter 0.2s;
+}
+
+.imgContainer:active .img {
+  filter: brightness(120%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .imgContainer:hover .img {
+    filter: brightness(120%);
+  }
+}
