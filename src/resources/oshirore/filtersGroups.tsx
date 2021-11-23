@@ -17,8 +17,7 @@ const filtersGroups = [
     id: "weapon",
     filters: weapons.map((weapon) => ({
       id: weapon.id,
-      img:
-        process.env.PUBLIC_URL + "/oshirore/weapons/" + weapon.id + ".png",
+      img: process.env.PUBLIC_URL + "/oshirore/weapons/" + weapon.id + ".png",
       name: weapon.name,
       color: weapon.color,
       usesSmallButton: true,
