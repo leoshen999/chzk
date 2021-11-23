@@ -3,14 +3,14 @@ import styles from "./FilterSorterView.module.css";
 import clsx from "clsx";
 
 export default function FilterSorterView({
-  filtersGroups,
+  filterGroups,
   sorters,
   selectedFilters,
   selectedSorter,
   onSelectFilters,
   onSelectSorter,
 }: {
-  filtersGroups: any;
+  filterGroups: any;
   sorters: any;
   selectedFilters: Array<string>;
   selectedSorter: string;
@@ -30,7 +30,7 @@ export default function FilterSorterView({
   }
 
   function handleSelectFilter(id: string) {
-    const newFilters = filtersGroups
+    const newFilters = filterGroups
       .map((group: any) => group.filters)
       .flat()
       .map((filter: any) => filter.id)
@@ -82,7 +82,7 @@ export default function FilterSorterView({
             </div>
           </div>
 
-          {filtersGroups.map((group: any) => (
+          {filterGroups.map((group: any) => (
             <Fragment key={group.id}>
               {group.name && (
                 <div className={styles.groupTitle}>{group.name}</div>
