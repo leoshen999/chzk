@@ -1,5 +1,5 @@
-import filtersGroups from "./filtersGroups";
+import filterGroups from "./filterGroups";
 import sorters from "./sorters";
 import characters from "./characters.json";
 
-export { filtersGroups, sorters, characters };
+export { filterGroups, sorters, characters };

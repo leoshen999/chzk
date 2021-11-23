@@ -2,7 +2,7 @@ import terrains from "./terrains.json";
 import weapons from "./weapons.json";
 import locations from "./locations.json";
 
-const filtersGroups = [
+const filterGroups = [
   {
     id: "terrain",
     filters: terrains.map((terrain) => ({
@@ -48,4 +48,4 @@ const filtersGroups = [
   },
 ];
 
-export default filtersGroups;
+export default filterGroups;

@@ -24,7 +24,7 @@ function renderCharacters(CharaItem: any, charaListWithShows: any) {
 export default function App() {
   const [game, setGame] = useState<string>(getGameFromURL());
   const [characters, setCharacters] = useState<Array<any>>([]);
-  const [filtersGroups, setFiltersGroups] = useState<Array<any>>([]);
+  const [filterGroups, setFilterGroups] = useState<Array<any>>([]);
   const [sorters, setSorters] = useState<Array<any>>([]);
 
   const [selectedFilters, setSelectedFilters] = useState<Array<string>>([]);
@@ -35,7 +35,7 @@ export default function App() {
 
   useEffect(() => {
     setCharacters([]);
-    setFiltersGroups([]);
+    setFilterGroups([]);
     setSorters([]);
     setSelectedFilters([]);
     setSelectedSorter("");
@@ -48,7 +48,7 @@ export default function App() {
       const ci = (await import("./components/" + game + "/CharaItem")).default;
 
       setCharacters(res.characters);
-      setFiltersGroups(res.filtersGroups);
+      setFilterGroups(res.filterGroups);
       setSorters(res.sorters);
       setCharaItem(() => ci);
       setSelectedSorter(res.sorters.length > 0 ? res.sorters[0].id : "");
@@ -56,7 +56,7 @@ export default function App() {
   }, [game]);
 
   useEffect(() => {
-    const groupFuncs = filtersGroups.map((group) => {
+    const groupFuncs = filterGroups.map((group) => {
       const selected = group.filters.filter((f: any) =>
         selectedFilters.includes(f.id)
       );
@@ -92,7 +92,7 @@ export default function App() {
       shows: finalFilterFunc(chara),
     }));
     setCharaListWithShows(finalList);
-  }, [characters, filtersGroups, sorters, selectedFilters, selectedSorter]);
+  }, [characters, filterGroups, sorters, selectedFilters, selectedSorter]);
 
   return (
     <>
@@ -100,7 +100,7 @@ export default function App() {
         {CharaItem !== null && renderCharacters(CharaItem, charaListWithShows)}
       </MainCharactersView>
       <FilterSorterView
-        filtersGroups={filtersGroups}
+        filterGroups={filterGroups}
         sorters={sorters}
         selectedFilters={selectedFilters}
         selectedSorter={selectedSorter}
