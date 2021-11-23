@@ -44,18 +44,14 @@ export default function App() {
 
     (async () => {
       if (!game) return;
-      const c = (await import("./resources/" + game + "/characters.json"))
-        .default;
-      const f = (await import("./resources/" + game + "/filtersGroups"))
-        .default;
-      const s = (await import("./resources/" + game + "/sorters")).default;
+      const res = await import("./resources/" + game);
       const ci = (await import("./components/" + game + "/CharaItem")).default;
 
-      setCharacters(c);
-      setFiltersGroups(f);
-      setSorters(s);
+      setCharacters(res.characters);
+      setFiltersGroups(res.filtersGroups);
+      setSorters(res.sorters);
       setCharaItem(() => ci);
-      setSelectedSorter(s.length > 0 ? s[0].id : "");
+      setSelectedSorter(res.sorters.length > 0 ? res.sorters[0].id : "");
     })();
   }, [game]);
 
