@@ -1,6 +1,6 @@
-import styles from "./ShiroCharaItem.module.css";
+import styles from "./CharaItem.module.css";
 import clsx from "clsx";
-import weapons from "../resources/oshirore/weapons.json";
+import weapons from "../../resources/oshirore/weapons.json";
 
 let weaponIdToTypeMapping: any = {};
 weapons.forEach((wp) => {
@@ -24,7 +24,7 @@ interface Props {
   shows: boolean;
 }
 
-export default function ShiroCharaItem({ chara, shows }: Props) {
+export default function CharaItem({ chara, shows }: Props) {
   let type = "other";
   if (chara.weapon in weaponIdToTypeMapping)
     type = weaponIdToTypeMapping[chara.weapon];
