@@ -58,6 +58,8 @@ const charFileList = [
     firstBoth: "xx",
   },
 ];
+
+// Generate basic characters data.
 let characters = [];
 charFileList.forEach(cfl => {
   const chars = JSON.parse(fs.readFileSync(cfl.file));
@@ -79,6 +81,7 @@ charFileList.forEach(cfl => {
   characters = characters.concat(newChars);
 });
 
+// Sanity check for character names.
 names = {};
 characters.forEach(c => {
   if (c.name in names) console.log("Duplicated: " + c.name);
@@ -87,6 +90,7 @@ characters.forEach(c => {
   if (c.class.includes(" ")) console.log("space detected: " + c.class);
 });
 
+// Inject attributes into characters from properties.
 Object.keys(properties).forEach(prop => {
   const charList = properties[prop];
   const chars = characters.filter(ch => charList.includes(ch.name));
@@ -107,11 +111,70 @@ Object.keys(properties).forEach(prop => {
   }
 });
 
+// Add `human` attr.
+const nonHumanAttrs = [
+  "アンデッド",
+  "ヴァンパイア",
+  "エルフ",
+  "ダークエルフ",
+  "ハーフエルフ",
+  "オーク",
+  "ゴブリン",
+  "デーモン",
+  "ハーフデーモン",
+  "ドワーフ",
+  "獣人",
+  "天使",
+  "竜人",
+  "妖怪",
+  "聖霊",
+  "仙人",
+  "魚人",
+  "鳥人",
+  "天界人",
+  "神",
+];
+const nonHumanNames = [
+  "海魔の麗姫スキュレ",
+  "狼剣の魔姫ピリカ",
+  "暗黒騎士",
+  "エリザベス",
+  "雷の宝具使いリーエン",
+  "降魔の戦姫トコヨ",
+  "リリカ",
+  "魔狼巫女プニル",
+  "自動人形ルイン",
+  "万機の祖たる者アージェ",
+  "万機の祖たる者アージェ(プラチナ)",
+  "魔導を宿す者ラーワル",
+  "魔導を宿す者ラーワル(プラチナ)",
+  "孤独な迷宮守ニミュエ",
+  "メリオダス",
+  "異郷の騎士",
+  "キング",
+  "異郷の妖精",
+  "葵",
+  "異郷の王女",
+  "バン",
+  "異郷の盗賊",
+  "ディアンヌ",
+  "異郷の槌使い",
+  "芙蓉",
+  "アイリス",
+];
+characters.forEach(ch => {
+  if (nonHumanNames.includes(ch.name)) return;
+  if (ch.attributes.filter(attr => nonHumanAttrs.includes(attr)).length > 0) return;
+  ch.attributes.push("人間");
+});
+
+// Add `chibi` attr.
 characters.forEach(ch => {
   if (ch.name.startsWith("ちび"))
     ch.attributes.push("ちび");
 });
 
+// Fetch icon.
 (async function () {
   const len = characters.length;
   for (var i = 0; i < len; i++) {
@@ -127,19 +190,25 @@ characters.forEach(ch => {
   }
 })();
 
-const attributes = [];
+// Separate attributes and seasons for better UX.
+let attributes = [];
 const seasons = [];
-
 let isInSeasons = false;
 Object.keys(properties).forEach(prop => {
   if (prop === "男性") return;
   if (prop === "お正月") isInSeasons = true;
   if (isInSeasons) seasons.push(prop);
   else attributes.push(prop);
-})
+});
 
-attributes.push("ちび");
+// Add missing `human` and `chibi` attr.
+attributes = [
+  "人間",
+  ...attributes,
+  "ちび"
+];
 
+// Export.
 fs.writeFileSync("characters.json", JSON.stringify(characters, null, 2));
 fs.writeFileSync("attributes.json", JSON.stringify(attributes, null, 2));
 fs.writeFileSync("seasons.json", JSON.stringify(seasons, null, 2));
