@@ -6629,7 +6629,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 736
   },
   {
@@ -6638,7 +6638,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 737
   },
   {
@@ -6647,7 +6647,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 738
   },
   {
@@ -6656,7 +6656,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["白の帝国"],
+    "attributes": ["白の帝国", "ちび"],
     "id": 739
   },
   {
@@ -6665,7 +6665,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 740
   },
   {
@@ -6674,7 +6674,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 741
   },
   {
@@ -6683,7 +6683,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 742
   },
   {
@@ -6692,7 +6692,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 743
   },
   {
@@ -6701,7 +6701,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 744
   },
   {
@@ -6710,7 +6710,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 745
   },
   {
@@ -6719,7 +6719,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 746
   },
   {
@@ -6728,7 +6728,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 747
   },
   {
@@ -6737,7 +6737,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 748
   },
   {
@@ -6746,7 +6746,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 749
   },
   {
@@ -6755,7 +6755,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["エルフ"],
+    "attributes": ["エルフ", "ちび"],
     "id": 750
   },
   {
@@ -6764,7 +6764,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 751
   },
   {
@@ -6773,7 +6773,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 752
   },
   {
@@ -6782,7 +6782,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["白の帝国"],
+    "attributes": ["白の帝国", "ちび"],
     "id": 753
   },
   {
@@ -6791,7 +6791,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["ヴァンパイア", "ちび"],
     "id": 754
   },
   {
@@ -6800,7 +6800,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 755
   },
   {
@@ -6809,7 +6809,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["竜人", "白の帝国"],
+    "attributes": ["竜人", "白の帝国", "ちび"],
     "id": 756
   },
   {
@@ -6818,7 +6818,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 757
   },
   {
@@ -6827,7 +6827,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["東の国"],
+    "attributes": ["東の国", "ちび"],
     "id": 758
   },
   {
@@ -6836,7 +6836,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["東の国"],
+    "attributes": ["東の国", "ちび"],
     "id": 759
   },
   {
@@ -6845,7 +6845,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 760
   },
   {
@@ -6854,7 +6854,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 761
   },
   {
@@ -6863,7 +6863,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 762
   },
   {
@@ -6872,7 +6872,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ドワーフ"],
+    "attributes": ["ドワーフ", "ちび"],
     "id": 763
   },
   {
@@ -6881,7 +6881,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 764
   },
   {
@@ -6890,7 +6890,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 765
   },
   {
@@ -6899,7 +6899,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["東の国"],
+    "attributes": ["東の国", "ちび"],
     "id": 766
   },
   {
@@ -6908,7 +6908,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 767
   },
   {
@@ -6917,7 +6917,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 768
   },
   {
@@ -6926,7 +6926,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["天使"],
+    "attributes": ["天使", "ちび"],
     "id": 769
   },
   {
@@ -6935,7 +6935,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["天使"],
+    "attributes": ["天使", "ちび"],
     "id": 770
   },
   {
@@ -6944,7 +6944,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["天使"],
+    "attributes": ["天使", "ちび"],
     "id": 771
   },
   {
@@ -6953,7 +6953,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 772
   },
   {
@@ -6962,7 +6962,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 773
   },
   {
@@ -6971,7 +6971,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["妖怪", "東の国"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 774
   },
   {
@@ -6980,7 +6980,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["妖怪", "白の帝国"],
+    "attributes": ["妖怪", "白の帝国", "ちび"],
     "id": 775
   },
   {
@@ -6989,7 +6989,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 776
   },
   {
@@ -6998,7 +6998,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 777
   },
   {
@@ -7007,7 +7007,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 778
   },
   {
@@ -7016,7 +7016,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 779
   },
   {
@@ -7025,7 +7025,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ドラゴンライダー"],
+    "attributes": ["ドラゴンライダー", "ちび"],
     "id": 780
   },
   {
@@ -7034,7 +7034,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 781
   },
   {
@@ -7043,7 +7043,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["ヴァンパイア", "ちび"],
     "id": 782
   },
   {
@@ -7052,7 +7052,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["白の帝国"],
+    "attributes": ["白の帝国", "ちび"],
     "id": 783
   },
   {
@@ -7061,7 +7061,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 784
   },
   {
@@ -7070,7 +7070,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 785
   },
   {
@@ -7079,7 +7079,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["仙人"],
+    "attributes": ["仙人", "ちび"],
     "id": 786
   },
   {
@@ -7088,7 +7088,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["デーモン", "白の帝国"],
+    "attributes": ["デーモン", "白の帝国", "ちび"],
     "id": 787
   },
   {
@@ -7097,7 +7097,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 788
   },
   {
@@ -7106,7 +7106,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 789
   },
   {
@@ -7115,7 +7115,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["妖怪", "東の国"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 790
   },
   {
@@ -7124,7 +7124,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ドワーフ"],
+    "attributes": ["ドワーフ", "ちび"],
     "id": 791
   },
   {
@@ -7133,7 +7133,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["アンデッド"],
+    "attributes": ["アンデッド", "ちび"],
     "id": 792
   },
   {
@@ -7142,7 +7142,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["アンデッド"],
+    "attributes": ["アンデッド", "ちび"],
     "id": 793
   },
   {
@@ -7151,7 +7151,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["妖怪", "東の国"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 794
   },
   {
@@ -7160,7 +7160,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 795
   },
   {
@@ -7169,7 +7169,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["妖怪", "東の国"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 796
   },
   {
@@ -7178,7 +7178,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 797
   },
   {
@@ -7187,7 +7187,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["仙人"],
+    "attributes": ["仙人", "ちび"],
     "id": 798
   },
   {
@@ -7196,7 +7196,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 799
   },
   {
@@ -7205,7 +7205,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 800
   },
   {
@@ -7646,7 +7646,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["弓兵"],
+    "attributes": ["弓兵", "ちび"],
     "id": 849
   },
   {
@@ -7655,7 +7655,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["弓兵"],
+    "attributes": ["弓兵", "ちび"],
     "id": 850
   },
   {
@@ -7664,7 +7664,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["エルフ", "弓兵"],
+    "attributes": ["エルフ", "弓兵", "ちび"],
     "id": 851
   },
   {
@@ -7673,7 +7673,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 852
   },
   {
@@ -7682,7 +7682,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 853
   },
   {
@@ -7691,7 +7691,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 854
   },
   {
@@ -7700,7 +7700,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 855
   },
   {
@@ -7709,7 +7709,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 856
   },
   {
@@ -7718,7 +7718,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 857
   },
   {
@@ -7727,7 +7727,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 858
   },
   {
@@ -7736,7 +7736,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 859
   },
   {
@@ -7745,7 +7745,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 860
   },
   {
@@ -7754,7 +7754,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["砂漠の国"],
+    "attributes": ["砂漠の国", "ちび"],
     "id": 861
   },
   {
@@ -7763,7 +7763,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 862
   },
   {
@@ -7772,7 +7772,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 863
   },
   {
@@ -7781,7 +7781,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 864
   },
   {
@@ -7790,7 +7790,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["東の国"],
+    "attributes": ["東の国", "ちび"],
     "id": 865
   },
   {
@@ -7799,7 +7799,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 866
   },
   {
@@ -7808,7 +7808,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["白の帝国"],
+    "attributes": ["白の帝国", "ちび"],
     "id": 867
   },
   {
@@ -7817,7 +7817,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 868
   },
   {
@@ -7826,7 +7826,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 869
   },
   {
@@ -7835,7 +7835,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 870
   },
   {
@@ -7844,7 +7844,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 871
   },
   {
@@ -7853,7 +7853,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 872
   },
   {
@@ -7862,7 +7862,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 873
   },
   {
@@ -7871,7 +7871,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 874
   },
   {
@@ -7880,7 +7880,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 875
   },
   {
@@ -7889,7 +7889,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 876
   },
   {
@@ -7898,7 +7898,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 877
   },
   {
@@ -7907,7 +7907,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 878
   },
   {
@@ -7916,7 +7916,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 879
   },
   {
@@ -7925,7 +7925,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["東の国", "魔術師"],
+    "attributes": ["東の国", "魔術師", "ちび"],
     "id": 880
   },
   {
@@ -7934,7 +7934,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魔術師"],
+    "attributes": ["魔術師", "ちび"],
     "id": 881
   },
   {
@@ -7943,7 +7943,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 882
   },
   {
@@ -7952,7 +7952,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["ダークエルフ"],
+    "attributes": ["ダークエルフ", "ちび"],
     "id": 883
   },
   {
@@ -7961,7 +7961,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 884
   },
   {
@@ -7970,7 +7970,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 885
   },
   {
@@ -7979,7 +7979,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["デーモン", "魔術師"],
+    "attributes": ["デーモン", "魔術師", "ちび"],
     "id": 886
   },
   {
@@ -7988,7 +7988,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 887
   },
   {
@@ -7997,7 +7997,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 888
   },
   {
@@ -8006,7 +8006,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ちび"],
     "id": 889
   },
   {
