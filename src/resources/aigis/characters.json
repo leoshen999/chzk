@@ -131,7 +131,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 14
   },
   {
@@ -140,7 +140,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "サマー"],
+    "attributes": ["アンデッド", "ヴァンパイア", "サマー"],
     "id": 15
   },
   {
@@ -149,7 +149,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 16
   },
   {
@@ -158,7 +158,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "ハロウィン"],
+    "attributes": ["アンデッド", "ヴァンパイア", "ハロウィン"],
     "id": 17
   },
   {
@@ -581,7 +581,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 64
   },
   {
@@ -590,7 +590,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "温泉"],
+    "attributes": ["アンデッド", "ヴァンパイア", "温泉"],
     "id": 65
   },
   {
@@ -2498,7 +2498,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 277
   },
   {
@@ -2507,7 +2507,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 278
   },
   {
@@ -2516,7 +2516,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 279
   },
   {
@@ -3371,7 +3371,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 374
   },
   {
@@ -3380,7 +3380,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア"],
+    "attributes": ["アンデッド", "ヴァンパイア"],
     "id": 375
   },
   {
@@ -3389,7 +3389,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "ハロウィン"],
+    "attributes": ["アンデッド", "ヴァンパイア", "ハロウィン"],
     "id": 376
   },
   {
@@ -6791,7 +6791,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "ちび"],
+    "attributes": ["アンデッド", "ヴァンパイア", "ちび"],
     "id": 754
   },
   {
@@ -7043,7 +7043,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ヴァンパイア", "ちび"],
+    "attributes": ["アンデッド", "ヴァンパイア", "ちび"],
     "id": 782
   },
   {
