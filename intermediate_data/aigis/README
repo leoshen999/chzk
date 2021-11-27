@@ -1,0 +1,5 @@
+1. crawl characters data from wiki page
+2. crawl properties from web_crawler/tmp.html
+3. manually fix bad entries to generate correct properties and characters.
+4. gen.js to create characters.json, attributes.json, seasons.json and download
+   img res.
