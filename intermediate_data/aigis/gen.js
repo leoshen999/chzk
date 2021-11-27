@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 var request = require("request");
 
 function sleep(ms) {
@@ -7,7 +7,7 @@ function sleep(ms) {
   });
 }
 
-const properties = JSON.parse(fs.readFileSync('./properties.json'));
+const properties = JSON.parse(fs.readFileSync("./properties.json"));
 const charFileList = [
   {
     file: "./black.json",
@@ -61,11 +61,12 @@ const charFileList = [
 
 // Generate basic characters data.
 let characters = [];
-charFileList.forEach(cfl => {
+charFileList.forEach((cfl) => {
   const chars = JSON.parse(fs.readFileSync(cfl.file));
   let currentType = "melee";
-  const defaultGender = (cfl.rarity === "bronze" || cfl.rarity === "iron") ? "male": "female";
-  const newChars = chars.map(ch => {
+  const defaultGender =
+    cfl.rarity === "bronze" || cfl.rarity === "iron" ? "male" : "female";
+  const newChars = chars.map((ch) => {
     if (currentType === "melee" && ch.name === cfl.firstRange)
       currentType = "ranged";
     if (currentType === "ranged" && ch.name === cfl.firstBoth)
@@ -77,13 +78,13 @@ charFileList.forEach(cfl => {
       gender: defaultGender,
       attributes: [],
     };
-  })
+  });
   characters = characters.concat(newChars);
 });
 
 // Sanity check for character names.
 names = {};
-characters.forEach(c => {
+characters.forEach((c) => {
   if (c.name in names) console.log("Duplicated: " + c.name);
   names[c.name] = true;
   if (c.name.includes(" ")) console.log("space detected: " + c.name);
@@ -91,21 +92,21 @@ characters.forEach(c => {
 });
 
 // Inject attributes into characters from properties.
-Object.keys(properties).forEach(prop => {
+Object.keys(properties).forEach((prop) => {
   const charList = properties[prop];
-  const chars = characters.filter(ch => charList.includes(ch.name));
+  const chars = characters.filter((ch) => charList.includes(ch.name));
   if (charList.length !== chars.length) {
     console.log("Bad matching: " + prop);
     console.log("  " + charList.length + " vs " + chars.length);
     console.log(charList.sort());
-    console.log(chars.map(ch=>ch.name).sort());
+    console.log(chars.map((ch) => ch.name).sort());
   }
   if (prop === "男性") {
-    chars.forEach(ch => {
+    chars.forEach((ch) => {
       ch.gender = "male";
     });
   } else {
-    chars.forEach(ch => {
+    chars.forEach((ch) => {
       ch.attributes.push(prop);
     });
   }
@@ -162,16 +163,16 @@ const nonHumanNames = [
   "芙蓉",
   "アイリス",
 ];
-characters.forEach(ch => {
+characters.forEach((ch) => {
   if (nonHumanNames.includes(ch.name)) return;
-  if (ch.attributes.filter(attr => nonHumanAttrs.includes(attr)).length > 0) return;
+  if (ch.attributes.filter((attr) => nonHumanAttrs.includes(attr)).length > 0)
+    return;
   ch.attributes.push("人間");
 });
 
 // Add `chibi` attr.
-characters.forEach(ch => {
-  if (ch.name.startsWith("ちび"))
-    ch.attributes.push("ちび");
+characters.forEach((ch) => {
+  if (ch.name.startsWith("ちび")) ch.attributes.push("ちび");
 });
 
 // Fetch icon.
@@ -194,7 +195,7 @@ characters.forEach(ch => {
 let attributes = [];
 const seasons = [];
 let isInSeasons = false;
-Object.keys(properties).forEach(prop => {
+Object.keys(properties).forEach((prop) => {
   if (prop === "男性") return;
   if (prop === "お正月") isInSeasons = true;
   if (isInSeasons) seasons.push(prop);
@@ -202,11 +203,7 @@ Object.keys(properties).forEach(prop => {
 });
 
 // Add missing `human` and `chibi` attr.
-attributes = [
-  "人間",
-  ...attributes,
-  "ちび"
-];
+attributes = ["人間", ...attributes, "ちび"];
 
 // Export.
 fs.writeFileSync("characters.json", JSON.stringify(characters, null, 2));
