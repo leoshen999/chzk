@@ -3685,7 +3685,7 @@
     "class": "天狗",
     "rarity": "platinum",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["妖怪", "東の国", "学園"],
     "id": 409
   },
@@ -4180,8 +4180,8 @@
     "class": "魔竜騎士",
     "rarity": "platinum",
     "type": "melee",
-    "gender": "female",
-    "attributes": [],
+    "gender": "male",
+    "attributes": ["ドラゴンライダー", "英傑"],
     "id": 464
   },
   {
@@ -4190,7 +4190,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["英傑"],
     "id": 465
   },
   {
@@ -4199,7 +4199,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["機械", "英傑"],
     "id": 466
   },
   {
@@ -4208,7 +4208,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["神", "英傑"],
     "id": 467
   },
   {
@@ -4217,7 +4217,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["天界人", "英傑"],
     "id": 468
   },
   {
@@ -4226,7 +4226,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["魔術師", "英傑"],
     "id": 469
   },
   {
@@ -5774,7 +5774,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["英傑"],
     "id": 641
   },
   {
@@ -5783,7 +5783,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["ダークエルフ", "弓兵", "英傑"],
     "id": 642
   },
   {
@@ -5792,7 +5792,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["英傑"],
     "id": 643
   },
   {
@@ -5801,7 +5801,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["魔術師", "英傑"],
     "id": 644
   },
   {
@@ -5810,7 +5810,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": [],
+    "attributes": ["砂漠の国", "英傑"],
     "id": 645
   },
   {
@@ -8635,7 +8635,7 @@
     "class": "ソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 959
   },
@@ -8644,7 +8644,7 @@
     "class": "ソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 960
   },
@@ -8653,7 +8653,7 @@
     "class": "ソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["エルフ"],
     "id": 961
   },
@@ -8662,7 +8662,7 @@
     "class": "ソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["砂漠の国"],
     "id": 962
   },
@@ -8671,7 +8671,7 @@
     "class": "ソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["白の帝国"],
     "id": 963
   },
@@ -8680,7 +8680,7 @@
     "class": "下級ヘビーアーマー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 964
   },
@@ -8689,7 +8689,7 @@
     "class": "下級バンデット",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 965
   },
@@ -8698,7 +8698,7 @@
     "class": "下級竜兵",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["竜人"],
     "id": 966
   },
@@ -8707,7 +8707,7 @@
     "class": "下級サムライ",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["東の国"],
     "id": 967
   },
@@ -8716,7 +8716,7 @@
     "class": "下級忍者",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["東の国"],
     "id": 968
   },
@@ -8725,7 +8725,7 @@
     "class": "下級シーソルジャー",
     "rarity": "bronze",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["魚人"],
     "id": 969
   },
@@ -8734,7 +8734,7 @@
     "class": "アーチャー",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 970
   },
@@ -8743,7 +8743,7 @@
     "class": "アーチャー",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 971
   },
@@ -8752,7 +8752,7 @@
     "class": "下級アーチャー",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 972
   },
@@ -8761,7 +8761,7 @@
     "class": "下級メイジ",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["魔術師"],
     "id": 973
   },
@@ -8770,7 +8770,7 @@
     "class": "下級メイジ",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["魔術師"],
     "id": 974
   },
@@ -8779,7 +8779,7 @@
     "class": "下級メイジ",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["ダークエルフ", "魔術師"],
     "id": 975
   },
@@ -8788,7 +8788,7 @@
     "class": "下級パイレーツ",
     "rarity": "bronze",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 976
   },
@@ -8797,7 +8797,7 @@
     "class": "下級スカイウォリアー",
     "rarity": "bronze",
     "type": "both",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["鳥人"],
     "id": 977
   },
@@ -8806,7 +8806,7 @@
     "class": "下級スカイシューター",
     "rarity": "bronze",
     "type": "both",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵", "鳥人"],
     "id": 978
   },
@@ -8815,7 +8815,7 @@
     "class": "下級ソルジャー",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 979
   },
@@ -8824,7 +8824,7 @@
     "class": "下級ソルジャー",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 980
   },
@@ -8833,7 +8833,7 @@
     "class": "下級ソルジャー",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["砂漠の国"],
     "id": 981
   },
@@ -8842,7 +8842,7 @@
     "class": "下級ヘビーアーマー",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 982
   },
@@ -8851,7 +8851,7 @@
     "class": "下級ヘビーアーマー",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 983
   },
@@ -8860,7 +8860,7 @@
     "class": "下級バンデット",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 984
   },
@@ -8869,7 +8869,7 @@
     "class": "下級バンデット",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 985
   },
@@ -8878,7 +8878,7 @@
     "class": "下級サムライ",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["東の国"],
     "id": 986
   },
@@ -8887,7 +8887,7 @@
     "class": "下級忍者",
     "rarity": "iron",
     "type": "melee",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["東の国"],
     "id": 987
   },
@@ -8896,7 +8896,7 @@
     "class": "下級アーチャー",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 988
   },
@@ -8905,7 +8905,7 @@
     "class": "下級アーチャー",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 989
   },
@@ -8914,7 +8914,7 @@
     "class": "下級アーチャー",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["弓兵"],
     "id": 990
   },
@@ -8923,7 +8923,7 @@
     "class": "下級メイジ",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["魔術師"],
     "id": 991
   },
@@ -8932,7 +8932,7 @@
     "class": "下級メイジ",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": ["魔術師"],
     "id": 992
   },
@@ -8941,7 +8941,7 @@
     "class": "下級パイレーツ",
     "rarity": "iron",
     "type": "ranged",
-    "gender": "female",
+    "gender": "male",
     "attributes": [],
     "id": 993
   }
