@@ -2,7 +2,7 @@ import { useRef, useState, useEffect } from "react";
 import LobbyView from "./components/LobbyView";
 import GameView from "./components/GameView";
 
-const gameList = ["oshirore"];
+const gameList = ["aigis", "oshirore"];
 
 function getGameFromURL() {
   const searchParams = new URLSearchParams(document.location.search);

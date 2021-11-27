@@ -1,0 +1,76 @@
+.container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 72px;
+  border-style: solid;
+  border-color: #808080;
+  border-width: 1px;
+  border-radius: 4px;
+  margin: 3px;
+  overflow: hidden;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: box-shadow 0.2s;
+}
+
+.container:active {
+  box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .container:hover {
+    box-shadow: 0px 0px 10px 2px rgba(128, 128, 128, 0.7);
+  }
+}
+
+.containerHidden {
+  display: none;
+}
+
+.icon {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  user-select: none;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 2px;
+  box-sizing: border-box;
+  transition: text-shadow 0.2s, color 0.2s;
+  text-decoration: none;
+  color: #c6c6c6;
+}
+
+.container:active .textContainer {
+  color: #d0d0d0;
+  text-shadow: 0px 0px 1px rgba(208, 208, 208, 0.7);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .container:hover .textContainer {
+    color: #d0d0d0;
+    text-shadow: 0px 0px 1px rgba(208, 208, 208, 0.7);
+  }
+}
+
+.textContainerMelee {
+  background-color: #5f0000;
+}
+
+.textContainerRanged {
+  background-color: #875f00;
+}
+
+.textContainerBoth {
+  background-color: #00005f;
+}
+
+.name {
+  text-align: center;
+}
