@@ -1,0 +1,857 @@
+[
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F86611f4d28cc2498de90bb674b5d8ff6.png",
+        "name": "神速の射手バシラ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7892eb20508c5a76921a31eae0120a73.png",
+        "name": "魔狩人ヴィクトリア",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffaa0fd586afd86d7eb1ba89bbf4ea930.png",
+        "name": "妖精郷の射手スピカ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4b09bfe53bc8e4828c15124c76f553d4.png",
+        "name": "漆黒の射手リタ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F691247fa0cbac45e5db4f1f12c5c27d7.png",
+        "name": "冒険者オスカー",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2094aa5e94334125ccd6157f8fb54ea0.png",
+        "name": "神の射手ファランギース",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F16b948e9821bab94f48305b8e84ca02f.png",
+        "name": "遠国の弓兵",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F14afc1b1f319e0692f1693e17a6db7c3.png",
+        "name": "獣耳の射手キャロップ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F178d5e3f67ea8b6c7c8956d455c831f0.png",
+        "name": "陽影の弓射手リタ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F553d1690c247e39f20961167f764fdf5.png",
+        "name": "弓兵の湯浴みソーマ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F01bd356898c8594102dd95b1c6ecdd95.png",
+        "name": "晩夏の狩人ベラ",
+        "class": "アーチャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fea29e206f166eca5e0f8092b2c4884e1.png",
+        "name": "神秘の探究者ガラニア",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F20668cf5dbb2a84c5f18f85650157131.png",
+        "name": "幻惑の魔術師サーシャ",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6ff7703ffa2b64e02de022e268511ad4.png",
+        "name": "モルディベート",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5897f85caabe61dfc01247ef0b49482f.png",
+        "name": "秘法の伝承者オデット",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6b99d3e9ed4d4fdc0ed1dcb5fd8a3dab.png",
+        "name": "魔学の研修生メーリス",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7e3913f430325dceb668d3f22cb854bf.png",
+        "name": "お菓子魔術師キャンディ",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff9bfbddd569026ab38f395811b2055f2.png",
+        "name": "紅の魔術師フローガ",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F01eb78bc191a5e169793bb3e19215963.png",
+        "name": "帝国魔術師イルマ",
+        "class": "メイジ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe658e1d6f76bcc2163e087d7cabc0fab.png",
+        "name": "癒し手カミラ",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc76df484879a5e655e61e23987e4bb65.png",
+        "name": "妖精女王シーディス",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0daed5214c937a087ac0b7abdaee3cb7.png",
+        "name": "慈愛の祈りサーリア",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0db1033b61ea30074e1cfb361d7dde41.png",
+        "name": "背反の癒し手ユーノ",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb6eb9394e556d18536da0c8cb50b1fb1.png",
+        "name": "帝国治癒士エリアス",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F1977b296a1e4b7cea63d96b10adcae81.png",
+        "name": "聖祭の癒し手カミラ",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F135ee503e685927d3dc3792fe9a6ca30.png",
+        "name": "夏風の治癒士エリアス",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc8894b133915e4ef80da2fced5a47305.png",
+        "name": "癒しの涼波イーリス",
+        "class": "ヒーラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F669d206ac00ed49c47cb81e6ebf7fc96.png",
+        "name": "魔女フィグネリア",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F25dae1984d7c75ebbdce6fe38df6ecc5.png",
+        "name": "魔女アデル",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F1b063c94cf43c957afcb76c53e500901.png",
+        "name": "白き魔女ベリンダ",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc8ef926e3c781cd3d98efb76586b53ca.png",
+        "name": "凍氷の守り手エリザ",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb6b2f1183d1bbe5e0e859579bdfdd783.png",
+        "name": "幻光の魔女プリム",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F292519bbb31e059045c0979c7c8172fd.png",
+        "name": "甘菓子の魔女リュリュ",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffbe7a1a332339dc4e96fde9c3ab8baa7.png",
+        "name": "森の魔女ユーティ",
+        "class": "ウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc278122f8a8845dd9f23c3e848a71cc5.png",
+        "name": "海賊レイチェル",
+        "class": "パイレーツ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Faeda488413b5f6ac256d9de0188d7742.png",
+        "name": "紅の海賊ベアトリカ",
+        "class": "パイレーツ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0d4d0a4cf8f66a35ebc5f1b7481f6b63.png",
+        "name": "姫海賊アネリア",
+        "class": "パイレーツ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0b1af87889ea34dec0dbe3492db7669c.png",
+        "name": "私掠船長サブリナ",
+        "class": "パイレーツ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F27789268692a0ab6530a14025d84a00e.png",
+        "name": "竜巫女エキドナ",
+        "class": "ドラゴンシャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fab5323e7d75e9d8f2c8eef67129de7ea.png",
+        "name": "竜巫女ルビナス",
+        "class": "ドラゴンシャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffe898d6944ec6bd8e7fbc73db0a2d714.png",
+        "name": "易占竜ペドラ",
+        "class": "ドラゴンシャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9301c026a96416b4173835a0d58aba59.png",
+        "name": "賞金稼ぎエリザベート",
+        "class": "ヴァンパイアハンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fecd2457c558852d497898c390a3b406c.png",
+        "name": "混血の狩人フラン",
+        "class": "ヴァンパイアハンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffa86abcc288ae7f0d39d8f6174619dbd.png",
+        "name": "聖なる復讐者ルマリア",
+        "class": "ヴァンパイアハンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FBThYVYo.png",
+        "name": "凶鳥の射手ヒューナ",
+        "class": "ヴァンパイアハンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F48f39ac943ed54985fb19d863830591c.png",
+        "name": "巫女シホ",
+        "class": "シャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe8bb0d922a750153e574066f24d1b109.png",
+        "name": "巫女カグラ",
+        "class": "シャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F09b96c26e783a87eea6d9016d2ff6b0d.png",
+        "name": "妖精司教マリウス",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2d8ee5004e32549d23646ef42b710a4a.png",
+        "name": "太陽神官パトラ",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F3c441a1f30a08acaaec8388dd51fb9cd.png",
+        "name": "旅の司祭ポーラ",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fdfb3db53e8a638e394892913a34a853d.png",
+        "name": "聖職者セレイナ",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6e1b5e799c36695ed0cf3a13fe3b1d57.png",
+        "name": "神殿書記官レーヴ",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F48276bcdc81628d4e0bc8cf80e3797b1.png",
+        "name": "常夏の兎司祭ポーラ",
+        "class": "ビショップ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe84beb432823d1bb67ab3718af2908b4.png",
+        "name": "天の軍師レン",
+        "class": "後衛戦術家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd728d9f3447c5ccea9018b66704f9248.png",
+        "name": "帝国軍師レオナ",
+        "class": "後衛戦術家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F93320c70d5e38c239ff3c0126416c149.png",
+        "name": "疾風の軍師シナト",
+        "class": "後衛戦術家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fffb50b9ee330a5ba0817867a5a8de5b5.png",
+        "name": "オークの軍師イリオス",
+        "class": "後衛戦術家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FiQPKQ6k.png",
+        "name": "軍師の息抜きレオナ",
+        "class": "後衛戦術家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F91e27029f16dcf6ef8c7b6df36ff9d60.png",
+        "name": "陰陽師コヨミ",
+        "class": "陰陽師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F559290fdbeba773cbfd6ff2ffb9f953f.png",
+        "name": "陰陽師タマミ",
+        "class": "陰陽師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc638d2e6bab36dc0a44618b968e9a1fc.png",
+        "name": "召喚士ソラノ",
+        "class": "サモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc2a603283190e962079d5c1259e65361.png",
+        "name": "恋する召喚士リノ",
+        "class": "サモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F92f6f414a8f97530eb9fd9ef7cc1bda8.png",
+        "name": "召喚士アクアマリー",
+        "class": "サモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F67e89c2ed5bcb52fb3323e5d8e036b50.png",
+        "name": "炎のサンタ召喚士ソラノ",
+        "class": "サモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F3c4deee1aa3e0ea0e7f8eece0b25225b.png",
+        "name": "風水士マール",
+        "class": "風水使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5eb1817eb4dcdcd49430b749dd57c478.png",
+        "name": "花鏡の風水士ミア",
+        "class": "風水使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe3509ae75311c5a044d862968fcf0607.png",
+        "name": "風水士ピピン",
+        "class": "風水使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FsPPnbBv.png",
+        "name": "風詠みの少女メイファ",
+        "class": "風水使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F11ed9a0d48a6e6c30205af3bafa16cdc.png",
+        "name": "閃の撃砲ジャンナ",
+        "class": "砲術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9e7262e3a991e2f7213e9dac5a859dc1.png",
+        "name": "爆砲の新兵カノン",
+        "class": "砲術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F464e0e4f9a672778bf01c1c15ef2a3ac.png",
+        "name": "聖夜の祝星砲カノン",
+        "class": "砲術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F73ec336ab75e80e20370c0874399d772.png",
+        "name": "砲術教官エイプリル",
+        "class": "砲術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2f981dd419fa5af9df2e4752cc401066.png",
+        "name": "大砲組頭スミレ",
+        "class": "砲術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff37507c5a5bb1b5a4f584ffffa5cfbad.png",
+        "name": "踊り子マーニー",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe963a6bc87c4dbdf49bb424ece82d95d.png",
+        "name": "情熱の踊り子ワルツ",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe60d943f14a7ff9119c278b24c2079a2.png",
+        "name": "祝祭の踊り子ハナ",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F553ac84942f771e112e54ddb69baa803.png",
+        "name": "異邦の踊り子ビビアン",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa4ef0bf2ba10cf25751f2999ac52b14b.png",
+        "name": "甘美な踊り子マーニー",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FEpsxexD.png",
+        "name": "真夏の公演ナターリエ",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0b2c2820cc67ef3e1d4148a8a6debb2b.png",
+        "name": "聖夜の踊り子ブレリア",
+        "class": "ダンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4afc6b60083f62fb3f41562b0841fab7.png",
+        "name": "死霊魔術師メメント",
+        "class": "ネクロマンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa80f254b236da8ddb19841e42a70a6fc.png",
+        "name": "死霊魔術師アニエス",
+        "class": "ネクロマンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6e4871f52eddd0bc66070f031e1cfe6b.png",
+        "name": "菓子祭の魔術師メメント",
+        "class": "ネクロマンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F66a25c35710e5ed3a98625cb3086e811.png",
+        "name": "時の魔女ココロ",
+        "class": "クロノウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7ce9287d5cc2610c32ab362bf4564e7d.png",
+        "name": "時の魔女アーリー",
+        "class": "クロノウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F19cb8db5b62a6aeb5eb86bcf8c22440c.png",
+        "name": "お祭り夕涼みココロ",
+        "class": "クロノウィッチ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fba6f276cb949a75b755f20aa2d99a050.png",
+        "name": "巫女姫ププル",
+        "class": "ドルイド"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2c31a0373e9cf7821f1ca313ae84b75e.png",
+        "name": "大自然の乙女メープル",
+        "class": "ドルイド"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F135693c64fd35577d59362abae4466c9.png",
+        "name": "眠りの森巫女メリーファ",
+        "class": "ドルイド"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9251afd5fa23325ed77a50712eac20c1.png",
+        "name": "白衣の錬金術士コリン",
+        "class": "アルケミスト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa1161361b10138a223d316600d63f1eb.png",
+        "name": "神秘の術士シャルル",
+        "class": "アルケミスト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F75fbffb7c5b54edef8005c0f53ff9e52.png",
+        "name": "帝国錬金術士ヘルミーネ",
+        "class": "アルケミスト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5311482dab7bcaf875c2b3dba7a448c6.png",
+        "name": "錬金講師レーレン",
+        "class": "アルケミスト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe83021d462ef08b9958839e504ff428c.png",
+        "name": "聖森の番人リコラ",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe07bcb61e841860fd8f990b68e7deef4.png",
+        "name": "神森の守護妖精スプラ",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F60aafaa7acef487bad05335676e428df.png",
+        "name": "闇の森の番人アイーダ",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F55d52c456bc431874899f3ab61e468c8.png",
+        "name": "帝国遊撃兵ローザ",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F14ea1ec22f499850c8b880c987a19001.png",
+        "name": "魔界森の番人リナリア",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FoGLh6aO.png",
+        "name": "真夏のいざないローザ",
+        "class": "レンジャー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc220849fb457b27687e7490522ba3a31.png",
+        "name": "閃光の泥棒アニータ",
+        "class": "シーフ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F62e02cea9498d75a85e7320756db397b.png",
+        "name": "呪術師エヴァ",
+        "class": "呪術使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc5194c5559017fca4cce8eb27d45ac36.png",
+        "name": "忘我の呪術師レヴィ",
+        "class": "呪術使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5b87d6c700b01d26f6d57aadf130e67a.png",
+        "name": "呪術師カタラ",
+        "class": "呪術使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffa586e2124ae4b5efbb661f10aaeddf0.png",
+        "name": "魔物使いブランシュ",
+        "class": "魔物使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F25dac4580fec7c9fe177108cebff9ceb.png",
+        "name": "兎耳の魔物使いシュシュ",
+        "class": "魔物使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff7b56426e854d7fe4ee63385c868bcf3.png",
+        "name": "湯上り魔物使いシュシュ",
+        "class": "魔物使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F28cd1b3fc62c367e78a5c278ed2d0fdf.png",
+        "name": "闇司祭ベルディナート",
+        "class": "ダークプリースト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa2d9b83c62dc127e1ae18a2bc79e565c.png",
+        "name": "闇の大司教ベルゼッタ",
+        "class": "ダークプリースト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F3d66ee8bad5f6ac912bcb8afb1b708ab.png",
+        "name": "闇司祭プシュケ",
+        "class": "ダークプリースト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F898fb2374704a164ee34c0b07f158539.png",
+        "name": "付与魔術師エルシャ",
+        "class": "エンチャンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffc21d697ad2966e53e72d9a096afcf9f.png",
+        "name": "付与魔術師メレディス",
+        "class": "エンチャンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F8ff22ac63fe11b34d2290081e8a2e364.png",
+        "name": "付与魔術師ハーニィ",
+        "class": "エンチャンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0424fc6076e0d8d96090719d9f554dd6.png",
+        "name": "行商人トトノ",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff8d71e42b63f82bbbbfc75cd23dd986c.png",
+        "name": "武器商人エイミー",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F06e55bbbfb212436e79e6dc089a456ee.png",
+        "name": "帝国商人ターニャ",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa13eb1ee4e45e4c659e3d3962b7fc935.png",
+        "name": "迎春の祝商人トトノ",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F896e08810dff5117ab5c34119d6a49a2.png",
+        "name": "ねこみみ商人ミネット",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa804347e585245d0b7434777c1608927.png",
+        "name": "ねこみみ購買部ミネット",
+        "class": "マーチャント"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5595a22e5ca4dd4b073114d009a1f83b.png",
+        "name": "悪魔ハンタードルチェ",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F52514bdabd7541959b48d811ab3c6be5.png",
+        "name": "帝国猟兵レーゼル",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0224092abb162372ffbad24e22583713.png",
+        "name": "帝国狙撃兵ラルフ",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F08a7f156149decb76cefa41b6bbe6d52.png",
+        "name": "討妖の狙撃手アオバ",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7ce65df5def6185f01e4c137bb143632.png",
+        "name": "帝国狙撃兵ヒルデ",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc55a7977c083facdd2f658e5efcd72f4.png",
+        "name": "滅蟲の狙撃手エイル",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fee8f5524d348addfc4102bfe7258fbda.png",
+        "name": "火遊びハンタードルチェ",
+        "class": "モンスタースレイヤー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffaf8d566aaff56fbb95b97e308ac7d76.png",
+        "name": "悪魔召喚士リヴル",
+        "class": "デモンサモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fad7605899f0f09c34bd727a36207ac87.png",
+        "name": "悪魔召喚士ヴェルティ",
+        "class": "デモンサモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9a7413df90ca53b07a5f5fa96c928a76.png",
+        "name": "迷子の悪魔召喚士アイラ",
+        "class": "デモンサモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F80f64022f3caa2f02279c4a5e400d0bd.png",
+        "name": "秋祭の召喚士リヴル",
+        "class": "デモンサモナー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F329863d26d9afb3057af8a9b17acc1ea.png",
+        "name": "火霊使いロレッタ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa3d7a2947307f41826f2b71938763953.png",
+        "name": "土霊使いシャオメイ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb28b5054f6e0067894230ec1d9dc26cf.png",
+        "name": "闇霊使いクラリーチェ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F99f70788b07c3df5d6cf32bfdfb5bc26.png",
+        "name": "水霊使いセノーテ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff0fcef52e08fccdf6089a06510118277.png",
+        "name": "氷霊使いユキヒメ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb85f0a8c3a23b0c47846106a45de6ffd.png",
+        "name": "雷霊使いジルヴァ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F41d9f62e65c9a649e604264f6671e78f.png",
+        "name": "氷霊応援団ユキヒメ",
+        "class": "エレメンタラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fcebe30f66848d635e87bf4a6ce029f2c.png",
+        "name": "帝国道化師モトリー",
+        "class": "道化師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fcfaf1a7bf6677186c05867c9fe6ba310.png",
+        "name": "白兎の道化師リェプル",
+        "class": "道化師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fdb4d54923ca1f176c343128ab22149a1.png",
+        "name": "道化師ワンダーハート",
+        "class": "道化師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6af011b0920e440d2bcf21ebbc3bce76.png",
+        "name": "千両かぶき姫 紅牡丹",
+        "class": "道化師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5022a8f31e4897a557bbffc9aaddcd28.png",
+        "name": "不敗の賭博師ラトゥール",
+        "class": "道化師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fda5fd38ec65dbfb0e042f8aadaa61915.png",
+        "name": "命鎖使いルメディ",
+        "class": "ライフリンカー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F8f13142653d64ace9af877e08d99c88b.png",
+        "name": "絆鎖の救命師シアーシャ",
+        "class": "ライフリンカー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F58f7760a3ce1355e386f4c09ff7a03f9.png",
+        "name": "幻獣使いホリー",
+        "class": "幻獣使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7e35edee040e42f905d0217b060f5e49.png",
+        "name": "幻獣使いカリン",
+        "class": "幻獣使い"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff2c87a7aba19e38d1eb610eba1aba6b6.png",
+        "name": "智慧の信徒ソニア",
+        "class": "ルーンアコライト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0f80682aade614a780d3c7d5c3f17447.png",
+        "name": "聖魔の信徒シャイーナ",
+        "class": "ルーンアコライト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fdb0d966b1b89f4bd39b581b4bfe06564.png",
+        "name": "業火の信徒エリス",
+        "class": "ルーンアコライト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F18c838fec671a4bb7f132f1c57568004.png",
+        "name": "帝国防塞工兵パトリシア",
+        "class": "支援工兵"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb6632d48ac4e271950e637636a2fa8ae.png",
+        "name": "魔神の共鳴者レライエ",
+        "class": "デモンシャーマン"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F053b8696d03e9c71b7f59e23f540557c.png",
+        "name": "奇想の発明家タバサ",
+        "class": "発明家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F153819e5053b037d2e80be4ee0412803.png",
+        "name": "帝国発明家ヘンドリカ",
+        "class": "発明家"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F88641722f39b4f10d55ef94c8e5c3183.png",
+        "name": "帝国幻術士マルティナ",
+        "class": "幻術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5ac23e7df8ff214922ce939a7c0a8ca9.png",
+        "name": "向日葵の幻リュティエ",
+        "class": "幻術士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd3fa6de9cbf061eacbb69546ecf560c2.png",
+        "name": "王宮薬草師ローズ",
+        "class": "ハーバリスト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4f40ddcf910b43c442212398489f3cbe.png",
+        "name": "知識の求道者アナベラ",
+        "class": "スカラー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7a92184f6f6e9bb6cf9d23eb08da21ba.png",
+        "name": "分福茶釜付喪神シュカ",
+        "class": "霊宝つくもがみ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0892a00604fa62627274412728cb7f7a.png",
+        "name": "星を詠む者ソラス(プラチナ)",
+        "class": "占星術師"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc10d7e0ca79430fdb347117485eda2d5.png",
+        "name": "影を継ぐ者ユージェン(プラチナ)",
+        "class": "チェイスハンター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff220e15cb421108aa1289da8d966c70a.png",
+        "name": "大地を紡ぐ者サナラ(プラチナ)",
+        "class": "ジオマンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7a5d1e42c7ba267694b303ba47eabb9.png",
+        "name": "巡り咲く者アンブローズ(プラチナ)",
+        "class": "転生魔導士"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff111e1cbf71fc2032732470b561f39eb.png",
+        "name": "獅子女の覇者ホルテウス(プラチナ)",
+        "class": "ファラオ"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F207e46d07e7eee4d310fbc93452bbb31.png",
+        "name": "ゼス王国の少女シィル",
+        "class": "アコライト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F22a57741f14d70a387b8be61a99056a7.png",
+        "name": "鳳統",
+        "class": "軍師【恋姫】"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2707b479f87fb462d8d714958fabab53.png",
+        "name": "ラヴクラフト",
+        "class": "水底の支配者【GBM】"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F70b5fccc2ad9bdae81e0ce2e1c27a776.png",
+        "name": "妖狸スズネ",
+        "class": "妖狸"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4f5568f50e38f0f019069f5eab4e4c79.png",
+        "name": "筆頭飛行士オヴェリー",
+        "class": "ロケットトルーパー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5308fdb42eaaae1ef3c574e81bd237f7.png",
+        "name": "鷲翼の戦士ライノー",
+        "class": "スカイウォリアー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fbeb3e394b72b8ca9fbcbde9d14c67411.png",
+        "name": "覚賀鳥の射手オーキュ",
+        "class": "スカイシューター"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F75462fc43ab5b06a957fdcc3a0823d4a.png",
+        "name": "帝国斥候カーナ",
+        "class": "スカウト"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb3c07bec5e86567b38ab3bba079e6996.png",
+        "name": "鷹目の偵察兵ミリアム",
+        "class": "スカウト"
+    }
+]
