@@ -42,6 +42,7 @@ export default function CharaItem({ chara, shows }: Props) {
         className={styles.icon}
         src={process.env.PUBLIC_URL + "/oshirore/ch/" + idStr + ".png"}
         alt={chara.name}
+        loading="lazy"
       />
       <div
         className={clsx(
