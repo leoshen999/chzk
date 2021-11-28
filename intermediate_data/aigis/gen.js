@@ -1,5 +1,7 @@
 const fs = require("fs");
 var request = require("request");
+var jsdom = require("jsdom");
+const { JSDOM } = jsdom;
 
 function sleep(ms) {
   return new Promise((resolve) => {
@@ -192,6 +194,38 @@ characters.forEach((ch) => {
     console.log("Fetch " + ch.name);
     request(url).pipe(fs.createWriteStream(dst));
     await sleep(1000);
+  }
+})();
+
+// Fetch img.
+(async function () {
+  const len = characters.length;
+  for (var i = 0; i < len; i++) {
+    const ch = characters[i];
+    const dst = "../../public/aigis/ch2/" + ch.name + ".png";
+    const url = "https://wikiwiki.jp/aigiszuki/" + encodeURIComponent(ch.name);
+    if (fs.existsSync(dst)) continue;
+    console.log("Fetch " + ch.name);
+    request(url, (err, res, body) => {
+      if (err || (res && res.statusCode !== 200)) {
+        console.log("  Error:", err);
+        console.log("  Status code:", res && res.statusCode);
+        return;
+      }
+      const dom = new JSDOM(body);
+      const img = dom.window.document.querySelector("#content img");
+      if (!img) {
+        console.log("  Img tag not found");
+        return;
+      }
+      const imgSrc = img.getAttribute("src");
+      if (!imgSrc) {
+        console.log("  Img src not found");
+        return;
+      }
+      request(imgSrc).pipe(fs.createWriteStream(dst));
+    });
+    await sleep(3000);
   }
 })();
 

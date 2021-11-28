@@ -35,7 +35,14 @@ export default function CharaItem({ chara, shows }: Props) {
           chara.type === "both" && styles.textContainerBoth
         )}
       >
-        <div className={styles.name}>{chara.name}</div>
+        <div className={styles.name}>{chara.attributes.join(" / ")}</div>
+        <div className={styles.xxImgContainer}>
+          <img
+            className={styles.xxImg}
+            src={process.env.PUBLIC_URL + "/aigis/ch2/" + chara.name + ".png"}
+            alt={chara.name}
+          />
+        </div>
       </div>
     </a>
   );
