@@ -2,27 +2,27 @@
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fbee6460ca765b717bea85e4774455008.png",
         "name": "王国兵士ヘクター",
-        "class": "ソルジャー"
+        "class": "下級ソルジャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F667e0453976a78d79edc99434e345e88.png",
         "name": "王国兵士レオ",
-        "class": "ソルジャー"
+        "class": "下級ソルジャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa25f7128a806cd0bcf11cc6de2a49e78.png",
         "name": "妖精郷の戦士アトラ",
-        "class": "ソルジャー"
+        "class": "下級ソルジャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fba94247154c82538af5955ff50d870c2.png",
         "name": "熟練兵ハシム",
-        "class": "ソルジャー"
+        "class": "下級ソルジャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F78b38ede0a0bff223287dd3c17fa5a33.png",
         "name": "帝国歩兵ディルク",
-        "class": "ソルジャー"
+        "class": "下級ソルジャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe185cda0b30f53c70479074a1588238d.png",
@@ -57,12 +57,12 @@
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F41a2e394e7aa87c4d3afec30bfa332c9.png",
         "name": "弓兵アルス",
-        "class": "アーチャー"
+        "class": "下級アーチャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fcb61aee43b74130d8fc27e2af254dc15.png",
         "name": "弓兵ウィルフレッド",
-        "class": "アーチャー"
+        "class": "下級アーチャー"
     },
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fde4be55065ecef2c374f31cbf1318e00.png",
