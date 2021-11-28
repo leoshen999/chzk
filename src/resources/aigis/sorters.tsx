@@ -1,6 +1,6 @@
 import classes from "./classes.json";
 
-const classToIdx = {};
+const classToIdx: any = {};
 classes.forEach((cl, idx) => {
   classToIdx[cl] = idx;
 });
