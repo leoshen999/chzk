@@ -1,3 +1,10 @@
+import classes from "./classes.json";
+
+const classToIdx = {};
+classes.forEach((cl, idx) => {
+  classToIdx[cl] = idx;
+});
+
 const rarityNameToNumber: any = {
   black: 6,
   platinum: 5,
@@ -13,8 +20,7 @@ function rarityIndexer(c: any) {
 }
 
 function classIndexer(c: any) {
-  // TODO
-  return 0;
+  return classToIdx[c.class];
 }
 
 function createCompareFunc(indexer: (c: any) => number, multiplier: number) {
@@ -42,13 +48,13 @@ const sorters = [
     id: "class_desc",
     name: "クラス▼",
     color: "#af0000",
-    func: createCompareFunc(classIndexer, -1),
+    func: createCompareFunc(classIndexer, 1),
   },
   {
     id: "class_asc",
     name: "クラス▲",
     color: "#af0000",
-    func: createCompareFunc(classIndexer, 1),
+    func: createCompareFunc(classIndexer, -1),
   },
 ];
 

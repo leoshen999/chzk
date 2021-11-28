@@ -58,6 +58,7 @@ const charFileList = [
     firstBoth: "xx",
   },
 ];
+const classes = JSON.parse(fs.readFileSync("./classes.json"));
 
 // Generate basic characters data.
 let characters = [];
@@ -82,13 +83,14 @@ charFileList.forEach((cfl) => {
   characters = characters.concat(newChars);
 });
 
-// Sanity check for character names.
+// Sanity check for character names and classes.
 names = {};
 characters.forEach((c) => {
   if (c.name in names) console.log("Duplicated: " + c.name);
   names[c.name] = true;
   if (c.name.includes(" ")) console.log("space detected: " + c.name);
   if (c.class.includes(" ")) console.log("space detected: " + c.class);
+  if (!classes.includes(c.class)) console.log("class not found: " + c.class);
 });
 
 // Inject attributes into characters from properties.

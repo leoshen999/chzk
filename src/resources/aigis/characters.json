@@ -8632,7 +8632,7 @@
   },
   {
     "name": "王国兵士ヘクター",
-    "class": "ソルジャー",
+    "class": "下級ソルジャー",
     "rarity": "bronze",
     "type": "melee",
     "gender": "male",
@@ -8641,7 +8641,7 @@
   },
   {
     "name": "王国兵士レオ",
-    "class": "ソルジャー",
+    "class": "下級ソルジャー",
     "rarity": "bronze",
     "type": "melee",
     "gender": "male",
@@ -8650,7 +8650,7 @@
   },
   {
     "name": "妖精郷の戦士アトラ",
-    "class": "ソルジャー",
+    "class": "下級ソルジャー",
     "rarity": "bronze",
     "type": "melee",
     "gender": "male",
@@ -8659,7 +8659,7 @@
   },
   {
     "name": "熟練兵ハシム",
-    "class": "ソルジャー",
+    "class": "下級ソルジャー",
     "rarity": "bronze",
     "type": "melee",
     "gender": "male",
@@ -8668,7 +8668,7 @@
   },
   {
     "name": "帝国歩兵ディルク",
-    "class": "ソルジャー",
+    "class": "下級ソルジャー",
     "rarity": "bronze",
     "type": "melee",
     "gender": "male",
@@ -8731,7 +8731,7 @@
   },
   {
     "name": "弓兵アルス",
-    "class": "アーチャー",
+    "class": "下級アーチャー",
     "rarity": "bronze",
     "type": "ranged",
     "gender": "male",
@@ -8740,7 +8740,7 @@
   },
   {
     "name": "弓兵ウィルフレッド",
-    "class": "アーチャー",
+    "class": "下級アーチャー",
     "rarity": "bronze",
     "type": "ranged",
     "gender": "male",
