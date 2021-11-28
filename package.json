@@ -20,7 +20,7 @@
   "scripts": {
     "prettier": "prettier --write src public intermediate_data/aigis/gen.js",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "GENERATE_SOURCEMAP=false PUBLIC_URL=/chzk react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
