@@ -42,21 +42,8 @@
   width: 100%;
   padding: 2px;
   box-sizing: border-box;
-  transition: text-shadow 0.2s, color 0.2s;
   text-decoration: none;
   color: #c6c6c6;
-}
-
-.container:active .textContainer {
-  color: #d0d0d0;
-  text-shadow: 0px 0px 1px rgba(208, 208, 208, 0.7);
-}
-
-@media (hover: hover) and (pointer: fine) {
-  .container:hover .textContainer {
-    color: #d0d0d0;
-    text-shadow: 0px 0px 1px rgba(208, 208, 208, 0.7);
-  }
 }
 
 .textContainerMelee {
