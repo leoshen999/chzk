@@ -167,7 +167,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["ハロウィン", "人間"],
+    "attributes": ["ハロウィン"],
     "id": 18
   },
   {
@@ -500,7 +500,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["魔術師", "人間"],
+    "attributes": ["魔術師", "ジューンブライド", "人間"],
     "id": 55
   },
   {
@@ -518,7 +518,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["クリスマス", "人間"],
+    "attributes": ["ドラゴンライダー", "クリスマス", "人間"],
     "id": 57
   },
   {
@@ -968,7 +968,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["東の国", "人間"],
     "id": 107
   },
   {
@@ -1058,7 +1058,7 @@
     "rarity": "black",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["機械", "人間"],
     "id": 117
   },
   {
@@ -1301,7 +1301,7 @@
     "rarity": "black",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["ジューンブライド", "人間"],
+    "attributes": ["弓兵", "ジューンブライド", "人間"],
     "id": 144
   },
   {
@@ -1733,7 +1733,7 @@
     "rarity": "black",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["白の帝国", "人間"],
+    "attributes": ["デーモン", "白の帝国"],
     "id": 192
   },
   {
@@ -1967,7 +1967,7 @@
     "rarity": "black",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["魚人"],
+    "attributes": ["魔術師", "魚人"],
     "id": 218
   },
   {
