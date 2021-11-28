@@ -2975,7 +2975,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["天使"],
     "id": 330
   },
   {
@@ -4109,7 +4109,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["妖怪", "東の国"],
     "id": 456
   },
   {
@@ -4154,7 +4154,7 @@
     "rarity": "platinum",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["妖怪", "東の国"],
     "id": 461
   },
   {
@@ -6008,7 +6008,7 @@
     "rarity": "sapphire",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": [],
     "id": 667
   },
   {

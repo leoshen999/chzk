@@ -163,6 +163,7 @@ const nonHumanNames = [
   "芙蓉",
   "アイリス",
   "祝祭の南瓜姫ミサ",
+  "ねんどろいどシビラ",
 ];
 characters.forEach((ch) => {
   if (nonHumanNames.includes(ch.name)) return;
