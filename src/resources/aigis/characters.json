@@ -5126,7 +5126,7 @@
     "rarity": "platinum",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["サマー", "人間"],
+    "attributes": ["魔術師", "サマー", "人間"],
     "id": 569
   },
   {
@@ -6620,7 +6620,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間"],
+    "attributes": ["魚人"],
     "id": 735
   },
   {
@@ -6818,7 +6818,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["竜人", "ちび"],
     "id": 757
   },
   {
@@ -6953,7 +6953,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["機械", "人間", "ちび"],
     "id": 772
   },
   {
@@ -7016,7 +7016,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["魔術師", "人間", "ちび"],
     "id": 779
   },
   {
@@ -7097,7 +7097,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["白の帝国", "人間", "ちび"],
     "id": 788
   },
   {
@@ -7106,7 +7106,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 789
   },
   {
@@ -7160,7 +7160,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["東の国", "人間", "ちび"],
     "id": 795
   },
   {
@@ -7178,7 +7178,7 @@
     "rarity": "gold",
     "type": "melee",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["エルフ", "ちび"],
     "id": 797
   },
   {
@@ -7871,7 +7871,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["東の国", "人間", "ちび"],
     "id": 874
   },
   {
@@ -8006,7 +8006,7 @@
     "rarity": "gold",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["人間", "ちび"],
+    "attributes": ["妖怪", "東の国", "ちび"],
     "id": 889
   },
   {
@@ -8024,7 +8024,7 @@
     "rarity": "gold",
     "type": "both",
     "gender": "female",
-    "attributes": ["鳥人"],
+    "attributes": ["弓兵", "鳥人"],
     "id": 891
   },
   {
@@ -8402,7 +8402,7 @@
     "rarity": "silver",
     "type": "ranged",
     "gender": "female",
-    "attributes": ["東の国", "人間"],
+    "attributes": ["東の国", "弓兵", "人間"],
     "id": 933
   },
   {
