@@ -4832,6 +4832,38 @@
     "weapon": "whip"
   },
   {
+    "id": 605,
+    "name": "城塞都市ディーテ",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "shield"
+  },
+  {
+    "id": 606,
+    "name": "［裏］坂本城",
+    "rarity": 7,
+    "terrains": ["hell", "water"],
+    "location": "sonohoka",
+    "weapon": "spear"
+  },
+  {
+    "id": 607,
+    "name": "［裏］小牧山城",
+    "rarity": 7,
+    "terrains": ["hell", "hill"],
+    "location": "sonohoka",
+    "weapon": "gun"
+  },
+  {
+    "id": 608,
+    "name": "リーガースブルク城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
     "id": 801,
     "name": "前田利家",
     "rarity": 6,
@@ -4986,6 +5018,70 @@
   {
     "id": 916,
     "name": "フェイリス",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 917,
+    "name": "希望ヶ峰学園",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 918,
+    "name": "江ノ島盾子",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 919,
+    "name": "霧切響子",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 920,
+    "name": "腐川冬子",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 921,
+    "name": "舞園さやか",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 922,
+    "name": "セレスティア・ルーデンベルク",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 923,
+    "name": "大神さくら",
+    "rarity": 5,
+    "terrains": ["none"],
+    "location": "ikai",
+    "weapon": "other"
+  },
+  {
+    "id": 924,
+    "name": "朝日奈葵",
     "rarity": 5,
     "terrains": ["none"],
     "location": "ikai",
