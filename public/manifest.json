@@ -30,7 +30,28 @@
   ],
   "lang": "jp",
   "name": "きゃずかん：ソシャゲキャラ検索図鑑",
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "./imgs/screenshot_01.png",
+      "sizes": "822x1462",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/screenshot_02.png",
+      "sizes": "822x1462",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/screenshot_03.png",
+      "sizes": "822x1462",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/screenshot_04.png",
+      "sizes": "822x1462",
+      "type": "image/png"
+    }
+  ],
   "short_name": "きゃずかん",
   "start_url": ".",
   "theme_color": "#1c1c1c",
