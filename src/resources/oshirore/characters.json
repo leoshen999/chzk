@@ -4864,6 +4864,38 @@
     "weapon": "mace"
   },
   {
+    "id": 609,
+    "name": "［聖夜］坂戸城",
+    "rarity": 5,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 610,
+    "name": "［聖夜］冬宮殿",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "book"
+  },
+  {
+    "id": 611,
+    "name": "［聖夜］霞城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 612,
+    "name": "［聖夜］レーヴェンブルク城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
     "id": 801,
     "name": "前田利家",
     "rarity": 6,
