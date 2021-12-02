@@ -4,6 +4,11 @@ import GameView from "./components/GameView";
 
 const gameList = ["aigis", "oshirore"];
 
+function setupServiceWorker() {
+  if (!navigator.serviceWorker) return;
+  navigator.serviceWorker.register(process.env.PUBLIC_URL + "/sw.js");
+}
+
 function getGameFromURL() {
   const searchParams = new URLSearchParams(document.location.search);
   const g = searchParams.get("game");
@@ -20,6 +25,15 @@ export default function App() {
   }, [setGame]);
 
   useEffect(() => {
+    if (
+      document.readyState === "interactive" ||
+      document.readyState === "complete"
+    ) {
+      setupServiceWorker();
+    } else {
+      document.addEventListener("DOMContentLoaded", setupServiceWorker, true);
+    }
+
     const popStateFunc = () => {
       const g = getGameFromURL();
       setGameRef.current(g);
