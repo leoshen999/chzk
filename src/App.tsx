@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import LobbyView from "./components/LobbyView";
 import GameView from "./components/GameView";
+import MoreInfoView from "./components/MoreInfoView";
 
 const gameList = ["aigis", "oshirore"];
 
@@ -51,8 +52,20 @@ export default function App() {
     setGame(g);
   }
 
-  if (game === "")
-    return <LobbyView gameList={gameList} onSelectGame={handleSelectGame} />;
+  function handleGoHome() {
+    window.history.pushState({}, "", process.env.PUBLIC_URL + "/");
+    setGame("");
+  }
 
-  return <GameView game={game} />;
+  return (
+    <>
+      {game === "" ? (
+        <LobbyView gameList={gameList} onSelectGame={handleSelectGame} />
+      ) : (
+        <GameView game={game} />
+      )}
+
+      <MoreInfoView isAtHome={game === ""} onGoHome={handleGoHome} />
+    </>
+  );
 }
