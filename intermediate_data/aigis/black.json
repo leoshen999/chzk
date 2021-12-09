@@ -605,6 +605,11 @@
         "class": "霊刀つくもがみ"
     },
     {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc74b55e35de9e3f91ebf6f631ef79875.png",
+        "name": "怒りの鮫戦士スカー",
+        "class": "シャークウォリアー"
+    },
+    {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe2ede8d0c57add347e893500cab9aee4.png",
         "name": "白の皇帝",
         "class": "皇帝"
@@ -1115,7 +1120,7 @@
         "class": "幻術士"
     },
     {
-        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7d280ae34746935ee5abf7d24c408eed.png",
         "name": "世界樹の聖霊ラタトスク",
         "class": "ハーバリスト"
     },

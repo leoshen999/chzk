@@ -890,6 +890,11 @@
         "class": "ちびメイジ"
     },
     {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+        "name": "ちびエステル",
+        "class": "ちびメイジ"
+    },
+    {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7fe0a9e7b33253c99602bcc2d46a9427.png",
         "name": "ちびデスピア",
         "class": "ちびウィッチ"
@@ -987,6 +992,11 @@
     {
         "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F322097ed86de26c475ba6873cbc1c9dc.png",
         "name": "ちびメメント",
+        "class": "ちびネクロマンサー"
+    },
+    {
+        "img": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+        "name": "ちびメトゥス",
         "class": "ちびネクロマンサー"
     },
     {

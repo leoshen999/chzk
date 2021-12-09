@@ -186,7 +186,6 @@ characters.forEach((ch) => {
     const ch = characters[i];
     const dst = "../../public/aigis/ch/" + ch.name + ".png";
     const url = ch.img;
-    ch.id = i;
     delete ch.img;
     if (fs.existsSync(dst)) continue;
     console.log("Fetch " + ch.name);

@@ -1,5 +1,10 @@
 import filterGroups from "./filterGroups";
 import sorters from "./sorters";
-import characters from "./characters.json";
+import originalCharacters from "./characters.json";
+
+const characters = originalCharacters.map((ch, key) => ({
+  ...ch,
+  id: key,
+}));
 
 export { filterGroups, sorters, characters };
