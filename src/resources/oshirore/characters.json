@@ -4896,6 +4896,30 @@
     "weapon": "shield"
   },
   {
+    "id": 613,
+    "name": "ヴァイジャヤンタ",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "throwing"
+  },
+  {
+    "id": 614,
+    "name": "シャトー・ディフ",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 615,
+    "name": "DMM城",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "sonohoka",
+    "weapon": "dancing"
+  },
+  {
     "id": 801,
     "name": "前田利家",
     "rarity": 6,
