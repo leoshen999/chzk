@@ -1184,6 +1184,14 @@
     "attributes": ["エルフ", "魔術師"]
   },
   {
+    "name": "祝福の贈り人テュト",
+    "class": "メイジ",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["エルフ", "魔術師", "クリスマス"]
+  },
+  {
     "name": "聖女イリス",
     "class": "ヒーラー",
     "rarity": "black",
@@ -3526,6 +3534,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
+  },
+  {
+    "name": "聖なる技巧兵ドリー",
+    "class": "サッパー",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["ドワーフ", "機械", "クリスマス"]
   },
   {
     "name": "太公望",
