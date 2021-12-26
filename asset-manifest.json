@@ -1,9 +1,9 @@
 {
   "files": {
     "static/js/0.bcdf7a3d.chunk.js": "/chzk/static/js/0.bcdf7a3d.chunk.js",
-    "static/js/1.796e6ab0.chunk.js": "/chzk/static/js/1.796e6ab0.chunk.js",
+    "static/js/1.237189d5.chunk.js": "/chzk/static/js/1.237189d5.chunk.js",
     "static/js/2.540071c7.chunk.js": "/chzk/static/js/2.540071c7.chunk.js",
-    "static/js/3.bd72626d.chunk.js": "/chzk/static/js/3.bd72626d.chunk.js",
+    "static/js/3.7fa9b4d1.chunk.js": "/chzk/static/js/3.7fa9b4d1.chunk.js",
     "static/js/4.eef3d5ab.chunk.js": "/chzk/static/js/4.eef3d5ab.chunk.js",
     "static/js/5.2b5141f1.chunk.js": "/chzk/static/js/5.2b5141f1.chunk.js",
     "static/js/6.a237c90f.chunk.js": "/chzk/static/js/6.a237c90f.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/13.c5bfc9cd.chunk.js": "/chzk/static/js/13.c5bfc9cd.chunk.js",
     "main.css": "/chzk/static/css/main.709fe398.chunk.css",
     "main.js": "/chzk/static/js/main.6393c7e4.chunk.js",
-    "runtime-main.js": "/chzk/static/js/runtime-main.bf158f9d.js",
+    "runtime-main.js": "/chzk/static/js/runtime-main.19dbf895.js",
     "static/js/16.ea9204af.chunk.js": "/chzk/static/js/16.ea9204af.chunk.js",
     "static/css/17.830a2613.chunk.css": "/chzk/static/css/17.830a2613.chunk.css",
     "static/js/17.e7d3fd8e.chunk.js": "/chzk/static/js/17.e7d3fd8e.chunk.js",
@@ -32,7 +32,7 @@
     "static/media/twitter.8433d6af.svg": "/chzk/static/media/twitter.8433d6af.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf158f9d.js",
+    "static/js/runtime-main.19dbf895.js",
     "static/js/16.ea9204af.chunk.js",
     "static/css/main.709fe398.chunk.css",
     "static/js/main.6393c7e4.chunk.js"
