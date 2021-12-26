@@ -4952,6 +4952,14 @@
     "weapon": "shield"
   },
   {
+    "id": 805,
+    "name": "伊達政宗",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "touhoku",
+    "weapon": "sword"
+  },
+  {
     "id": 901,
     "name": "鹿目まどか",
     "rarity": 7,
