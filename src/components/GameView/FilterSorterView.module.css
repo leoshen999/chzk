@@ -53,6 +53,7 @@
   pointer-events: none;
   background-color: transparent;
   transition: background-color 0.2s;
+  z-index: 1;
 }
 
 .maskOpened {
@@ -78,6 +79,7 @@
   border-top-width: 1px;
   border-color: #808080;
   transition: transform 0.2s;
+  z-index: 1;
 }
 
 @media screen and (min-width: 801px) {
