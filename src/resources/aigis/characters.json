@@ -248,6 +248,14 @@
     "attributes": ["東の国", "人間"]
   },
   {
+    "name": "湯けむりくノ一チヨメ",
+    "class": "忍者",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["東の国", "人間", "温泉"]
+  },
+  {
     "name": "天馬騎士団長エスタ",
     "class": "ペガサスライダー",
     "rarity": "black",
@@ -326,6 +334,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
+  },
+  {
+    "name": "智将の筆始めマツリ",
+    "class": "前衛戦術家",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["東の国", "人間", "お正月"]
   },
   {
     "name": "未来の宮廷画家ナルサス",
@@ -944,6 +960,14 @@
     "attributes": ["機械", "人間"]
   },
   {
+    "name": "薔薇の自動人形アルタ",
+    "class": "オートマタ",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["機械"]
+  },
+  {
     "name": "孤独な迷宮守ニミュエ",
     "class": "迷宮の悪霊",
     "rarity": "black",
@@ -966,6 +990,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
+  },
+  {
+    "name": "影炎の戦巫女タツミ",
+    "class": "戦巫女",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["東の国", "人間"]
   },
   {
     "name": "怒りの鮫戦士スカー",
@@ -1622,6 +1654,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師", "サマー"]
+  },
+  {
+    "name": "大悪魔の初詣ラピス",
+    "class": "デモンサモナー",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["デーモン", "魔術師", "お正月"]
   },
   {
     "name": "光霊使いルフレ",
@@ -2574,6 +2614,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
+  },
+  {
+    "name": "聖夜の天才戦術家ヘレナ",
+    "class": "前衛戦術家",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["クリスマス", "人間"]
   },
   {
     "name": "魔法剣士シャルロット",
@@ -3552,6 +3600,14 @@
     "attributes": ["仙人"]
   },
   {
+    "name": "謹賀祝仙女太公望",
+    "class": "真人",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["仙人", "お正月"]
+  },
+  {
     "name": "竜吉公主",
     "class": "真人",
     "rarity": "platinum",
@@ -4470,6 +4526,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
+  },
+  {
+    "name": "砲術娘の温泉旅行カノン",
+    "class": "砲術士",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "温泉"]
   },
   {
     "name": "砲術教官エイプリル",
@@ -7096,6 +7160,14 @@
     "attributes": ["人間", "ちび"]
   },
   {
+    "name": "ちびロヴィニア",
+    "class": "ちびレンジャー",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["ハーフエルフ", "弓兵", "ちび"]
+  },
+  {
     "name": "ちびオロチヒメ",
     "class": "ちび呪術使い",
     "rarity": "gold",
@@ -7129,6 +7201,14 @@
   },
   {
     "name": "ちびディエーラ",
+    "class": "ちびマーチャント",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "ちび"]
+  },
+  {
+    "name": "ちびトトノ",
     "class": "ちびマーチャント",
     "rarity": "gold",
     "type": "ranged",
