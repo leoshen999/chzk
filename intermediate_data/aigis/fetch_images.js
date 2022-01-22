@@ -1,11 +1,6 @@
 var fs = require("fs");
 var request = require("request");
 
-function padding_str(num, size) {
-  var s = "000000000" + num.toString();
-  return s.substr(s.length - size);
-}
-
 function sleep(ms) {
   return new Promise((resolve) => {
     setTimeout(resolve, ms);
