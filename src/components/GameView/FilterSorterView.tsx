@@ -1,4 +1,4 @@
-import { Fragment, MouseEvent, useState } from "react";
+import { ChangeEvent, Fragment, MouseEvent, useState } from "react";
 import styles from "./FilterSorterView.module.css";
 import clsx from "clsx";
 
@@ -33,7 +33,7 @@ export default function FilterSorterView({
     setOpened(false);
   }
 
-  function handleSearchKeyword(e) {
+  function handleSearchKeyword(e: ChangeEvent<HTMLInputElement>) {
     onSetKeyword(e.target.value);
   }
 
