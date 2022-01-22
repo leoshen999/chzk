@@ -37,6 +37,8 @@ const newCharacters = rawCharacters.map(ch => {
   };
 });
 
+// TODO: sort characters by rarity and class.
+
 fs.writeFileSync(
   __dirname + "/../../src/resources/aigis/characters.json",
   JSON.stringify(newCharacters, null, 2)
