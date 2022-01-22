@@ -4912,7 +4912,7 @@
     "weapon": "whip"
   },
   {
-    "id": 615,
+    "id": 7001,
     "name": "DMM城",
     "rarity": 7,
     "terrains": ["none"],
@@ -4920,7 +4920,7 @@
     "weapon": "dancing"
   },
   {
-    "id": 801,
+    "id": 8001,
     "name": "前田利家",
     "rarity": 6,
     "terrains": ["none"],
@@ -4928,7 +4928,7 @@
     "weapon": "spear"
   },
   {
-    "id": 802,
+    "id": 8002,
     "name": "黒田長政",
     "rarity": 6,
     "terrains": ["none"],
@@ -4936,7 +4936,7 @@
     "weapon": "cannon"
   },
   {
-    "id": 803,
+    "id": 8003,
     "name": "毛利元就",
     "rarity": 6,
     "terrains": ["none"],
@@ -4944,7 +4944,7 @@
     "weapon": "bow"
   },
   {
-    "id": 804,
+    "id": 8004,
     "name": "シュテファン",
     "rarity": 6,
     "terrains": ["none"],
@@ -4952,7 +4952,7 @@
     "weapon": "shield"
   },
   {
-    "id": 805,
+    "id": 8005,
     "name": "伊達政宗",
     "rarity": 7,
     "terrains": ["none"],
@@ -4960,7 +4960,7 @@
     "weapon": "sword"
   },
   {
-    "id": 901,
+    "id": 9001,
     "name": "鹿目まどか",
     "rarity": 7,
     "terrains": ["none"],
@@ -4968,7 +4968,7 @@
     "weapon": "other"
   },
   {
-    "id": 902,
+    "id": 9002,
     "name": "暁美ほむら",
     "rarity": 6,
     "terrains": ["none"],
@@ -4976,7 +4976,7 @@
     "weapon": "other"
   },
   {
-    "id": 903,
+    "id": 9003,
     "name": "巴マミ",
     "rarity": 6,
     "terrains": ["none"],
@@ -4984,7 +4984,7 @@
     "weapon": "other"
   },
   {
-    "id": 904,
+    "id": 9004,
     "name": "佐倉杏子",
     "rarity": 6,
     "terrains": ["none"],
@@ -4992,7 +4992,7 @@
     "weapon": "other"
   },
   {
-    "id": 905,
+    "id": 9005,
     "name": "美樹さやか",
     "rarity": 5,
     "terrains": ["none"],
@@ -5000,7 +5000,7 @@
     "weapon": "other"
   },
   {
-    "id": 906,
+    "id": 9006,
     "name": "アクア",
     "rarity": 7,
     "terrains": ["none"],
@@ -5008,7 +5008,7 @@
     "weapon": "other"
   },
   {
-    "id": 907,
+    "id": 9007,
     "name": "めぐみん",
     "rarity": 6,
     "terrains": ["none"],
@@ -5016,7 +5016,7 @@
     "weapon": "other"
   },
   {
-    "id": 908,
+    "id": 9008,
     "name": "ダクネス",
     "rarity": 6,
     "terrains": ["none"],
@@ -5024,7 +5024,7 @@
     "weapon": "other"
   },
   {
-    "id": 909,
+    "id": 9009,
     "name": "ウィズ",
     "rarity": 6,
     "terrains": ["none"],
@@ -5032,7 +5032,7 @@
     "weapon": "other"
   },
   {
-    "id": 910,
+    "id": 9010,
     "name": "ゆんゆん",
     "rarity": 5,
     "terrains": ["none"],
@@ -5040,7 +5040,7 @@
     "weapon": "other"
   },
   {
-    "id": 911,
+    "id": 9011,
     "name": "紅月カレン",
     "rarity": 7,
     "terrains": ["none"],
@@ -5048,7 +5048,7 @@
     "weapon": "other"
   },
   {
-    "id": 912,
+    "id": 9012,
     "name": "アーニャ・アールストレイム",
     "rarity": 6,
     "terrains": ["none"],
@@ -5056,7 +5056,7 @@
     "weapon": "other"
   },
   {
-    "id": 913,
+    "id": 9013,
     "name": "C.C.",
     "rarity": 5,
     "terrains": ["none"],
@@ -5064,7 +5064,7 @@
     "weapon": "other"
   },
   {
-    "id": 914,
+    "id": 9014,
     "name": "牧瀬紅莉栖",
     "rarity": 7,
     "terrains": ["none"],
@@ -5072,7 +5072,7 @@
     "weapon": "other"
   },
   {
-    "id": 915,
+    "id": 9015,
     "name": "阿万音鈴羽",
     "rarity": 6,
     "terrains": ["none"],
@@ -5080,7 +5080,7 @@
     "weapon": "other"
   },
   {
-    "id": 916,
+    "id": 9016,
     "name": "フェイリス",
     "rarity": 5,
     "terrains": ["none"],
@@ -5088,7 +5088,7 @@
     "weapon": "other"
   },
   {
-    "id": 917,
+    "id": 9017,
     "name": "希望ヶ峰学園",
     "rarity": 7,
     "terrains": ["none"],
@@ -5096,7 +5096,7 @@
     "weapon": "other"
   },
   {
-    "id": 918,
+    "id": 9018,
     "name": "江ノ島盾子",
     "rarity": 7,
     "terrains": ["none"],
@@ -5104,7 +5104,7 @@
     "weapon": "other"
   },
   {
-    "id": 919,
+    "id": 9019,
     "name": "霧切響子",
     "rarity": 6,
     "terrains": ["none"],
@@ -5112,7 +5112,7 @@
     "weapon": "other"
   },
   {
-    "id": 920,
+    "id": 9020,
     "name": "腐川冬子",
     "rarity": 6,
     "terrains": ["none"],
@@ -5120,7 +5120,7 @@
     "weapon": "other"
   },
   {
-    "id": 921,
+    "id": 9021,
     "name": "舞園さやか",
     "rarity": 5,
     "terrains": ["none"],
@@ -5128,7 +5128,7 @@
     "weapon": "other"
   },
   {
-    "id": 922,
+    "id": 9022,
     "name": "セレスティア・ルーデンベルク",
     "rarity": 5,
     "terrains": ["none"],
@@ -5136,7 +5136,7 @@
     "weapon": "other"
   },
   {
-    "id": 923,
+    "id": 9023,
     "name": "大神さくら",
     "rarity": 5,
     "terrains": ["none"],
@@ -5144,7 +5144,7 @@
     "weapon": "other"
   },
   {
-    "id": 924,
+    "id": 9024,
     "name": "朝日奈葵",
     "rarity": 5,
     "terrains": ["none"],
