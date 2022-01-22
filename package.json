@@ -18,7 +18,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "prettier": "prettier --write src public intermediate_data/aigis/gen.js",
+    "prettier": "prettier --write src public intermediate_data",
     "start": "react-scripts start",
     "build": "GENERATE_SOURCEMAP=false PUBLIC_URL=/chzk react-scripts build",
     "test": "react-scripts test",

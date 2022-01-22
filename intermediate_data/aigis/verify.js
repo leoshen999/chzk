@@ -5,7 +5,13 @@ var classes = JSON.parse(
 );
 
 var rarities = [
-  "black", "platinum", "sapphire", "gold", "silver", "bronze", "iron"
+  "black",
+  "platinum",
+  "sapphire",
+  "gold",
+  "silver",
+  "bronze",
+  "iron",
 ];
 
 var types = ["melee", "ranged", "both"];
@@ -13,16 +19,17 @@ var types = ["melee", "ranged", "both"];
 var genders = ["male", "female"];
 
 var allAttributes = JSON.parse(
-  fs.readFileSync(__dirname + "/../../src/resources/aigis/attributes.json", "utf8")
+  fs.readFileSync(
+    __dirname + "/../../src/resources/aigis/attributes.json",
+    "utf8"
+  )
 );
 
 var seasons = JSON.parse(
   fs.readFileSync(__dirname + "/../../src/resources/aigis/seasons.json", "utf8")
 );
 
-var characters = JSON.parse(
-  fs.readFileSync(__dirname + "/raw.json", "utf8")
-);
+var characters = JSON.parse(fs.readFileSync(__dirname + "/raw.json", "utf8"));
 
 const allNames = [];
 
@@ -36,20 +43,18 @@ function checkString(ch, field) {
     die("Invalid " + field + ": " + ch.name + " " + ch[field]);
 }
 
-characters.map(ch => {
+characters.map((ch) => {
   checkString(ch, "name");
   checkString(ch, "class");
   checkString(ch, "rarity");
   checkString(ch, "type");
   checkString(ch, "gender");
   checkString(ch, "icon");
-  ch.attributes.forEach(attr => {
-    if (typeof attr !== "string")
-      die("Invalid attr: " + ch.name + " " + attr);
+  ch.attributes.forEach((attr) => {
+    if (typeof attr !== "string") die("Invalid attr: " + ch.name + " " + attr);
   });
 
-  if (ch.name in allNames)
-    die("Duplicated name: " + ch.name);
+  if (ch.name in allNames) die("Duplicated name: " + ch.name);
   allNames[ch.name] = true;
 
   if (!classes.includes(ch.class))
@@ -58,16 +63,14 @@ characters.map(ch => {
   if (!rarities.includes(ch.rarity))
     die("Unknown rarity: " + ch.name + " " + ch.rarity);
 
-  if (!types.includes(ch.type))
-    die("Unknown type: " + ch.name + " " + ch.type);
+  if (!types.includes(ch.type)) die("Unknown type: " + ch.name + " " + ch.type);
 
   if (!genders.includes(ch.gender))
     die("Unknown gender: " + ch.name + " " + ch.gender);
 
   var thisAttrs = {};
-  ch.attributes.forEach(attr => {
-    if (attr in thisAttrs)
-      die("Duplicated attribute: " + ch.name + " " + attr);
+  ch.attributes.forEach((attr) => {
+    if (attr in thisAttrs) die("Duplicated attribute: " + ch.name + " " + attr);
     if (!allAttributes.includes(attr) && !seasons.includes(attr))
       die("Unknown attribute: " + ch.name + " " + attr);
 

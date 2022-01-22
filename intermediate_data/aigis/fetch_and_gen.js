@@ -26,7 +26,7 @@ if (!fs.existsSync(target_dir)) fs.mkdirSync(target_dir);
   }
 })();
 
-const newCharacters = rawCharacters.map(ch => {
+const newCharacters = rawCharacters.map((ch) => {
   return {
     name: ch.name,
     class: ch.class,

@@ -13,7 +13,10 @@ function sleep(ms) {
 }
 
 var musumes = JSON.parse(
-  fs.readFileSync(__dirname + "/../../src/resources/oshirore/characters.json", "utf8")
+  fs.readFileSync(
+    __dirname + "/../../src/resources/oshirore/characters.json",
+    "utf8"
+  )
 );
 
 var target_dir = __dirname + "/../../public/oshirore/ch/";
@@ -36,4 +39,3 @@ if (!fs.existsSync(target_dir)) fs.mkdirSync(target_dir);
     await sleep(3 * 1000);
   }
 })();
-
