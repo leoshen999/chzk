@@ -7,4 +7,8 @@ const characters = originalCharacters.map((ch, key) => ({
   id: key,
 }));
 
-export { filterGroups, sorters, characters };
+function keywordMatcher(ch: any, keyword: string) {
+  return ch.name.includes(keyword.trim());
+}
+
+export { keywordMatcher, filterGroups, sorters, characters };

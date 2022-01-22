@@ -14,9 +14,15 @@ function renderCharacters(CharaItem: any, charaListWithShows: any) {
 
 export default function GameView({ game }: { game: string }) {
   const [characters, setCharacters] = useState<Array<any>>([]);
+  const [keywordMatcher, setKeywordMatcher] = useState<
+    (ch: any, keyword: string) => boolean
+  >(() => {
+    return false;
+  });
   const [filterGroups, setFilterGroups] = useState<Array<any>>([]);
   const [sorters, setSorters] = useState<Array<any>>([]);
 
+  const [keyword, setKeyword] = useState<string>("");
   const [selectedFilters, setSelectedFilters] = useState<Array<string>>([]);
   const [selectedSorter, setSelectedSorter] = useState<string>("");
   const [CharaItem, setCharaItem] = useState<any>(null);
@@ -25,8 +31,12 @@ export default function GameView({ game }: { game: string }) {
 
   useEffect(() => {
     setCharacters([]);
+    setKeywordMatcher(() => {
+      return false;
+    });
     setFilterGroups([]);
     setSorters([]);
+    setKeyword("");
     setSelectedFilters([]);
     setSelectedSorter("");
     setCharaItem(null);
@@ -38,6 +48,7 @@ export default function GameView({ game }: { game: string }) {
       const ci = (await import("../" + game + "/CharaItem")).default;
 
       setCharacters(res.characters);
+      setKeywordMatcher(() => res.keywordMatcher);
       setFilterGroups(res.filterGroups);
       setSorters(res.sorters);
       setCharaItem(() => ci);
@@ -61,6 +72,7 @@ export default function GameView({ game }: { game: string }) {
       };
     });
     const finalFilterFunc = function (chara: any) {
+      if (!!keyword && !keywordMatcher(chara, keyword)) return false;
       for (var i = 0; i < groupFuncs.length; i++)
         if (!groupFuncs[i](chara)) return false;
       return true;
@@ -82,7 +94,15 @@ export default function GameView({ game }: { game: string }) {
       shows: finalFilterFunc(chara),
     }));
     setCharaListWithShows(finalList);
-  }, [characters, filterGroups, sorters, selectedFilters, selectedSorter]);
+  }, [
+    characters,
+    keywordMatcher,
+    filterGroups,
+    sorters,
+    keyword,
+    selectedFilters,
+    selectedSorter,
+  ]);
 
   return (
     <>
@@ -92,8 +112,10 @@ export default function GameView({ game }: { game: string }) {
       <FilterSorterView
         filterGroups={filterGroups}
         sorters={sorters}
+        keyword={keyword}
         selectedFilters={selectedFilters}
         selectedSorter={selectedSorter}
+        onSetKeyword={setKeyword}
         onSelectFilters={setSelectedFilters}
         onSelectSorter={setSelectedSorter}
       />

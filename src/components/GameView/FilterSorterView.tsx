@@ -5,15 +5,19 @@ import clsx from "clsx";
 export default function FilterSorterView({
   filterGroups,
   sorters,
+  keyword,
   selectedFilters,
   selectedSorter,
+  onSetKeyword,
   onSelectFilters,
   onSelectSorter,
 }: {
   filterGroups: any;
   sorters: any;
+  keyword: string;
   selectedFilters: Array<string>;
   selectedSorter: string;
+  onSetKeyword: (keyword: string) => void;
   onSelectFilters: (filters: Array<string>) => void;
   onSelectSorter: (sorter: string) => void;
 }) {
@@ -27,6 +31,10 @@ export default function FilterSorterView({
   function handleClose(e: MouseEvent<HTMLElement>) {
     e.stopPropagation();
     setOpened(false);
+  }
+
+  function handleSearchKeyword(e) {
+    onSetKeyword(e.target.value);
   }
 
   function handleSelectFilter(id: string) {
@@ -72,9 +80,11 @@ export default function FilterSorterView({
                 styles.itemContainer,
                 styles.itemContainerSelected,
                 styles.resetButton,
-                selectedFilters.length > 0 && styles.resetButtonShown
+                (!!keyword || selectedFilters.length > 0) &&
+                  styles.resetButtonShown
               )}
               onClick={() => {
+                onSetKeyword("");
                 onSelectFilters([]);
               }}
             >
@@ -82,6 +92,13 @@ export default function FilterSorterView({
             </div>
           </div>
 
+          <input
+            type="text"
+            className={styles.searchBar}
+            placeholder="キーワード"
+            value={keyword}
+            onChange={handleSearchKeyword}
+          />
           {filterGroups.map((group: any) => (
             <Fragment key={group.id}>
               {group.name && (

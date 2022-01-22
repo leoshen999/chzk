@@ -116,6 +116,31 @@
   font-size: 16px;
 }
 
+.searchBar {
+  margin-bottom: 5px;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4e4e4e;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 16px;
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+  transition: border-color 0.2s;
+}
+
+.searchBar:focus {
+  border-color: #c6c6c6;
+}
+
+.searchBar::placeholder {
+  color: #4e4e4e;
+}
+
 .groupTitle {
   display: flex;
   flex-direction: row;
