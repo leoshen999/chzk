@@ -4912,6 +4912,86 @@
     "weapon": "whip"
   },
   {
+    "id": 615,
+    "name": "［正月］大宝寺城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 616,
+    "name": "［正月］徳川伏見城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "haraegushi"
+  },
+  {
+    "id": 617,
+    "name": "［正月］宇和島城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "cannon"
+  },
+  {
+    "id": 618,
+    "name": "［正月］七飯台場",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "hokkaido",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 619,
+    "name": "［正月］虎臥城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "hammer"
+  },
+  {
+    "id": 620,
+    "name": "［正月］一乗谷城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 621,
+    "name": "［正月］錦城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 622,
+    "name": "［正月］備中松山城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "chuugoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 623,
+    "name": "フリント城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
+    "id": 624,
+    "name": "金烏城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "chuugoku",
+    "weapon": "scythe"
+  },
+  {
     "id": 7001,
     "name": "DMM城",
     "rarity": 7,
