@@ -4992,6 +4992,38 @@
     "weapon": "scythe"
   },
   {
+    "id": 625,
+    "name": "［絢爛］名古屋城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "toukai",
+    "weapon": "hammer"
+  },
+  {
+    "id": 626,
+    "name": "［絢爛］会津若松城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "gun"
+  },
+  {
+    "id": 627,
+    "name": "［絢爛］引田城",
+    "rarity": 7,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "spell"
+  },
+  {
+    "id": 628,
+    "name": "［裏］佐和山城",
+    "rarity": 7,
+    "terrains": ["hell", "mountain"],
+    "location": "sonohoka",
+    "weapon": "cannon"
+  },
+  {
     "id": 7001,
     "name": "DMM城",
     "rarity": 7,
@@ -5038,6 +5070,14 @@
     "terrains": ["none"],
     "location": "touhoku",
     "weapon": "sword"
+  },
+  {
+    "id": 8006,
+    "name": "石田三成",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "kinki",
+    "weapon": "gun"
   },
   {
     "id": 9001,

@@ -54,6 +54,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F1f53973e4f0d5ad8700227fefbfa1aa1.png"
   },
   {
+    "name": "放浪の聖騎兵フリア",
+    "class": "ワルキューレ",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["天界人"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F83f9f2ec1f48ed9964bd1dbc13435159.png"
+  },
+  {
     "name": "盗賊ベルナ",
     "class": "ローグ",
     "rarity": "black",
@@ -4230,6 +4239,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F1e2e2661f464522854b7469edb4ac472.png"
   },
   {
+    "name": "翠玉の温泉兵フィーヌ",
+    "class": "シーソルジャー",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["魚人", "温泉"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9d4280f2de8d72869f3c6b441b05478c.png"
+  },
+  {
     "name": "背教の騎士アレクシア",
     "class": "テンプルナイト",
     "rarity": "platinum",
@@ -7756,6 +7774,15 @@
     "gender": "female",
     "attributes": ["魔術師", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd2e72ce2cdc9c9d3eb52332ff76f1c3d.png"
+  },
+  {
+    "name": "深慮の海巫女ムイル",
+    "class": "シービショップ",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["魔術師", "魚人"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.gyazo.com%2Fb6f0c40f214dd268bd2d1624a9520bf7.png"
   },
   {
     "name": "ちびナナリー",

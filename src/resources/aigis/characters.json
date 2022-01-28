@@ -48,6 +48,14 @@
     "attributes": ["人間"]
   },
   {
+    "name": "放浪の聖騎兵フリア",
+    "class": "ワルキューレ",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["天界人"]
+  },
+  {
     "name": "盗賊ベルナ",
     "class": "ローグ",
     "rarity": "black",
@@ -3760,6 +3768,14 @@
     "attributes": ["魚人"]
   },
   {
+    "name": "翠玉の温泉兵フィーヌ",
+    "class": "シーソルジャー",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["魚人", "温泉"]
+  },
+  {
     "name": "背教の騎士アレクシア",
     "class": "テンプルナイト",
     "rarity": "platinum",
@@ -6894,6 +6910,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
+  },
+  {
+    "name": "深慮の海巫女ムイル",
+    "class": "シービショップ",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["魔術師", "魚人"]
   },
   {
     "name": "ちびナナリー",
