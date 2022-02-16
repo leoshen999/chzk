@@ -232,6 +232,14 @@
     "attributes": ["東の国", "人間"]
   },
   {
+    "name": "思慕の剣豪ヒバリ",
+    "class": "サムライ",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["東の国", "人間", "バレンタイン"]
+  },
+  {
     "name": "忍者サキ",
     "class": "忍者",
     "rarity": "black",
@@ -2278,6 +2286,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
+  },
+  {
+    "name": "恋慕の剣姫スクハ",
+    "class": "プリンセス",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "バレンタイン"]
   },
   {
     "name": "黒衣の花嫁カルマ",

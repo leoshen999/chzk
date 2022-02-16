@@ -261,6 +261,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F23e384f852c18536f9984cbce4585546.png"
   },
   {
+    "name": "思慕の剣豪ヒバリ",
+    "class": "サムライ",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["東の国", "人間", "バレンタイン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F63471c30e332004e4af6f167a8cf1f27.png"
+  },
+  {
     "name": "忍者サキ",
     "class": "忍者",
     "rarity": "black",
@@ -2563,6 +2572,15 @@
     "gender": "female",
     "attributes": ["人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F06e64f26450d0544617dd9091c437ea5.png"
+  },
+  {
+    "name": "恋慕の剣姫スクハ",
+    "class": "プリンセス",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "バレンタイン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fce91bfa3bdb3fdf62e3bb5719ae1d876.png"
   },
   {
     "name": "黒衣の花嫁カルマ",

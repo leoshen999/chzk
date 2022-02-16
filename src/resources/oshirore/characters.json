@@ -5024,6 +5024,38 @@
     "weapon": "cannon"
   },
   {
+    "id": 629,
+    "name": "［バレンタイン］盛岡城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "touhoku",
+    "weapon": "hammer"
+  },
+  {
+    "id": 630,
+    "name": "［バレンタイン］ウチヒサル城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "staff"
+  },
+  {
+    "id": 631,
+    "name": "［バレンタイン］木幡山伏見城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "bow"
+  },
+  {
+    "id": 632,
+    "name": "［バレンタイン］佐竹城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "gun"
+  },
+  {
     "id": 7001,
     "name": "DMM城",
     "rarity": 7,
@@ -5078,6 +5110,14 @@
     "terrains": ["none"],
     "location": "kinki",
     "weapon": "gun"
+  },
+  {
+    "id": 8007,
+    "name": "北条氏康",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "kinki",
+    "weapon": "shield"
   },
   {
     "id": 9001,
