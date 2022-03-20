@@ -3,7 +3,6 @@
     "name": "光の守護者アルティア",
     "class": "ソルジャー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -11,7 +10,6 @@
     "name": "帝国教導隊長マルゴット",
     "class": "ソルジャー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人", "白の帝国"]
   },
@@ -19,7 +17,6 @@
     "name": "怪力少女ディーナ",
     "class": "ヘビーアーマー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -27,7 +24,6 @@
     "name": "鉄腕乙女ディーネ",
     "class": "ヘビーアーマー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -35,7 +31,6 @@
     "name": "一角獣騎士クリッサ",
     "class": "ワルキューレ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -43,7 +38,6 @@
     "name": "英霊の守り手レシア",
     "class": "ワルキューレ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -51,7 +45,6 @@
     "name": "放浪の聖騎兵フリア",
     "class": "ワルキューレ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天界人"]
   },
@@ -59,7 +52,6 @@
     "name": "盗賊ベルナ",
     "class": "ローグ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -67,7 +59,6 @@
     "name": "赤き盗賊花嫁ベルナ",
     "class": "ローグ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"]
   },
@@ -75,7 +66,6 @@
     "name": "影刃の工作員シネイド",
     "class": "ローグ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -83,7 +73,6 @@
     "name": "シビラ",
     "class": "プリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -91,7 +80,6 @@
     "name": "オリヴィエ",
     "class": "プリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -99,7 +87,6 @@
     "name": "アンジェリーネ",
     "class": "プリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -107,7 +94,6 @@
     "name": "誓いの妖精姫オリヴィエ",
     "class": "プリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "ジューンブライド"]
   },
@@ -115,7 +101,6 @@
     "name": "ヨシノ",
     "class": "プリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -123,7 +108,6 @@
     "name": "紅血の皇女シルヴィア",
     "class": "ヴァンパイアプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -131,7 +115,6 @@
     "name": "涼風の吸血姫シルヴィア",
     "class": "ヴァンパイアプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "サマー"]
   },
@@ -139,7 +122,6 @@
     "name": "純白の花嫁カルマ",
     "class": "イモータルプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -147,7 +129,6 @@
     "name": "南瓜祭の花嫁カルマ",
     "class": "イモータルプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "ハロウィン"]
   },
@@ -155,7 +136,6 @@
     "name": "祝祭の南瓜姫ミサ",
     "class": "イビルプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ハロウィン"]
   },
@@ -163,7 +143,6 @@
     "name": "新世代山賊アマンダ",
     "class": "バンデット",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -171,7 +150,6 @@
     "name": "百獣の覇者レオーネ",
     "class": "バンデット",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -179,7 +157,6 @@
     "name": "帝国銀竜ヴルム",
     "class": "中級竜兵",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "白の帝国"]
   },
@@ -187,7 +164,6 @@
     "name": "封印されしドラニア",
     "class": "竜戦士",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["竜人"]
   },
@@ -195,7 +171,6 @@
     "name": "竜姫アーニャ",
     "class": "ドラゴンプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -203,7 +178,6 @@
     "name": "金色の竜姫エルドラ",
     "class": "ドラゴンプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -211,7 +185,6 @@
     "name": "振袖の金竜姫エルドラ",
     "class": "ドラゴンプリンセス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "お正月"]
   },
@@ -219,7 +192,6 @@
     "name": "鬼切の使い手ヒバリ",
     "class": "サムライ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -227,7 +199,6 @@
     "name": "東国の大剣豪ジュウベエ",
     "class": "サムライ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -235,7 +206,6 @@
     "name": "思慕の剣豪ヒバリ",
     "class": "サムライ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "バレンタイン"]
   },
@@ -243,7 +213,6 @@
     "name": "忍者サキ",
     "class": "忍者",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -251,7 +220,6 @@
     "name": "封妖の忍者ナギ",
     "class": "忍者",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -259,7 +227,6 @@
     "name": "くノ一チヨメ",
     "class": "忍者",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -267,7 +234,6 @@
     "name": "湯けむりくノ一チヨメ",
     "class": "忍者",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "温泉"]
   },
@@ -275,7 +241,6 @@
     "name": "天馬騎士団長エスタ",
     "class": "ペガサスライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -283,7 +248,6 @@
     "name": "叛逆の騎士コーネリア",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -291,7 +255,6 @@
     "name": "暗黒騎士",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -299,7 +262,6 @@
     "name": "暗黒聖夜騎士コーネリア",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -307,7 +269,6 @@
     "name": "光闇の騎士ヘイオス",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -315,7 +276,6 @@
     "name": "光と闇の聖夜ヘイオス",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -323,7 +283,6 @@
     "name": "暗黒学園騎士コーネリア",
     "class": "ダークファイター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["学園", "人間"]
   },
@@ -331,7 +290,6 @@
     "name": "降魔の復讐者ノワール",
     "class": "アベンジャー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -339,7 +297,6 @@
     "name": "武王姫アリス",
     "class": "モンク",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -347,7 +304,6 @@
     "name": "一途な武王姫アリス",
     "class": "モンク",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -355,7 +311,6 @@
     "name": "朱鎧の智将マツリ",
     "class": "前衛戦術家",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -363,7 +318,6 @@
     "name": "智将の筆始めマツリ",
     "class": "前衛戦術家",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "お正月"]
   },
@@ -371,7 +325,6 @@
     "name": "未来の宮廷画家ナルサス",
     "class": "前衛戦術家",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -379,7 +332,6 @@
     "name": "遠国の前衛戦術家",
     "class": "前衛戦術家",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -387,7 +339,6 @@
     "name": "魔戦団長イングリッド",
     "class": "魔法剣士",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -395,7 +346,6 @@
     "name": "堕天使ソフィー",
     "class": "エンジェル",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -403,7 +353,6 @@
     "name": "恋慕の堕天使ソフィー",
     "class": "エンジェル",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "バレンタイン"]
   },
@@ -411,7 +360,6 @@
     "name": "天才機甲士ウェンディ",
     "class": "くぐつ使い",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -419,7 +367,6 @@
     "name": "海軍元帥イブキ",
     "class": "セーラー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -427,7 +374,6 @@
     "name": "九尾狐カヨウ",
     "class": "妖狐",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -435,7 +381,6 @@
     "name": "帝国妖狐キュウビ",
     "class": "妖狐",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "白の帝国"]
   },
@@ -443,7 +388,6 @@
     "name": "妖狐の海水浴キュウビ",
     "class": "妖狐",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "白の帝国", "サマー"]
   },
@@ -451,7 +395,6 @@
     "name": "神官戦士団長エクス",
     "class": "神官戦士",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -459,7 +402,6 @@
     "name": "恋慕の神官戦士エクス",
     "class": "神官戦士",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -467,7 +409,6 @@
     "name": "魔導鎧姫グレース",
     "class": "メイジアーマー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -475,7 +416,6 @@
     "name": "星天の魔導鎧シルセス",
     "class": "メイジアーマー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -483,7 +423,6 @@
     "name": "星天の花嫁シルセス",
     "class": "メイジアーマー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "ジューンブライド", "人間"]
   },
@@ -491,7 +430,6 @@
     "name": "聖銀竜の騎士ティファ",
     "class": "ドラゴンライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -499,7 +437,6 @@
     "name": "聖なる銀夜ティファ",
     "class": "ドラゴンライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "クリスマス", "人間"]
   },
@@ -507,7 +444,6 @@
     "name": "月影の弓騎兵リオン",
     "class": "ボウライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -515,7 +451,6 @@
     "name": "翠森の弓騎兵エメルダ",
     "class": "ボウライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -523,7 +458,6 @@
     "name": "恋煩いの弓騎兵エメルダ",
     "class": "ボウライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "バレンタイン", "人間"]
   },
@@ -531,7 +465,6 @@
     "name": "王宮侍女武官セーラ",
     "class": "メイド",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -539,7 +472,6 @@
     "name": "神癒の召使アリエル",
     "class": "メイド",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -547,7 +479,6 @@
     "name": "水着の筆頭侍女セーラ",
     "class": "メイド",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -555,7 +486,6 @@
     "name": "絢爛の吸血鬼エマ",
     "class": "ヴァンパイアロード",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -563,7 +493,6 @@
     "name": "湯けむり吸血鬼エマ",
     "class": "ヴァンパイアロード",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "温泉"]
   },
@@ -571,7 +500,6 @@
     "name": "帝国剣士ジークリンデ",
     "class": "ソードマスター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -579,7 +507,6 @@
     "name": "真夏の剣聖ジークリンデ",
     "class": "ソードマスター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -587,7 +514,6 @@
     "name": "近衛騎士団長ミレイユ",
     "class": "ロイヤルガード",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -595,7 +521,6 @@
     "name": "黒衣の騎士ダリューン",
     "class": "ロイヤルガード",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -603,7 +528,6 @@
     "name": "遠国の近衛兵",
     "class": "ロイヤルガード",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -611,7 +535,6 @@
     "name": "紅輪の道士ナタク",
     "class": "仙人",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -619,7 +542,6 @@
     "name": "鬼神姫ラクシャーサ",
     "class": "魔神",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -627,7 +549,6 @@
     "name": "帝国魔神団長メフィスト",
     "class": "魔神",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "白の帝国"]
   },
@@ -635,7 +556,6 @@
     "name": "魔神の水遊びメフィスト",
     "class": "魔神",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "白の帝国", "サマー"]
   },
@@ -643,7 +563,6 @@
     "name": "戦の聖霊シンシア",
     "class": "戦の聖霊",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["聖霊"]
   },
@@ -651,7 +570,6 @@
     "name": "冥闇の剣士アンブレ",
     "class": "ダークストーカー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -659,7 +577,6 @@
     "name": "怪夜の仮装剣士アンブレ",
     "class": "ダークストーカー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ダークエルフ", "ハロウィン"]
   },
@@ -667,7 +584,6 @@
     "name": "ぬらりひょんの娘シノ",
     "class": "ぬらりひょん",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -675,7 +591,6 @@
     "name": "帝国重装砲兵エルミラ",
     "class": "重装砲兵",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -683,7 +598,6 @@
     "name": "鋼の重装砲兵ヴァネッサ",
     "class": "重装砲兵",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -691,7 +605,6 @@
     "name": "酒呑童子の娘 鬼刃姫",
     "class": "鬼",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -699,7 +612,6 @@
     "name": "年賀の着衣始 鬼刃姫",
     "class": "鬼",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "お正月"]
   },
@@ -707,7 +619,6 @@
     "name": "帝国騎士団長ディアナ",
     "class": "インペリアルナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -715,7 +626,6 @@
     "name": "誘惑の日差しディアナ",
     "class": "インペリアルナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -723,7 +633,6 @@
     "name": "黒翼の大天狗クラマ",
     "class": "天狗",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -731,7 +640,6 @@
     "name": "ドワーフの姫ティニー",
     "class": "鍛冶職人",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ"]
   },
@@ -739,7 +647,6 @@
     "name": "オークの英雄アナトリア",
     "class": "グラディエーター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["オーク"]
   },
@@ -747,7 +654,6 @@
     "name": "灼熱の夏英雄アナトリア",
     "class": "グラディエーター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["オーク", "サマー"]
   },
@@ -755,7 +661,6 @@
     "name": "屍仙道士スーシェン",
     "class": "キョンシー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド"]
   },
@@ -763,7 +668,6 @@
     "name": "幽境道士フーロン",
     "class": "キョンシー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド"]
   },
@@ -771,7 +675,6 @@
     "name": "雷神の娘レミィ",
     "class": "雷公",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -779,7 +682,6 @@
     "name": "雷雲の浴衣レミィ",
     "class": "雷公",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "サマー"]
   },
@@ -787,7 +689,6 @@
     "name": "封鎧の剣士テンマ",
     "class": "モンスターブレイカー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -795,7 +696,6 @@
     "name": "封魔の剣士ランヒルド",
     "class": "モンスターブレイカー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -803,7 +703,6 @@
     "name": "風神の娘クーコ",
     "class": "風伯",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -811,7 +710,6 @@
     "name": "風雲の浴衣クーコ",
     "class": "風伯",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "サマー"]
   },
@@ -819,7 +717,6 @@
     "name": "王宮守護騎士アデライド",
     "class": "グランドナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -827,7 +724,6 @@
     "name": "熱砂の騎士アスラハ",
     "class": "グランドナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "砂漠の国"]
   },
@@ -835,7 +731,6 @@
     "name": "鷲獅騎兵リュクス",
     "class": "グリフィンライダー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -843,7 +738,6 @@
     "name": "爆突工兵シャール",
     "class": "サッパー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -851,7 +745,6 @@
     "name": "帝国筆頭工兵カテリナ",
     "class": "サッパー",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
   },
@@ -859,7 +752,6 @@
     "name": "清源妙道真君",
     "class": "真人",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -867,7 +759,6 @@
     "name": "金光聖菩",
     "class": "邪仙",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -875,7 +766,6 @@
     "name": "魔王親衛隊シャディア",
     "class": "魔王親衛隊",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -883,7 +773,6 @@
     "name": "晴着の親衛隊シャディア",
     "class": "魔王親衛隊",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -891,7 +780,6 @@
     "name": "夜鳥ツグミ",
     "class": "ぬえ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -899,7 +787,6 @@
     "name": "鬼刃忍セツナ",
     "class": "鬼刃忍",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -907,7 +794,6 @@
     "name": "鬼刃忍タチバナ",
     "class": "鬼刃忍",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -915,7 +801,6 @@
     "name": "風花の槍士トモエ",
     "class": "ランスマスター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -923,7 +808,6 @@
     "name": "調停の魔将ハルモニア",
     "class": "デーモンロード",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -931,7 +815,6 @@
     "name": "犬神シロ",
     "class": "犬神",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -939,7 +822,6 @@
     "name": "天界のシェフオーガスタ",
     "class": "料理人",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -947,7 +829,6 @@
     "name": "神業菓子職人オーガスタ",
     "class": "料理人",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -955,7 +836,6 @@
     "name": "黒翼の魔兵エスネア",
     "class": "デモンルーン",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -963,7 +843,6 @@
     "name": "魔界からの留学エスネア",
     "class": "デモンルーン",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "学園"]
   },
@@ -971,7 +850,6 @@
     "name": "蒸気騎士イザムバード",
     "class": "スチームナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -979,7 +857,6 @@
     "name": "亡国の女皇ハリナ",
     "class": "エンプレス",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "白の帝国"]
   },
@@ -987,7 +864,6 @@
     "name": "潜航騎士ヴィアベル",
     "class": "アクアナイト",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -995,7 +871,6 @@
     "name": "薔薇の自動人形アルタ",
     "class": "オートマタ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械"]
   },
@@ -1003,7 +878,6 @@
     "name": "孤独な迷宮守ニミュエ",
     "class": "迷宮の悪霊",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -1011,7 +885,6 @@
     "name": "呪刀付喪神ユキザクラ",
     "class": "霊刀つくもがみ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -1019,7 +892,6 @@
     "name": "名刀付喪神フジムラサキ",
     "class": "霊刀つくもがみ",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -1027,7 +899,6 @@
     "name": "影炎の戦巫女タツミ",
     "class": "戦巫女",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -1035,7 +906,6 @@
     "name": "怒りの鮫戦士スカー",
     "class": "シャークウォリアー",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["魚人"]
   },
@@ -1043,7 +913,6 @@
     "name": "白の皇帝",
     "class": "皇帝",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1051,7 +920,6 @@
     "name": "深淵を知る者アトナテス",
     "class": "魔竜騎士",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": ["ドラゴンライダー", "英傑", "人間"]
   },
@@ -1059,7 +927,6 @@
     "name": "万慧を砕く者トゥアン",
     "class": "バーバリアンクイーン",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -1067,7 +934,6 @@
     "name": "万機の祖たる者アージェ",
     "class": "古代魔導機兵",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "英傑"]
   },
@@ -1075,7 +941,6 @@
     "name": "銀腕を掲げし者トラム",
     "class": "銀腕の神話",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["神", "英傑"]
   },
@@ -1083,7 +948,6 @@
     "name": "万刃を担う者アルヴァ",
     "class": "ウェポンマスター",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天界人", "英傑"]
   },
@@ -1091,7 +955,6 @@
     "name": "魔導を宿す者ラーワル",
     "class": "魔導生命体",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "英傑"]
   },
@@ -1099,7 +962,6 @@
     "name": "関羽",
     "class": "武将【恋姫】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1107,7 +969,6 @@
     "name": "孫堅",
     "class": "君主【恋姫】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1115,7 +976,6 @@
     "name": "劉備",
     "class": "君主【恋姫】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1123,7 +983,6 @@
     "name": "メリオダス",
     "class": "騎士【七つの大罪】",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -1131,7 +990,6 @@
     "name": "異郷の騎士",
     "class": "騎士【異郷】",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -1139,7 +997,6 @@
     "name": "キング",
     "class": "妖精【七つの大罪】",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -1147,7 +1004,6 @@
     "name": "異郷の妖精",
     "class": "妖精【異郷】",
     "rarity": "black",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -1155,7 +1011,6 @@
     "name": "ルパン",
     "class": "怪盗【GBM】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1163,7 +1018,6 @@
     "name": "ゲーテ",
     "class": "戯曲作家【GBM】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1171,7 +1025,6 @@
     "name": "曹操",
     "class": "奸雄【恋姫】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1179,7 +1032,6 @@
     "name": "呂布",
     "class": "勇士【恋姫】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1187,7 +1039,6 @@
     "name": "グリモワール",
     "class": "物語を渡る者【GBM】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1195,7 +1046,6 @@
     "name": "葵",
     "class": "鬼【ななリン】",
     "rarity": "black",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -1203,7 +1053,6 @@
     "name": "白き射手ナナリー",
     "class": "アーチャー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -1211,7 +1060,6 @@
     "name": "神業の狩人アーシェラ",
     "class": "アーチャー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -1219,7 +1067,6 @@
     "name": "白浴衣の弓乙女ナナリー",
     "class": "アーチャー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "サマー", "人間"]
   },
@@ -1227,7 +1074,6 @@
     "name": "白き花嫁ナナリー",
     "class": "アーチャー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "ジューンブライド", "人間"]
   },
@@ -1235,7 +1081,6 @@
     "name": "魔法皇女エステル",
     "class": "メイジ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1243,7 +1088,6 @@
     "name": "妖精賢者テュト",
     "class": "メイジ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ", "魔術師"]
   },
@@ -1251,7 +1095,6 @@
     "name": "祝福の贈り人テュト",
     "class": "メイジ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ", "魔術師", "クリスマス"]
   },
@@ -1259,7 +1102,6 @@
     "name": "聖女イリス",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1267,7 +1109,6 @@
     "name": "至宝の使い手リアナ",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1275,7 +1116,6 @@
     "name": "春着の聖女イリス",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -1283,7 +1123,6 @@
     "name": "帝国治癒士長アウローラ",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1291,7 +1130,6 @@
     "name": "砂浜に咲く花アウローラ",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -1299,7 +1137,6 @@
     "name": "異端審問官ドゥマルデ",
     "class": "ヒーラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -1307,7 +1144,6 @@
     "name": "魔女デスピア",
     "class": "ウィッチ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1315,7 +1151,6 @@
     "name": "秋祭の大魔女デスピア",
     "class": "ウィッチ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "ハロウィン", "人間"]
   },
@@ -1323,7 +1158,6 @@
     "name": "百獣の魔術師リエーフ",
     "class": "ウィッチ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "魔術師"]
   },
@@ -1331,7 +1165,6 @@
     "name": "伝説の海賊ミネルバ",
     "class": "パイレーツ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1339,7 +1172,6 @@
     "name": "無双の海賊デューオ",
     "class": "パイレーツ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1347,7 +1179,6 @@
     "name": "聖夜の炸裂海賊デューオ",
     "class": "パイレーツ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -1355,7 +1186,6 @@
     "name": "古代龍ハクノカミ",
     "class": "ドラゴンシャーマン",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -1363,7 +1193,6 @@
     "name": "白の竜巫女ラウラ",
     "class": "ドラゴンシャーマン",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "竜人"]
   },
@@ -1371,7 +1200,6 @@
     "name": "霊鳥の射手スー",
     "class": "ヴァンパイアハンター",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1379,7 +1207,6 @@
     "name": "黒紫の巫女キキョウ",
     "class": "シャーマン",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -1387,7 +1214,6 @@
     "name": "魔導司祭エターナー",
     "class": "ビショップ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1395,7 +1221,6 @@
     "name": "久遠の花嫁エターナー",
     "class": "ビショップ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "ジューンブライド", "人間"]
   },
@@ -1403,7 +1228,6 @@
     "name": "伏龍の軍師アイシャ",
     "class": "後衛戦術家",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1411,7 +1235,6 @@
     "name": "陰陽師ミコト",
     "class": "陰陽師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -1419,7 +1242,6 @@
     "name": "波打ち際の陰陽師ミコト",
     "class": "陰陽師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "サマー", "人間"]
   },
@@ -1427,7 +1249,6 @@
     "name": "召喚士ファルネ",
     "class": "サモナー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1435,7 +1256,6 @@
     "name": "花嫁姿の召喚士ファルネ",
     "class": "サモナー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "ジューンブライド", "人間"]
   },
@@ -1443,7 +1263,6 @@
     "name": "刻詠の風水士リンネ",
     "class": "風水使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1451,7 +1270,6 @@
     "name": "刻詠の花嫁リンネ",
     "class": "風水使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"]
   },
@@ -1459,7 +1277,6 @@
     "name": "極重巨砲フレデリカ",
     "class": "砲術士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1467,7 +1284,6 @@
     "name": "神和ぎの踊り子ミヤビ",
     "class": "ダンサー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -1475,7 +1291,6 @@
     "name": "政務官アンナ",
     "class": "政務官",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1483,7 +1298,6 @@
     "name": "アンナ（給仕服）",
     "class": "政務官",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1491,7 +1305,6 @@
     "name": "水着の政務官アンナ",
     "class": "政務官",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -1499,7 +1312,6 @@
     "name": "戦場の政務官アンナ",
     "class": "政務官",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1507,7 +1319,6 @@
     "name": "アイドル政務官アンナ",
     "class": "政務官",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1515,7 +1326,6 @@
     "name": "反魂の死霊術師メトゥス",
     "class": "ネクロマンサー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1523,7 +1333,6 @@
     "name": "冥霊魔術師メルアビス",
     "class": "ネクロマンサー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "魔術師"]
   },
@@ -1531,7 +1340,6 @@
     "name": "冥霊たちの夏メルアビス",
     "class": "ネクロマンサー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "魔術師", "サマー"]
   },
@@ -1539,7 +1347,6 @@
     "name": "時の調停者トワ",
     "class": "クロノウィッチ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1547,7 +1354,6 @@
     "name": "時空魔法の優等生トワ",
     "class": "クロノウィッチ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "学園", "人間"]
   },
@@ -1555,7 +1361,6 @@
     "name": "森の隠者フィオレ",
     "class": "ドルイド",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1563,7 +1368,6 @@
     "name": "錬金技工士マキナ",
     "class": "アルケミスト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1571,7 +1375,6 @@
     "name": "錬金調合師ニコル",
     "class": "アルケミスト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1579,7 +1382,6 @@
     "name": "陽炎の森番ロヴィニア",
     "class": "レンジャー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ハーフエルフ", "弓兵"]
   },
@@ -1587,7 +1389,6 @@
     "name": "黒猫大怪盗サバル",
     "class": "シーフ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -1595,7 +1396,6 @@
     "name": "蛇霊の呪術師オロチヒメ",
     "class": "呪術使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "魔術師", "人間"]
   },
@@ -1603,7 +1403,6 @@
     "name": "迎春の呪姫オロチヒメ",
     "class": "呪術使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "魔術師", "お正月", "人間"]
   },
@@ -1611,7 +1410,6 @@
     "name": "魔物使いモルテナ",
     "class": "魔物使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1619,7 +1417,6 @@
     "name": "闇エルフの女王ドロテア",
     "class": "ダークプリースト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -1627,7 +1424,6 @@
     "name": "魔神副団長マレブランケ",
     "class": "ダークプリースト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "白の帝国"]
   },
@@ -1635,7 +1431,6 @@
     "name": "付与魔術師アンリ",
     "class": "エンチャンター",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1643,7 +1438,6 @@
     "name": "頭脳派の体育祭アンリ",
     "class": "エンチャンター",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "学園", "人間"]
   },
@@ -1651,7 +1445,6 @@
     "name": "隊商長ディエーラ",
     "class": "マーチャント",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1659,7 +1452,6 @@
     "name": "約束の花嫁ディエーラ",
     "class": "マーチャント",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"]
   },
@@ -1667,7 +1459,6 @@
     "name": "白狼の朋ツァーユ",
     "class": "フェンリルシャーマン",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -1675,7 +1466,6 @@
     "name": "聖魔殺しの銃手ソシエ",
     "class": "モンスタースレイヤー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1683,7 +1473,6 @@
     "name": "大悪魔召喚士ラピス",
     "class": "デモンサモナー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師"]
   },
@@ -1691,7 +1480,6 @@
     "name": "夏海の大悪魔ラピス",
     "class": "デモンサモナー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師", "サマー"]
   },
@@ -1699,7 +1487,6 @@
     "name": "大悪魔の初詣ラピス",
     "class": "デモンサモナー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師", "お正月"]
   },
@@ -1707,7 +1494,6 @@
     "name": "光霊使いルフレ",
     "class": "エレメンタラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1715,7 +1501,6 @@
     "name": "混沌霊使いニーヴ",
     "class": "エレメンタラー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1723,7 +1508,6 @@
     "name": "猫又コハル",
     "class": "猫又",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -1731,7 +1515,6 @@
     "name": "希代の天才道化リズリー",
     "class": "道化師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1739,7 +1522,6 @@
     "name": "湯けむり奇術師リズリー",
     "class": "道化師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["温泉", "人間"]
   },
@@ -1747,7 +1529,6 @@
     "name": "魂鎖の紡ぎ手スピリア",
     "class": "ライフリンカー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1755,7 +1536,6 @@
     "name": "宵の花鎖スピリア",
     "class": "ライフリンカー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -1763,7 +1543,6 @@
     "name": "霊麟幻獣使シンフー",
     "class": "幻獣使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1771,7 +1550,6 @@
     "name": "彷徨の幻獣使いツキコ",
     "class": "幻獣使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1779,7 +1557,6 @@
     "name": "八咫の夏陽ツキコ",
     "class": "幻獣使い",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -1787,7 +1564,6 @@
     "name": "帝国司教エレオノーラ",
     "class": "ルーンアコライト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1795,7 +1571,6 @@
     "name": "砂浜の司教エレオノーラ",
     "class": "ルーンアコライト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -1803,7 +1578,6 @@
     "name": "帝国辺境総督アレイダ",
     "class": "ロード",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1811,7 +1585,6 @@
     "name": "翠花の領主メアリ",
     "class": "ロード",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1819,7 +1592,6 @@
     "name": "海遊総督アレイダ",
     "class": "ロード",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -1827,7 +1599,6 @@
     "name": "帝国建機工兵マルレーン",
     "class": "支援工兵",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -1835,7 +1606,6 @@
     "name": "異界召喚士グリム",
     "class": "異界召喚士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -1843,7 +1613,6 @@
     "name": "新春召喚始めグリム",
     "class": "異界召喚士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "お正月", "人間"]
   },
@@ -1851,7 +1620,6 @@
     "name": "紫鱗の海巫女ハルフゥ",
     "class": "シービショップ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "魚人"]
   },
@@ -1859,7 +1627,6 @@
     "name": "符術士アキラ",
     "class": "符術士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -1867,7 +1634,6 @@
     "name": "狛犬コマ",
     "class": "狛犬",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -1875,7 +1641,6 @@
     "name": "冥界の魔術師ヘカティエ",
     "class": "儀式魔術師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "魔術師", "神"]
   },
@@ -1883,7 +1648,6 @@
     "name": "奇譚の幻術士タリエ",
     "class": "幻術士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1891,7 +1655,6 @@
     "name": "世界樹の聖霊ラタトスク",
     "class": "ハーバリスト",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["聖霊"]
   },
@@ -1899,7 +1662,6 @@
     "name": "夜行さん現当主ヨユキ",
     "class": "夜行さん",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -1907,7 +1669,6 @@
     "name": "焔の竜砲騎兵ジゼル",
     "class": "ドラグーン",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ドラグーン"]
   },
@@ -1915,7 +1676,6 @@
     "name": "星を詠む者ソラス",
     "class": "占星術師",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -1923,7 +1683,6 @@
     "name": "影を継ぐ者ユージェン",
     "class": "チェイスハンター",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "弓兵", "英傑"]
   },
@@ -1931,7 +1690,6 @@
     "name": "大地を紡ぐ者サナラ",
     "class": "ジオマンサー",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -1939,7 +1697,6 @@
     "name": "巡り咲く者アンブローズ",
     "class": "転生魔導士",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "英傑", "人間"]
   },
@@ -1947,7 +1704,6 @@
     "name": "獅子女の覇者ホルテウス",
     "class": "ファラオ",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "英傑", "人間"]
   },
@@ -1955,7 +1711,6 @@
     "name": "諸葛亮",
     "class": "軍師【恋姫】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1963,7 +1718,6 @@
     "name": "エリザベス",
     "class": "王女【七つの大罪】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": []
   },
@@ -1971,7 +1725,6 @@
     "name": "異郷の王女",
     "class": "回復術士【異郷】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": []
   },
@@ -1979,7 +1732,6 @@
     "name": "リリカ",
     "class": "傀儡人形【封緘】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": []
   },
@@ -1987,7 +1739,6 @@
     "name": "ファウスト",
     "class": "錬金術師【GBM】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -1995,7 +1746,6 @@
     "name": "クラリス・ツァインブルグ",
     "class": "新米刑事【流星WA】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -2003,7 +1753,6 @@
     "name": "四ノ宮小町",
     "class": "交通課職員【流星WA】",
     "rarity": "black",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2011,7 +1760,6 @@
     "name": "妖狸ヤシマ",
     "class": "妖狸",
     "rarity": "black",
-    "type": "both",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -2019,7 +1767,6 @@
     "name": "飛行警備隊長クレール",
     "class": "ロケットトルーパー",
     "rarity": "black",
-    "type": "both",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -2027,7 +1774,6 @@
     "name": "白翼の戦士パリオス",
     "class": "スカイウォリアー",
     "rarity": "black",
-    "type": "both",
     "gender": "female",
     "attributes": ["鳥人"]
   },
@@ -2035,7 +1781,6 @@
     "name": "悪戯な白翼パリオス",
     "class": "スカイウォリアー",
     "rarity": "black",
-    "type": "both",
     "gender": "female",
     "attributes": ["鳥人", "ハロウィン"]
   },
@@ -2043,7 +1788,6 @@
     "name": "天眼の偵察者レナータ",
     "class": "スカウト",
     "rarity": "black",
-    "type": "both",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2051,7 +1795,6 @@
     "name": "用兵家ジェローム",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -2059,7 +1802,6 @@
     "name": "剣の聖女ゼノビア",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2067,7 +1809,6 @@
     "name": "帝国兵長リーゼロッテ",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2075,7 +1816,6 @@
     "name": "冒険者ジェイク",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -2083,7 +1823,6 @@
     "name": "年賀の教官ケイティ",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -2091,7 +1830,6 @@
     "name": "海の看板娘リーゼロッテ",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -2099,7 +1837,6 @@
     "name": "紅蓮の兵士長ノーマ",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -2107,7 +1844,6 @@
     "name": "戦術科教師ケイティ",
     "class": "ソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "学園"]
   },
@@ -2115,7 +1851,6 @@
     "name": "光の盾ジェリウス",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -2123,7 +1858,6 @@
     "name": "聖戦士マリーベル",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2131,7 +1865,6 @@
     "name": "聖鎚闘士ミランダ",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2139,7 +1872,6 @@
     "name": "聖鈴の大盾ベルニス",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -2147,7 +1879,6 @@
     "name": "鉄泉の守護者レアン",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["温泉", "人間"]
   },
@@ -2155,7 +1886,6 @@
     "name": "陽光の獅盾テレーゼ",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2163,7 +1893,6 @@
     "name": "帝国重装騎士エルデ",
     "class": "ヘビーアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2171,7 +1900,6 @@
     "name": "白百合騎士テティス",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2179,7 +1907,6 @@
     "name": "黒槍騎士ダリア",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2187,7 +1914,6 @@
     "name": "戦乙女エミリア",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2195,7 +1921,6 @@
     "name": "虎姫メイリン",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2203,7 +1928,6 @@
     "name": "渚の槍騎兵キャリー",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -2211,7 +1935,6 @@
     "name": "完全無欠の夏休みメーア",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -2219,7 +1942,6 @@
     "name": "天槍騎士団スルーズ",
     "class": "ワルキューレ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天界人"]
   },
@@ -2227,7 +1949,6 @@
     "name": "盗賊シプリア",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2235,7 +1956,6 @@
     "name": "獣人エイダ",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -2243,7 +1963,6 @@
     "name": "秘刃の暗殺者ジュノン",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2251,7 +1970,6 @@
     "name": "盗賊セブン",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2259,7 +1977,6 @@
     "name": "義賊サヨ",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2267,7 +1984,6 @@
     "name": "聖夜の盗賊シプリア",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -2275,7 +1991,6 @@
     "name": "晴着の看板娘ジュノン",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -2283,7 +1998,6 @@
     "name": "仮装盗賊セブン",
     "class": "ローグ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ハロウィン", "人間"]
   },
@@ -2291,7 +2005,6 @@
     "name": "リリア",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2299,7 +2012,6 @@
     "name": "シェリー",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2307,7 +2019,6 @@
     "name": "クローディア",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2315,7 +2026,6 @@
     "name": "ルイーズ",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2323,7 +2033,6 @@
     "name": "メルヴィナ",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2331,7 +2040,6 @@
     "name": "スクハ",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2339,7 +2047,6 @@
     "name": "ジュリア",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2347,7 +2054,6 @@
     "name": "恋慕の剣姫スクハ",
     "class": "プリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "バレンタイン"]
   },
@@ -2355,7 +2061,6 @@
     "name": "黒衣の花嫁カルマ",
     "class": "ヴァンパイアプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -2363,7 +2068,6 @@
     "name": "可憐な吸血姫エストリエ",
     "class": "ヴァンパイアプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -2371,7 +2075,6 @@
     "name": "紅剣の不死姫ユーフェ",
     "class": "イモータルプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -2379,7 +2082,6 @@
     "name": "女山賊ライラ",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2387,7 +2089,6 @@
     "name": "聖霊の友セリア",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2395,7 +2096,6 @@
     "name": "姫山賊イメリア",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2403,7 +2103,6 @@
     "name": "山賊娘ロロネ",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2411,7 +2110,6 @@
     "name": "甘恋の山賊娘リーフ",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -2419,7 +2117,6 @@
     "name": "山賊食堂モーティマ",
     "class": "バンデット",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間", "学園"]
   },
@@ -2427,7 +2124,6 @@
     "name": "火竜のイグニス",
     "class": "中級竜兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -2435,7 +2131,6 @@
     "name": "蒼竜のリキュノス",
     "class": "中級竜兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -2443,7 +2138,6 @@
     "name": "竜姫メリュジアナ",
     "class": "ドラゴンプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -2451,7 +2145,6 @@
     "name": "翠色の竜姫クラシル",
     "class": "ドラゴンプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -2459,7 +2152,6 @@
     "name": "竜姫婚姻譚メリュジアナ",
     "class": "ドラゴンプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "ジューンブライド"]
   },
@@ -2467,7 +2159,6 @@
     "name": "剣士アカネ",
     "class": "サムライ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2475,7 +2166,6 @@
     "name": "薙刀剣士サクヤ",
     "class": "サムライ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2483,7 +2173,6 @@
     "name": "姫侍シズカ",
     "class": "サムライ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2491,7 +2180,6 @@
     "name": "剣豪モミジ",
     "class": "サムライ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2499,7 +2187,6 @@
     "name": "さすらいの剣士ハナダ",
     "class": "サムライ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2507,7 +2194,6 @@
     "name": "忍者ヒナ",
     "class": "忍者",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2515,7 +2201,6 @@
     "name": "忍者アザミ",
     "class": "忍者",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2523,7 +2208,6 @@
     "name": "くノ一ハツネ",
     "class": "忍者",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2531,7 +2215,6 @@
     "name": "天駆ける騎士リディ",
     "class": "ペガサスライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2539,7 +2222,6 @@
     "name": "帝国天馬騎士イザベル",
     "class": "ペガサスライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2547,7 +2229,6 @@
     "name": "天馬騎士副団長ジーニア",
     "class": "ペガサスライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2555,7 +2236,6 @@
     "name": "暗黒騎士ユリナ",
     "class": "ダークファイター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2563,7 +2243,6 @@
     "name": "副団長エルヴァ",
     "class": "ダークファイター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2571,7 +2250,6 @@
     "name": "暗黒騎士ダルク",
     "class": "ダークファイター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2579,7 +2257,6 @@
     "name": "ダークエルフのロアナ",
     "class": "アベンジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -2587,7 +2264,6 @@
     "name": "魔界闘士リスティス",
     "class": "アベンジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2595,7 +2271,6 @@
     "name": "黒渦角のナキア",
     "class": "アベンジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -2603,7 +2278,6 @@
     "name": "蒼紅の復讐者レティシア",
     "class": "アベンジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2611,7 +2285,6 @@
     "name": "武闘家リン",
     "class": "モンク",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2619,7 +2292,6 @@
     "name": "猛き爪獣ウル",
     "class": "モンク",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -2627,7 +2299,6 @@
     "name": "オークの格闘家ベストラ",
     "class": "モンク",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["オーク"]
   },
@@ -2635,7 +2306,6 @@
     "name": "帝国拳士リーザ",
     "class": "モンク",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2643,7 +2313,6 @@
     "name": "兎耳武闘家バイン",
     "class": "モンク",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -2651,7 +2320,6 @@
     "name": "地の軍師ウズメ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -2659,7 +2327,6 @@
     "name": "亡国の将シュウカ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2667,7 +2334,6 @@
     "name": "天才戦術家ヘレナ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2675,7 +2341,6 @@
     "name": "帝国元帥レオラ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2683,7 +2348,6 @@
     "name": "戦場指揮官ルヴェア",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2691,7 +2355,6 @@
     "name": "魅惑の夏元帥レオラ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -2699,7 +2362,6 @@
     "name": "慕情の指揮官ルヴェア",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -2707,7 +2369,6 @@
     "name": "聖夜の天才戦術家ヘレナ",
     "class": "前衛戦術家",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -2715,7 +2376,6 @@
     "name": "魔法剣士シャルロット",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -2723,7 +2383,6 @@
     "name": "熱砂の剣士ホルエス",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["砂漠の国", "魔術師", "人間"]
   },
@@ -2731,7 +2390,6 @@
     "name": "宮廷剣士サビーネ",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -2739,7 +2397,6 @@
     "name": "闇の魔剣士シエナ",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -2747,7 +2404,6 @@
     "name": "聖夜の魔剣シャルロット",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "クリスマス", "人間"]
   },
@@ -2755,7 +2411,6 @@
     "name": "雷光の魔剣士タラニア",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -2763,7 +2418,6 @@
     "name": "聖樹の魔剣士マリレーヌ",
     "class": "魔法剣士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "魔術師"]
   },
@@ -2771,7 +2425,6 @@
     "name": "堕天使クロエ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -2779,7 +2432,6 @@
     "name": "天使長ミルノ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "弓兵"]
   },
@@ -2787,7 +2439,6 @@
     "name": "堕天使フォニア",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -2795,7 +2446,6 @@
     "name": "主天使セフィーレ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -2803,7 +2453,6 @@
     "name": "堕天系お掃除当番クロエ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "学園"]
   },
@@ -2811,7 +2460,6 @@
     "name": "水着の天使長ミルノ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "弓兵", "サマー"]
   },
@@ -2819,7 +2467,6 @@
     "name": "天使の悪戯セフィーレ",
     "class": "エンジェル",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "ハロウィン"]
   },
@@ -2827,7 +2474,6 @@
     "name": "機甲士リッカ",
     "class": "くぐつ使い",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -2835,7 +2481,6 @@
     "name": "天駆の機甲士ティアル",
     "class": "くぐつ使い",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -2843,7 +2488,6 @@
     "name": "帝国機甲士クリスタ",
     "class": "くぐつ使い",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
   },
@@ -2851,7 +2495,6 @@
     "name": "双花の結婚式リッカ",
     "class": "くぐつ使い",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "ジューンブライド", "人間"]
   },
@@ -2859,7 +2502,6 @@
     "name": "満喫海遊びクリスタ",
     "class": "くぐつ使い",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "サマー", "人間"]
   },
@@ -2867,7 +2509,6 @@
     "name": "水兵ビエラ",
     "class": "セーラー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2875,7 +2516,6 @@
     "name": "提督リーンベル",
     "class": "セーラー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2883,7 +2523,6 @@
     "name": "航海士アメリ",
     "class": "セーラー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2891,7 +2530,6 @@
     "name": "航海士ジャクリーヌ",
     "class": "セーラー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2899,7 +2537,6 @@
     "name": "水兵の夏休みフレイ",
     "class": "セーラー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -2907,7 +2544,6 @@
     "name": "妖狐イナリ",
     "class": "妖狐",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -2915,7 +2551,6 @@
     "name": "妖狐 堕姫",
     "class": "妖狐",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪"]
   },
@@ -2923,7 +2558,6 @@
     "name": "妖狐イズナ",
     "class": "妖狐",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -2931,7 +2565,6 @@
     "name": "神官戦士フラメル",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2939,7 +2572,6 @@
     "name": "神官戦士セラ",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2947,7 +2579,6 @@
     "name": "神官戦士フェルミ",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -2955,7 +2586,6 @@
     "name": "帝国神官戦士ルチア",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -2963,7 +2593,6 @@
     "name": "祭夜の神官戦士フェルミ",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -2971,7 +2600,6 @@
     "name": "内緒の告白エレット",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -2979,7 +2607,6 @@
     "name": "水辺の神官戦士ルチア",
     "class": "神官戦士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -2987,7 +2614,6 @@
     "name": "魔導重装兵ジェシカ",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -2995,7 +2621,6 @@
     "name": "魔鎧乙女パルフィ",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -3003,7 +2628,6 @@
     "name": "南瓜魔導鎧兵エーリカ",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "ハロウィン", "人間"]
   },
@@ -3011,7 +2635,6 @@
     "name": "魔導鎧娘アルマ",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -3019,7 +2642,6 @@
     "name": "魔鎧科新入生ライチ",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "魔術師", "学園"]
   },
@@ -3027,7 +2649,6 @@
     "name": "信仰の魔鎧兵フィナン",
     "class": "メイジアーマー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -3035,7 +2656,6 @@
     "name": "竜騎士ルシル",
     "class": "ドラゴンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -3043,7 +2663,6 @@
     "name": "雷竜騎士エレニア",
     "class": "ドラゴンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -3051,7 +2670,6 @@
     "name": "角竜騎士ナディア",
     "class": "ドラゴンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -3059,7 +2677,6 @@
     "name": "水龍騎士スイレン",
     "class": "ドラゴンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -3067,7 +2684,6 @@
     "name": "清心の花嫁スイレン",
     "class": "ドラゴンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "ジューンブライド", "人間"]
   },
@@ -3075,7 +2691,6 @@
     "name": "弓騎兵デイジー",
     "class": "ボウライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -3083,7 +2698,6 @@
     "name": "弓騎兵カティナ",
     "class": "ボウライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -3091,7 +2705,6 @@
     "name": "聖夜の弓騎兵サラサ",
     "class": "ボウライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "クリスマス", "人間"]
   },
@@ -3099,7 +2712,6 @@
     "name": "純白の獣人フラフィー",
     "class": "ボウライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人", "弓兵"]
   },
@@ -3107,7 +2719,6 @@
     "name": "夏の輝きマーガレット",
     "class": "ボウライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "サマー", "人間"]
   },
@@ -3115,7 +2726,6 @@
     "name": "術士女官シャーリー",
     "class": "メイド",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3123,7 +2733,6 @@
     "name": "召使いアイリーン",
     "class": "メイド",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3131,7 +2740,6 @@
     "name": "妖魔の侍女リーナ",
     "class": "メイド",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ゴブリン", "弓兵"]
   },
@@ -3139,7 +2747,6 @@
     "name": "帝国武術女官マリカ",
     "class": "メイド",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3147,7 +2754,6 @@
     "name": "東国武装女中サクラ",
     "class": "メイド",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -3155,7 +2761,6 @@
     "name": "吸血鬼エデン",
     "class": "ヴァンパイアロード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -3163,7 +2768,6 @@
     "name": "吸血鬼ラキュア",
     "class": "ヴァンパイアロード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア"]
   },
@@ -3171,7 +2775,6 @@
     "name": "秋夜の吸血鬼エデン",
     "class": "ヴァンパイアロード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "ハロウィン"]
   },
@@ -3179,7 +2782,6 @@
     "name": "剣士サンドラ",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3187,7 +2789,6 @@
     "name": "剣士グローリア",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3195,7 +2796,6 @@
     "name": "剣士レイブン",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3203,7 +2803,6 @@
     "name": "純白の剣士リシェルテ",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3211,7 +2810,6 @@
     "name": "帝国剣士ヴァイス",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人", "白の帝国"]
   },
@@ -3219,7 +2817,6 @@
     "name": "波斬りの剣士サンドラ",
     "class": "ソードマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -3227,7 +2824,6 @@
     "name": "近衛騎士アリシア",
     "class": "ロイヤルガード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3235,7 +2831,6 @@
     "name": "聖槍の守護者ネフティ",
     "class": "ロイヤルガード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -3243,7 +2838,6 @@
     "name": "契りの近衛騎士アリシア",
     "class": "ロイヤルガード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"]
   },
@@ -3251,7 +2845,6 @@
     "name": "魔眼の魔神バロウス",
     "class": "魔神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3259,7 +2852,6 @@
     "name": "怠惰の魔神ベルーフェ",
     "class": "魔神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3267,7 +2859,6 @@
     "name": "強欲の魔神マンモン",
     "class": "魔神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3275,7 +2866,6 @@
     "name": "魔神憑きサオシュ",
     "class": "魔神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3283,7 +2873,6 @@
     "name": "温泉の魔神憑きサオシュ",
     "class": "魔神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "温泉"]
   },
@@ -3291,7 +2880,6 @@
     "name": "仙猿ファー",
     "class": "仙猿",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3299,7 +2887,6 @@
     "name": "闇使いグレーテル",
     "class": "ダークストーカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -3307,7 +2894,6 @@
     "name": "闇使いの剣士シェイド",
     "class": "ダークストーカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -3315,7 +2901,6 @@
     "name": "闇使いチャーミィ",
     "class": "ダークストーカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ハーフエルフ"]
   },
@@ -3323,7 +2908,6 @@
     "name": "ぬらりひょんの娘カスミ",
     "class": "ぬらりひょん",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3331,7 +2915,6 @@
     "name": "ぬらりひょんの娘サギリ",
     "class": "ぬらりひょん",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3339,7 +2922,6 @@
     "name": "重装砲兵レギーナ",
     "class": "重装砲兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3347,7 +2929,6 @@
     "name": "帝国重装砲兵フリーデ",
     "class": "重装砲兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3355,7 +2936,6 @@
     "name": "夜祭の重装砲兵レギーナ",
     "class": "重装砲兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -3363,7 +2943,6 @@
     "name": "鬼娘イツキ",
     "class": "鬼",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3371,7 +2950,6 @@
     "name": "蒼角の鬼娘リンドウ",
     "class": "鬼",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3379,7 +2957,6 @@
     "name": "帝国鬼娘サザンカ",
     "class": "鬼",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "白の帝国"]
   },
@@ -3387,7 +2964,6 @@
     "name": "帝国騎士ヴィオラ",
     "class": "インペリアルナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3395,7 +2971,6 @@
     "name": "帝国騎士アリーセ",
     "class": "インペリアルナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3403,7 +2978,6 @@
     "name": "清爽騎士アリーセ",
     "class": "インペリアルナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -3411,7 +2985,6 @@
     "name": "天狗コノハ",
     "class": "天狗",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3419,7 +2992,6 @@
     "name": "天狗ホムラ",
     "class": "天狗",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3427,7 +2999,6 @@
     "name": "茜色の女番長ホムラ",
     "class": "天狗",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "学園"]
   },
@@ -3435,7 +3006,6 @@
     "name": "仮面の天狗教師グレン",
     "class": "天狗",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["妖怪", "東の国", "学園"]
   },
@@ -3443,7 +3013,6 @@
     "name": "海魔の麗姫スキュレ",
     "class": "イビルプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -3451,7 +3020,6 @@
     "name": "狼剣の魔姫ピリカ",
     "class": "イビルプリンセス",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -3459,7 +3027,6 @@
     "name": "鍛冶職人サンディー",
     "class": "鍛冶職人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3467,7 +3034,6 @@
     "name": "鍛冶職人キャラット",
     "class": "鍛冶職人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3475,7 +3041,6 @@
     "name": "鍛冶職人ルミアン",
     "class": "鍛冶職人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3483,7 +3048,6 @@
     "name": "手甲鍛冶師フィスティア",
     "class": "鍛冶職人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3491,7 +3055,6 @@
     "name": "魔剣鍛冶師ミスリア",
     "class": "鍛冶職人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3499,7 +3062,6 @@
     "name": "オークの剣士ドゥーラ",
     "class": "グラディエーター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["オーク"]
   },
@@ -3507,7 +3069,6 @@
     "name": "猛勇剣闘士バルバラ",
     "class": "グラディエーター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3515,7 +3076,6 @@
     "name": "雷爪道士レイメイ",
     "class": "キョンシー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド"]
   },
@@ -3523,7 +3083,6 @@
     "name": "屍骸道士ランファ",
     "class": "キョンシー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド"]
   },
@@ -3531,7 +3090,6 @@
     "name": "雷神の娘ラミィ",
     "class": "雷公",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3539,7 +3097,6 @@
     "name": "雷雲の浴衣ラミィ",
     "class": "雷公",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "サマー"]
   },
@@ -3547,7 +3104,6 @@
     "name": "封印剣の使い手エレーヌ",
     "class": "モンスターブレイカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3555,7 +3111,6 @@
     "name": "封獣の剣士ラテリア",
     "class": "モンスターブレイカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3563,7 +3118,6 @@
     "name": "封鋼の剣士ティール",
     "class": "モンスターブレイカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3571,7 +3125,6 @@
     "name": "封機の剣士エレカ",
     "class": "モンスターブレイカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3579,7 +3132,6 @@
     "name": "封妖の弓士レンゲ",
     "class": "モンスターブレイカー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "弓兵", "人間"]
   },
@@ -3587,7 +3139,6 @@
     "name": "風神の娘フーコ",
     "class": "風伯",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3595,7 +3146,6 @@
     "name": "風雲の浴衣フーコ",
     "class": "風伯",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "サマー"]
   },
@@ -3603,7 +3153,6 @@
     "name": "守護騎士シェルト",
     "class": "グランドナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3611,7 +3160,6 @@
     "name": "亡国の守護騎士サリス",
     "class": "グランドナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3619,7 +3167,6 @@
     "name": "守護騎士フルーリオ",
     "class": "グランドナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3627,7 +3174,6 @@
     "name": "鷲獅騎兵クゥイル",
     "class": "グリフィンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -3635,7 +3181,6 @@
     "name": "鷲獅騎兵プルーム",
     "class": "グリフィンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -3643,7 +3188,6 @@
     "name": "真夏に薫る風クゥイル",
     "class": "グリフィンライダー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "サマー"]
   },
@@ -3651,7 +3195,6 @@
     "name": "技工兵ドリー",
     "class": "サッパー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "機械"]
   },
@@ -3659,7 +3202,6 @@
     "name": "技工兵マイン",
     "class": "サッパー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -3667,7 +3209,6 @@
     "name": "帝国工兵カトリーナ",
     "class": "サッパー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
   },
@@ -3675,7 +3216,6 @@
     "name": "聖なる技巧兵ドリー",
     "class": "サッパー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "機械", "クリスマス"]
   },
@@ -3683,7 +3223,6 @@
     "name": "太公望",
     "class": "真人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3691,7 +3230,6 @@
     "name": "謹賀祝仙女太公望",
     "class": "真人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人", "お正月"]
   },
@@ -3699,7 +3237,6 @@
     "name": "竜吉公主",
     "class": "真人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3707,7 +3244,6 @@
     "name": "織姫",
     "class": "真人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3715,7 +3251,6 @@
     "name": "王妃人",
     "class": "邪仙",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3723,7 +3258,6 @@
     "name": "胡喜美",
     "class": "邪仙",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3731,7 +3265,6 @@
     "name": "趙紅明",
     "class": "邪仙",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人"]
   },
@@ -3739,7 +3272,6 @@
     "name": "天穿の槍士フィロ",
     "class": "ランスマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3747,7 +3279,6 @@
     "name": "闇炎の魔将イルムガルト",
     "class": "デーモンロード",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "デーモン"]
   },
@@ -3755,7 +3286,6 @@
     "name": "犬神ツムジ",
     "class": "犬神",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3763,7 +3293,6 @@
     "name": "炎の厨師タオパオ",
     "class": "料理人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3771,7 +3300,6 @@
     "name": "魔界料理人キホル",
     "class": "料理人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3779,7 +3307,6 @@
     "name": "帝国料理人ユッタ",
     "class": "料理人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3787,7 +3314,6 @@
     "name": "山姫アヅミ",
     "class": "料理人",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3795,7 +3321,6 @@
     "name": "悪魔妖術師エフネ",
     "class": "デモンルーン",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -3803,7 +3328,6 @@
     "name": "悪魔の新春祝いエフネ",
     "class": "デモンルーン",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "お正月"]
   },
@@ -3811,7 +3335,6 @@
     "name": "蒸気騎士ベアッカ",
     "class": "スチームナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -3819,7 +3342,6 @@
     "name": "蒸気武者ユカリ",
     "class": "スチームナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "機械", "人間"]
   },
@@ -3827,7 +3349,6 @@
     "name": "かまいたち金糸雀姉妹",
     "class": "かまいたち",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3835,7 +3356,6 @@
     "name": "かまいたち紫苑姉妹",
     "class": "かまいたち",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3843,7 +3363,6 @@
     "name": "潜泳騎士セディナ",
     "class": "アクアナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -3851,7 +3370,6 @@
     "name": "翠玉の深海兵フィーヌ",
     "class": "シーソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魚人"]
   },
@@ -3859,7 +3377,6 @@
     "name": "翠玉の温泉兵フィーヌ",
     "class": "シーソルジャー",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魚人", "温泉"]
   },
@@ -3867,7 +3384,6 @@
     "name": "背教の騎士アレクシア",
     "class": "テンプルナイト",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3875,7 +3391,6 @@
     "name": "自動人形ルイン",
     "class": "オートマタ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械"]
   },
@@ -3883,7 +3398,6 @@
     "name": "ぬりかべシラヌイ",
     "class": "ぬりかべ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3891,7 +3405,6 @@
     "name": "斬刀付喪神カザキリ",
     "class": "霊刀つくもがみ",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -3899,7 +3412,6 @@
     "name": "戦巫女コウメ",
     "class": "戦巫女",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -3907,7 +3419,6 @@
     "name": "帝国戦巫女カオル",
     "class": "戦巫女",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -3915,7 +3426,6 @@
     "name": "深淵を知る者アトナテス(プラチナ)",
     "class": "魔竜騎士",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["ドラゴンライダー", "英傑", "人間"]
   },
@@ -3923,7 +3433,6 @@
     "name": "万慧を砕く者トゥアン(プラチナ)",
     "class": "バーバリアンクイーン",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -3931,7 +3440,6 @@
     "name": "万機の祖たる者アージェ(プラチナ)",
     "class": "古代魔導機兵",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "英傑"]
   },
@@ -3939,7 +3447,6 @@
     "name": "銀腕を掲げし者トラム(プラチナ)",
     "class": "銀腕の神話",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["神", "英傑"]
   },
@@ -3947,7 +3454,6 @@
     "name": "万刃を担う者アルヴァ(プラチナ)",
     "class": "ウェポンマスター",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天界人", "英傑"]
   },
@@ -3955,7 +3461,6 @@
     "name": "魔導を宿す者ラーワル(プラチナ)",
     "class": "魔導生命体",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "英傑"]
   },
@@ -3963,7 +3468,6 @@
     "name": "王太子アルスラーン",
     "class": "王太子",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -3971,7 +3475,6 @@
     "name": "遠国の公子",
     "class": "公子",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -3979,7 +3482,6 @@
     "name": "趙雲",
     "class": "武将【恋姫】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3987,7 +3489,6 @@
     "name": "馬超",
     "class": "武将【恋姫】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -3995,7 +3496,6 @@
     "name": "孫権",
     "class": "君主【恋姫】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4003,7 +3503,6 @@
     "name": "バン",
     "class": "盗賊【七つの大罪】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -4011,7 +3510,6 @@
     "name": "異郷の盗賊",
     "class": "盗賊【異郷】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "male",
     "attributes": []
   },
@@ -4019,7 +3517,6 @@
     "name": "ディアンヌ",
     "class": "巨人【七つの大罪】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -4027,7 +3524,6 @@
     "name": "異郷の槌使い",
     "class": "槌使い【異郷】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -4035,7 +3531,6 @@
     "name": "ダルフィア",
     "class": "騎士【封緘】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4043,7 +3538,6 @@
     "name": "虫子",
     "class": "心ある虫【GBM】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4051,7 +3545,6 @@
     "name": "ガニマール",
     "class": "刑事【GBM】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4059,7 +3552,6 @@
     "name": "芙蓉",
     "class": "鬼【ななリン】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -4067,7 +3559,6 @@
     "name": "アイリス",
     "class": "鬼【ななリン】",
     "rarity": "platinum",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -4075,7 +3566,6 @@
     "name": "神速の射手バシラ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "弓兵"]
   },
@@ -4083,7 +3573,6 @@
     "name": "魔狩人ヴィクトリア",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4091,7 +3580,6 @@
     "name": "妖精郷の射手スピカ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ", "弓兵"]
   },
@@ -4099,7 +3587,6 @@
     "name": "漆黒の射手リタ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4107,7 +3594,6 @@
     "name": "冒険者オスカー",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -4115,7 +3601,6 @@
     "name": "神の射手ファランギース",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4123,7 +3608,6 @@
     "name": "遠国の弓兵",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4131,7 +3615,6 @@
     "name": "獣耳の射手キャロップ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "弓兵"]
   },
@@ -4139,7 +3622,6 @@
     "name": "陽影の弓射手リタ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "サマー", "人間"]
   },
@@ -4147,7 +3629,6 @@
     "name": "弓兵の湯浴みソーマ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "温泉", "人間"]
   },
@@ -4155,7 +3636,6 @@
     "name": "晩夏の狩人ベラ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "弓兵", "サマー"]
   },
@@ -4163,7 +3643,6 @@
     "name": "恋心の射手ポミエ",
     "class": "アーチャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間", "バレンタイン"]
   },
@@ -4171,7 +3650,6 @@
     "name": "神秘の探究者ガラニア",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "魔術師", "人間"]
   },
@@ -4179,7 +3657,6 @@
     "name": "幻惑の魔術師サーシャ",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "魔術師", "人間"]
   },
@@ -4187,7 +3664,6 @@
     "name": "モルディベート",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4195,7 +3671,6 @@
     "name": "秘法の伝承者オデット",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4203,7 +3678,6 @@
     "name": "魔学の研修生メーリス",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "学園", "人間"]
   },
@@ -4211,7 +3685,6 @@
     "name": "お菓子魔術師キャンディ",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "ハロウィン", "人間"]
   },
@@ -4219,7 +3692,6 @@
     "name": "紅の魔術師フローガ",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4227,7 +3699,6 @@
     "name": "帝国魔術師イルマ",
     "class": "メイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "魔術師", "人間"]
   },
@@ -4235,7 +3706,6 @@
     "name": "癒し手カミラ",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4243,7 +3713,6 @@
     "name": "妖精女王シーディス",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -4251,7 +3720,6 @@
     "name": "慈愛の祈りサーリア",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4259,7 +3727,6 @@
     "name": "背反の癒し手ユーノ",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4267,7 +3734,6 @@
     "name": "帝国治癒士エリアス",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -4275,7 +3741,6 @@
     "name": "聖祭の癒し手カミラ",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -4283,7 +3748,6 @@
     "name": "夏風の治癒士エリアス",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -4291,7 +3755,6 @@
     "name": "癒しの涼波イーリス",
     "class": "ヒーラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -4299,7 +3762,6 @@
     "name": "魔女フィグネリア",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4307,7 +3769,6 @@
     "name": "魔女アデル",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4315,7 +3776,6 @@
     "name": "白き魔女ベリンダ",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4323,7 +3783,6 @@
     "name": "凍氷の守り手エリザ",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4331,7 +3790,6 @@
     "name": "幻光の魔女プリム",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4339,7 +3797,6 @@
     "name": "甘菓子の魔女リュリュ",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "バレンタイン", "人間"]
   },
@@ -4347,7 +3804,6 @@
     "name": "森の魔女ユーティ",
     "class": "ウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4355,7 +3811,6 @@
     "name": "海賊レイチェル",
     "class": "パイレーツ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4363,7 +3818,6 @@
     "name": "紅の海賊ベアトリカ",
     "class": "パイレーツ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4371,7 +3825,6 @@
     "name": "姫海賊アネリア",
     "class": "パイレーツ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4379,7 +3832,6 @@
     "name": "私掠船長サブリナ",
     "class": "パイレーツ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4387,7 +3839,6 @@
     "name": "竜巫女エキドナ",
     "class": "ドラゴンシャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -4395,7 +3846,6 @@
     "name": "竜巫女ルビナス",
     "class": "ドラゴンシャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -4403,7 +3853,6 @@
     "name": "易占竜ペドラ",
     "class": "ドラゴンシャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["竜人", "東の国"]
   },
@@ -4411,7 +3860,6 @@
     "name": "賞金稼ぎエリザベート",
     "class": "ヴァンパイアハンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4419,7 +3867,6 @@
     "name": "混血の狩人フラン",
     "class": "ヴァンパイアハンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4427,7 +3874,6 @@
     "name": "聖なる復讐者ルマリア",
     "class": "ヴァンパイアハンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4435,7 +3881,6 @@
     "name": "凶鳥の射手ヒューナ",
     "class": "ヴァンパイアハンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4443,7 +3888,6 @@
     "name": "巫女シホ",
     "class": "シャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4451,7 +3895,6 @@
     "name": "巫女カグラ",
     "class": "シャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4459,7 +3902,6 @@
     "name": "妖精司教マリウス",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["エルフ", "魔術師"]
   },
@@ -4467,7 +3909,6 @@
     "name": "太陽神官パトラ",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "魔術師", "人間"]
   },
@@ -4475,7 +3916,6 @@
     "name": "旅の司祭ポーラ",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4483,7 +3923,6 @@
     "name": "聖職者セレイナ",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4491,7 +3930,6 @@
     "name": "神殿書記官レーヴ",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4499,7 +3937,6 @@
     "name": "常夏の兎司祭ポーラ",
     "class": "ビショップ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "サマー", "人間"]
   },
@@ -4507,7 +3944,6 @@
     "name": "天の軍師レン",
     "class": "後衛戦術家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4515,7 +3951,6 @@
     "name": "帝国軍師レオナ",
     "class": "後衛戦術家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -4523,7 +3958,6 @@
     "name": "疾風の軍師シナト",
     "class": "後衛戦術家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4531,7 +3965,6 @@
     "name": "オークの軍師イリオス",
     "class": "後衛戦術家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["オーク"]
   },
@@ -4539,7 +3972,6 @@
     "name": "軍師の息抜きレオナ",
     "class": "後衛戦術家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -4547,7 +3979,6 @@
     "name": "陰陽師コヨミ",
     "class": "陰陽師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4555,7 +3986,6 @@
     "name": "陰陽師タマミ",
     "class": "陰陽師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4563,7 +3993,6 @@
     "name": "召喚士ソラノ",
     "class": "サモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4571,7 +4000,6 @@
     "name": "恋する召喚士リノ",
     "class": "サモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "バレンタイン", "人間"]
   },
@@ -4579,7 +4007,6 @@
     "name": "召喚士アクアマリー",
     "class": "サモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4587,7 +4014,6 @@
     "name": "炎のサンタ召喚士ソラノ",
     "class": "サモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "クリスマス", "人間"]
   },
@@ -4595,7 +4021,6 @@
     "name": "風水士マール",
     "class": "風水使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4603,7 +4028,6 @@
     "name": "花鏡の風水士ミア",
     "class": "風水使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4611,7 +4035,6 @@
     "name": "風水士ピピン",
     "class": "風水使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4619,7 +4042,6 @@
     "name": "風詠みの少女メイファ",
     "class": "風水使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -4627,7 +4049,6 @@
     "name": "閃の撃砲ジャンナ",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4635,7 +4056,6 @@
     "name": "爆砲の新兵カノン",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4643,7 +4063,6 @@
     "name": "聖夜の祝星砲カノン",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -4651,7 +4070,6 @@
     "name": "砲術娘の温泉旅行カノン",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "温泉"]
   },
@@ -4659,7 +4077,6 @@
     "name": "砲術教官エイプリル",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4667,7 +4084,6 @@
     "name": "大砲組頭スミレ",
     "class": "砲術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4675,7 +4091,6 @@
     "name": "踊り子マーニー",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -4683,7 +4098,6 @@
     "name": "情熱の踊り子ワルツ",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4691,7 +4105,6 @@
     "name": "祝祭の踊り子ハナ",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -4699,7 +4112,6 @@
     "name": "異邦の踊り子ビビアン",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -4707,7 +4119,6 @@
     "name": "甘美な踊り子マーニー",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "バレンタイン", "人間"]
   },
@@ -4715,7 +4126,6 @@
     "name": "真夏の公演ナターリエ",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "サマー", "人間"]
   },
@@ -4723,7 +4133,6 @@
     "name": "聖夜の踊り子ブレリア",
     "class": "ダンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -4731,7 +4140,6 @@
     "name": "死霊魔術師メメント",
     "class": "ネクロマンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4739,7 +4147,6 @@
     "name": "死霊魔術師アニエス",
     "class": "ネクロマンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4747,7 +4154,6 @@
     "name": "菓子祭の魔術師メメント",
     "class": "ネクロマンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "ハロウィン", "人間"]
   },
@@ -4755,7 +4161,6 @@
     "name": "時の魔女ココロ",
     "class": "クロノウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4763,7 +4168,6 @@
     "name": "時の魔女アーリー",
     "class": "クロノウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4771,7 +4175,6 @@
     "name": "お祭り夕涼みココロ",
     "class": "クロノウィッチ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "サマー", "人間"]
   },
@@ -4779,7 +4182,6 @@
     "name": "巫女姫ププル",
     "class": "ドルイド",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -4787,7 +4189,6 @@
     "name": "大自然の乙女メープル",
     "class": "ドルイド",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4795,7 +4196,6 @@
     "name": "眠りの森巫女メリーファ",
     "class": "ドルイド",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4803,7 +4203,6 @@
     "name": "白衣の錬金術士コリン",
     "class": "アルケミスト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4811,7 +4210,6 @@
     "name": "神秘の術士シャルル",
     "class": "アルケミスト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4819,7 +4217,6 @@
     "name": "帝国錬金術士ヘルミーネ",
     "class": "アルケミスト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -4827,7 +4224,6 @@
     "name": "錬金講師レーレン",
     "class": "アルケミスト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["学園", "人間"]
   },
@@ -4835,7 +4231,6 @@
     "name": "聖森の番人リコラ",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4843,7 +4238,6 @@
     "name": "神森の守護妖精スプラ",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ", "弓兵"]
   },
@@ -4851,7 +4245,6 @@
     "name": "闇の森の番人アイーダ",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -4859,7 +4252,6 @@
     "name": "帝国遊撃兵ローザ",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "弓兵", "人間"]
   },
@@ -4867,7 +4259,6 @@
     "name": "魔界森の番人リナリア",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "弓兵"]
   },
@@ -4875,7 +4266,6 @@
     "name": "真夏のいざないローザ",
     "class": "レンジャー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "弓兵", "サマー", "人間"]
   },
@@ -4883,7 +4273,6 @@
     "name": "閃光の泥棒アニータ",
     "class": "シーフ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4891,7 +4280,6 @@
     "name": "帝都の大泥棒レーネ",
     "class": "シーフ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -4899,7 +4287,6 @@
     "name": "呪術師エヴァ",
     "class": "呪術使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4907,7 +4294,6 @@
     "name": "忘我の呪術師レヴィ",
     "class": "呪術使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4915,7 +4301,6 @@
     "name": "呪術師カタラ",
     "class": "呪術使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4923,7 +4308,6 @@
     "name": "魔物使いブランシュ",
     "class": "魔物使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -4931,7 +4315,6 @@
     "name": "兎耳の魔物使いシュシュ",
     "class": "魔物使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -4939,7 +4322,6 @@
     "name": "湯上り魔物使いシュシュ",
     "class": "魔物使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "温泉"]
   },
@@ -4947,7 +4329,6 @@
     "name": "闇司祭ベルディナート",
     "class": "ダークプリースト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4955,7 +4336,6 @@
     "name": "闇の大司教ベルゼッタ",
     "class": "ダークプリースト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4963,7 +4343,6 @@
     "name": "闇司祭プシュケ",
     "class": "ダークプリースト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -4971,7 +4350,6 @@
     "name": "付与魔術師エルシャ",
     "class": "エンチャンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4979,7 +4357,6 @@
     "name": "付与魔術師メレディス",
     "class": "エンチャンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -4987,7 +4364,6 @@
     "name": "付与魔術師ハーニィ",
     "class": "エンチャンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "魔術師", "人間"]
   },
@@ -4995,7 +4371,6 @@
     "name": "行商人トトノ",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5003,7 +4378,6 @@
     "name": "武器商人エイミー",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5011,7 +4385,6 @@
     "name": "帝国商人ターニャ",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5019,7 +4392,6 @@
     "name": "迎春の祝商人トトノ",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -5027,7 +4399,6 @@
     "name": "ねこみみ商人ミネット",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -5035,7 +4406,6 @@
     "name": "ねこみみ購買部ミネット",
     "class": "マーチャント",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "学園"]
   },
@@ -5043,7 +4413,6 @@
     "name": "悪魔ハンタードルチェ",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5051,7 +4420,6 @@
     "name": "帝国猟兵レーゼル",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5059,7 +4427,6 @@
     "name": "帝国狙撃兵ラルフ",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5067,7 +4434,6 @@
     "name": "討妖の狙撃手アオバ",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5075,7 +4441,6 @@
     "name": "帝国狙撃兵ヒルデ",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5083,7 +4448,6 @@
     "name": "滅蟲の狙撃手エイル",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5091,7 +4455,6 @@
     "name": "火遊びハンタードルチェ",
     "class": "モンスタースレイヤー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -5099,7 +4462,6 @@
     "name": "悪魔召喚士リヴル",
     "class": "デモンサモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師"]
   },
@@ -5107,7 +4469,6 @@
     "name": "悪魔召喚士ヴェルティ",
     "class": "デモンサモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -5115,7 +4476,6 @@
     "name": "迷子の悪魔召喚士アイラ",
     "class": "デモンサモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師"]
   },
@@ -5123,7 +4483,6 @@
     "name": "秋祭の召喚士リヴル",
     "class": "デモンサモナー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師", "ハロウィン"]
   },
@@ -5131,7 +4490,6 @@
     "name": "火霊使いロレッタ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5139,7 +4497,6 @@
     "name": "土霊使いシャオメイ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5147,7 +4504,6 @@
     "name": "闇霊使いクラリーチェ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5155,7 +4511,6 @@
     "name": "水霊使いセノーテ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5163,7 +4518,6 @@
     "name": "氷霊使いユキヒメ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5171,7 +4525,6 @@
     "name": "雷霊使いジルヴァ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ"]
   },
@@ -5179,7 +4532,6 @@
     "name": "氷霊応援団ユキヒメ",
     "class": "エレメンタラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "学園", "人間"]
   },
@@ -5187,7 +4539,6 @@
     "name": "帝国道化師モトリー",
     "class": "道化師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5195,7 +4546,6 @@
     "name": "白兎の道化師リェプル",
     "class": "道化師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5203,7 +4553,6 @@
     "name": "道化師ワンダーハート",
     "class": "道化師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5211,7 +4560,6 @@
     "name": "千両かぶき姫 紅牡丹",
     "class": "道化師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5219,7 +4567,6 @@
     "name": "不敗の賭博師ラトゥール",
     "class": "道化師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5227,7 +4574,6 @@
     "name": "命鎖使いルメディア",
     "class": "ライフリンカー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5235,7 +4581,6 @@
     "name": "絆鎖の救命師シアーシャ",
     "class": "ライフリンカー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5243,7 +4588,6 @@
     "name": "幻獣使いホリー",
     "class": "幻獣使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5251,7 +4595,6 @@
     "name": "幻獣使いカリン",
     "class": "幻獣使い",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5259,7 +4602,6 @@
     "name": "智慧の信徒ソニア",
     "class": "ルーンアコライト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5267,7 +4609,6 @@
     "name": "聖魔の信徒シャイーナ",
     "class": "ルーンアコライト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5275,7 +4616,6 @@
     "name": "業火の信徒エリス",
     "class": "ルーンアコライト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5283,7 +4623,6 @@
     "name": "帝国防塞工兵パトリシア",
     "class": "支援工兵",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5291,7 +4630,6 @@
     "name": "魔神の共鳴者レライエ",
     "class": "デモンシャーマン",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5299,7 +4637,6 @@
     "name": "奇想の発明家タバサ",
     "class": "発明家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -5307,7 +4644,6 @@
     "name": "帝国発明家ヘンドリカ",
     "class": "発明家",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
   },
@@ -5315,7 +4651,6 @@
     "name": "帝国幻術士マルティナ",
     "class": "幻術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5323,7 +4658,6 @@
     "name": "向日葵の幻リュティエ",
     "class": "幻術士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5331,7 +4665,6 @@
     "name": "王宮薬草師ローズ",
     "class": "ハーバリスト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5339,7 +4672,6 @@
     "name": "知識の求道者アナベラ",
     "class": "スカラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5347,7 +4679,6 @@
     "name": "魔性の獣学者フェリシア",
     "class": "スカラー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5355,7 +4686,6 @@
     "name": "分福茶釜付喪神シュカ",
     "class": "霊宝つくもがみ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -5363,7 +4693,6 @@
     "name": "氷竜魔術士カラザ",
     "class": "ドラゴンメイジ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["竜人", "魔術師"]
   },
@@ -5371,7 +4700,6 @@
     "name": "星を詠む者ソラス(プラチナ)",
     "class": "占星術師",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -5379,7 +4707,6 @@
     "name": "影を継ぐ者ユージェン(プラチナ)",
     "class": "チェイスハンター",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "弓兵", "英傑"]
   },
@@ -5387,7 +4714,6 @@
     "name": "大地を紡ぐ者サナラ(プラチナ)",
     "class": "ジオマンサー",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["英傑", "人間"]
   },
@@ -5395,7 +4721,6 @@
     "name": "巡り咲く者アンブローズ(プラチナ)",
     "class": "転生魔導士",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "英傑", "人間"]
   },
@@ -5403,7 +4728,6 @@
     "name": "獅子女の覇者ホルテウス(プラチナ)",
     "class": "ファラオ",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "英傑", "人間"]
   },
@@ -5411,7 +4735,6 @@
     "name": "ゼス王国の少女シィル",
     "class": "アコライト",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5419,7 +4742,6 @@
     "name": "鳳統",
     "class": "軍師【恋姫】",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5427,7 +4749,6 @@
     "name": "ラヴクラフト",
     "class": "水底の支配者【GBM】",
     "rarity": "platinum",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5435,7 +4756,6 @@
     "name": "妖狸スズネ",
     "class": "妖狸",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -5443,7 +4763,6 @@
     "name": "筆頭飛行士オヴェリー",
     "class": "ロケットトルーパー",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -5451,7 +4770,6 @@
     "name": "鷲翼の戦士ライノー",
     "class": "スカイウォリアー",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["鳥人"]
   },
@@ -5459,7 +4777,6 @@
     "name": "木兎翼の戦士ポタル",
     "class": "スカイウォリアー",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["鳥人"]
   },
@@ -5467,7 +4784,6 @@
     "name": "覚賀鳥の射手オーキュ",
     "class": "スカイシューター",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["弓兵", "鳥人"]
   },
@@ -5475,7 +4791,6 @@
     "name": "帝国斥候カーナ",
     "class": "スカウト",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5483,7 +4798,6 @@
     "name": "鷹目の偵察兵ミリアム",
     "class": "スカウト",
     "rarity": "platinum",
-    "type": "both",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5491,7 +4805,6 @@
     "name": "月姫カグヤ",
     "class": "プリンセス",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5499,7 +4812,6 @@
     "name": "炎の竜皇女シャルム",
     "class": "ドラゴンプリンセス",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -5507,7 +4819,6 @@
     "name": "迅雷の黒騎士アリエッタ",
     "class": "ダークファイター",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5515,7 +4826,6 @@
     "name": "狂獣ウリデム",
     "class": "アベンジャー",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -5523,7 +4833,6 @@
     "name": "雷の宝具使いリーエン",
     "class": "モンク",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -5531,7 +4840,6 @@
     "name": "堕天使パフィリア",
     "class": "エンジェル",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -5539,7 +4847,6 @@
     "name": "機甲騎士フィー",
     "class": "くぐつ使い",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -5547,7 +4854,6 @@
     "name": "妖狐たまも",
     "class": "妖狐",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
   },
@@ -5555,7 +4861,6 @@
     "name": "庭番女官ヒカゲ",
     "class": "メイド",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5563,7 +4868,6 @@
     "name": "剣士ミーティア",
     "class": "ソードマスター",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5571,7 +4875,6 @@
     "name": "姫騎士パテル",
     "class": "ロイヤルガード",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5579,7 +4882,6 @@
     "name": "裏切りの魔神ルル",
     "class": "魔神",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -5587,7 +4889,6 @@
     "name": "ねんどろいどシビラ",
     "class": "ねんどろいどプリンセス",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": []
   },
@@ -5595,7 +4896,6 @@
     "name": "降魔の戦姫トコヨ",
     "class": "イビルプリンセス",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国"]
   },
@@ -5603,7 +4903,6 @@
     "name": "帝国封印剣士フォルテ",
     "class": "モンスターブレイカー",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5611,7 +4910,6 @@
     "name": "スズランの騎士レイファ",
     "class": "グランドナイト",
     "rarity": "sapphire",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5619,7 +4917,6 @@
     "name": "時の魔女リゼット",
     "class": "クロノウィッチ",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -5627,7 +4924,6 @@
     "name": "魔物使いスイル",
     "class": "魔物使い",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人"]
   },
@@ -5635,7 +4931,6 @@
     "name": "魔狼巫女プニル",
     "class": "フェンリルシャーマン",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": []
   },
@@ -5643,7 +4938,6 @@
     "name": "竜殺しラーティ",
     "class": "モンスタースレイヤー",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5651,7 +4945,6 @@
     "name": "帝国風霊使いハルカ",
     "class": "エレメンタラー",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5659,7 +4952,6 @@
     "name": "歪み角のプリスナ",
     "class": "道化師",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン"]
   },
@@ -5667,7 +4959,6 @@
     "name": "神鎖の救命師サルース",
     "class": "ライフリンカー",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5675,7 +4966,6 @@
     "name": "魔神の落胤リィーリ",
     "class": "デモンシャーマン",
     "rarity": "sapphire",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ハーフデーモン", "白の帝国"]
   },
@@ -5683,7 +4973,6 @@
     "name": "兵士長ユリアン",
     "class": "ソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -5691,7 +4980,6 @@
     "name": "副官アリア",
     "class": "ソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5699,7 +4987,6 @@
     "name": "戦術教官ケイティ",
     "class": "ソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5707,7 +4994,6 @@
     "name": "浴衣の兵長フィリス",
     "class": "ソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -5715,7 +5001,6 @@
     "name": "新米兵士アビー",
     "class": "ソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5723,7 +5008,6 @@
     "name": "破壊者ギャレット",
     "class": "ヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -5731,7 +5015,6 @@
     "name": "大盾の乙女ベルニス",
     "class": "ヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5739,7 +5022,6 @@
     "name": "重歩兵長マチルダ",
     "class": "ヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5747,7 +5029,6 @@
     "name": "年賀の祝盾レアン",
     "class": "ヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -5755,7 +5036,6 @@
     "name": "帝国重装歩兵フィリーネ",
     "class": "ヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5763,7 +5043,6 @@
     "name": "槍騎兵キャリー",
     "class": "ワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5771,7 +5050,6 @@
     "name": "夏陽の騎馬乙女エレイン",
     "class": "ワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -5779,7 +5057,6 @@
     "name": "騎兵科新入生ミーシャ",
     "class": "ワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["学園", "人間"]
   },
@@ -5787,7 +5064,6 @@
     "name": "帝国槍騎士メーア",
     "class": "ワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5795,7 +5071,6 @@
     "name": "純真の槍騎兵ピューロ",
     "class": "ワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5803,7 +5078,6 @@
     "name": "怪盗キュテリ",
     "class": "ローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5811,7 +5085,6 @@
     "name": "盗賊ベティ",
     "class": "ローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5819,7 +5092,6 @@
     "name": "帝国暗部ヴィクター",
     "class": "ローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -5827,7 +5099,6 @@
     "name": "テミス",
     "class": "プリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5835,7 +5106,6 @@
     "name": "晴着の花姫ロゼット",
     "class": "プリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -5843,7 +5113,6 @@
     "name": "山賊王コンラッド",
     "class": "バンデット",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -5851,7 +5120,6 @@
     "name": "山賊娘リーフ",
     "class": "バンデット",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5859,7 +5127,6 @@
     "name": "姫装山賊モーティマ",
     "class": "バンデット",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -5867,7 +5134,6 @@
     "name": "闇竜のゴライア",
     "class": "中級竜兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["竜人"]
   },
@@ -5875,7 +5141,6 @@
     "name": "帝国竜人サーベイン",
     "class": "中級竜兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["竜人", "白の帝国"]
   },
@@ -5883,7 +5148,6 @@
     "name": "緑竜のウィリアス",
     "class": "中級竜兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人"]
   },
@@ -5891,7 +5155,6 @@
     "name": "侍剣士コジュウロウ",
     "class": "サムライ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -5899,7 +5162,6 @@
     "name": "流浪の武芸者チズル",
     "class": "サムライ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5907,7 +5169,6 @@
     "name": "忍者ヒエン",
     "class": "忍者",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -5915,7 +5176,6 @@
     "name": "封妖の忍者カナメ",
     "class": "忍者",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -5923,7 +5183,6 @@
     "name": "見習い天馬騎士ステラ",
     "class": "ペガサスライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5931,7 +5190,6 @@
     "name": "大地の妖精ドロシー",
     "class": "アベンジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ"]
   },
@@ -5939,7 +5197,6 @@
     "name": "仮面の復讐者ザラーム",
     "class": "アベンジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -5947,7 +5204,6 @@
     "name": "格闘士ジーナ",
     "class": "モンク",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5955,7 +5211,6 @@
     "name": "鉄甲闘士モモ",
     "class": "モンク",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -5963,7 +5218,6 @@
     "name": "浴衣の見返り拳士マオ",
     "class": "モンク",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["サマー", "人間"]
   },
@@ -5971,7 +5225,6 @@
     "name": "魔法剣士アネモネ",
     "class": "魔法剣士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -5979,7 +5232,6 @@
     "name": "魔法科剣士リカルド",
     "class": "魔法剣士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["魔術師", "学園", "人間"]
   },
@@ -5987,7 +5239,6 @@
     "name": "堕天使エルン",
     "class": "エンジェル",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -5995,7 +5246,6 @@
     "name": "機甲技師ボリス",
     "class": "くぐつ使い",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["機械", "人間"]
   },
@@ -6003,7 +5253,6 @@
     "name": "見習い水兵マリエ",
     "class": "セーラー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6011,7 +5260,6 @@
     "name": "帝国水兵フレイ",
     "class": "セーラー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -6019,7 +5267,6 @@
     "name": "神官戦士エレット",
     "class": "神官戦士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6027,7 +5274,6 @@
     "name": "聖光の修道戦士エーテル",
     "class": "神官戦士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -6035,7 +5281,6 @@
     "name": "妖精魔鎧兵ライチ",
     "class": "メイジアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "魔術師"]
   },
@@ -6043,7 +5288,6 @@
     "name": "竜騎士アベル",
     "class": "ドラゴンライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -6051,7 +5295,6 @@
     "name": "輝弓士マーガレット",
     "class": "ボウライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -6059,7 +5302,6 @@
     "name": "仮装の弓騎兵ルナール",
     "class": "ボウライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "ハロウィン", "人間"]
   },
@@ -6067,7 +5309,6 @@
     "name": "帝国重装砲兵ゲオルグ",
     "class": "重装砲兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -6075,7 +5316,6 @@
     "name": "帝国重装砲兵シュペット",
     "class": "重装砲兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["獣人", "白の帝国"]
   },
@@ -6083,7 +5323,6 @@
     "name": "帝国騎士ゲルトルート",
     "class": "インペリアルナイト",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -6091,7 +5330,6 @@
     "name": "天狗グレン",
     "class": "天狗",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["妖怪", "東の国"]
   },
@@ -6099,7 +5337,6 @@
     "name": "鍛冶職人ゴルドー",
     "class": "鍛冶職人",
     "rarity": "gold",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -6107,7 +5344,6 @@
     "name": "信仰の槍士コルム",
     "class": "ランスマスター",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6115,7 +5351,6 @@
     "name": "東の料理番ヤマブキ",
     "class": "料理人",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -6123,7 +5358,6 @@
     "name": "潜水騎士マルスィ",
     "class": "アクアナイト",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -6131,7 +5365,6 @@
     "name": "淡紅の深海兵リトヴァ",
     "class": "シーソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魚人"]
   },
@@ -6139,7 +5372,6 @@
     "name": "ちびケイティ",
     "class": "ちびソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6147,7 +5379,6 @@
     "name": "ちびアルティア",
     "class": "ちびソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6155,7 +5386,6 @@
     "name": "ちびゼノビア",
     "class": "ちびソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6163,7 +5393,6 @@
     "name": "ちびリーゼロッテ",
     "class": "ちびソルジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間", "ちび"]
   },
@@ -6171,7 +5400,6 @@
     "name": "ちびベルニス",
     "class": "ちびヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6179,7 +5407,6 @@
     "name": "ちびレアン",
     "class": "ちびヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6187,7 +5414,6 @@
     "name": "ちびディーナ",
     "class": "ちびヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6195,7 +5421,6 @@
     "name": "ちびディーネ",
     "class": "ちびヘビーアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6203,7 +5428,6 @@
     "name": "ちびキャリー",
     "class": "ちびワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6211,7 +5435,6 @@
     "name": "ちびクリッサ",
     "class": "ちびワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6219,7 +5442,6 @@
     "name": "ちびエレイン",
     "class": "ちびワルキューレ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6227,7 +5449,6 @@
     "name": "ちびベルナ",
     "class": "ちびローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6235,7 +5456,6 @@
     "name": "ちびセシリー",
     "class": "ちびローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6243,7 +5463,6 @@
     "name": "ちびキュテリ",
     "class": "ちびローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6251,7 +5470,6 @@
     "name": "ちびジュノン",
     "class": "ちびローグ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6259,7 +5477,6 @@
     "name": "ちびオリヴィエ",
     "class": "ちびプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "ちび"]
   },
@@ -6267,7 +5484,6 @@
     "name": "ちびテミス",
     "class": "ちびプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6275,7 +5491,6 @@
     "name": "ちびロゼット",
     "class": "ちびプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6283,7 +5498,6 @@
     "name": "ちびアンジェリーネ",
     "class": "ちびプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間", "ちび"]
   },
@@ -6291,7 +5505,6 @@
     "name": "ちびシルヴィア",
     "class": "ちびヴァンパイアプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "ちび"]
   },
@@ -6299,7 +5512,6 @@
     "name": "ちびアマンダ",
     "class": "ちびバンデット",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6307,7 +5519,6 @@
     "name": "ちびヴルム",
     "class": "ちび中級竜兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "白の帝国", "ちび"]
   },
@@ -6315,7 +5526,6 @@
     "name": "ちびリキュノス",
     "class": "ちび中級竜兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "ちび"]
   },
@@ -6323,7 +5533,6 @@
     "name": "ちびエルドラ",
     "class": "ちびドラゴンプリンセス",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "ちび"]
   },
@@ -6331,7 +5540,6 @@
     "name": "ちびシズカ",
     "class": "ちびサムライ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -6339,7 +5547,6 @@
     "name": "ちびチズル",
     "class": "ちびサムライ",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -6347,7 +5554,6 @@
     "name": "ちびリディ",
     "class": "ちびペガサスライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6355,7 +5561,6 @@
     "name": "ちびエスタ",
     "class": "ちびペガサスライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6363,7 +5568,6 @@
     "name": "ちびコーネリア",
     "class": "ちびダークファイター",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6371,7 +5575,6 @@
     "name": "ちびドロシー",
     "class": "ちびアベンジャー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "ちび"]
   },
@@ -6379,7 +5582,6 @@
     "name": "ちびモモ",
     "class": "ちびモンク",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6387,7 +5589,6 @@
     "name": "ちびアリス",
     "class": "ちびモンク",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6395,7 +5596,6 @@
     "name": "ちびマツリ",
     "class": "ちび前衛戦術家",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -6403,7 +5603,6 @@
     "name": "ちびイングリッド",
     "class": "ちび魔法剣士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -6411,7 +5610,6 @@
     "name": "ちびシャルロット",
     "class": "ちび魔法剣士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -6419,7 +5617,6 @@
     "name": "ちびソフィー",
     "class": "ちびエンジェル",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "ちび"]
   },
@@ -6427,7 +5624,6 @@
     "name": "ちびエルン",
     "class": "ちびエンジェル",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "ちび"]
   },
@@ -6435,7 +5631,6 @@
     "name": "ちびクロエ",
     "class": "ちびエンジェル",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使", "ちび"]
   },
@@ -6443,7 +5638,6 @@
     "name": "ちびウェンディ",
     "class": "ちびくぐつ使い",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間", "ちび"]
   },
@@ -6451,7 +5645,6 @@
     "name": "ちびイブキ",
     "class": "ちびセーラー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6459,7 +5652,6 @@
     "name": "ちびカヨウ",
     "class": "ちび妖狐",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -6467,7 +5659,6 @@
     "name": "ちびキュウビ",
     "class": "ちび妖狐",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "白の帝国", "ちび"]
   },
@@ -6475,7 +5666,6 @@
     "name": "ちびセラ",
     "class": "ちび神官戦士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6483,7 +5673,6 @@
     "name": "ちびエクス",
     "class": "ちび神官戦士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6491,7 +5680,6 @@
     "name": "ちびシルセス",
     "class": "ちびメイジアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -6499,7 +5687,6 @@
     "name": "ちびグレース",
     "class": "ちびメイジアーマー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -6507,7 +5694,6 @@
     "name": "ちびティファ",
     "class": "ちびドラゴンライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間", "ちび"]
   },
@@ -6515,7 +5701,6 @@
     "name": "ちびリオン",
     "class": "ちびボウライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび", "弓兵"]
   },
@@ -6523,7 +5708,6 @@
     "name": "ちびセーラ",
     "class": "ちびメイド",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6531,7 +5715,6 @@
     "name": "ちびエマ",
     "class": "ちびヴァンパイアロード",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ヴァンパイア", "ちび"]
   },
@@ -6539,7 +5722,6 @@
     "name": "ちびジークリンデ",
     "class": "ちびソードマスター",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間", "ちび"]
   },
@@ -6547,7 +5729,6 @@
     "name": "ちびアリシア",
     "class": "ちびロイヤルガード",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6555,7 +5736,6 @@
     "name": "ちびミレイユ",
     "class": "ちびロイヤルガード",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6563,7 +5743,6 @@
     "name": "ちびナタク",
     "class": "ちび仙人",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人", "ちび"]
   },
@@ -6571,7 +5750,6 @@
     "name": "ちびメフィスト",
     "class": "ちび魔神",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["デーモン", "白の帝国", "ちび"]
   },
@@ -6579,7 +5757,6 @@
     "name": "ちびエルミラ",
     "class": "ちび重装砲兵",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間", "ちび"]
   },
@@ -6587,7 +5764,6 @@
     "name": "ちび鬼刃姫",
     "class": "ちび鬼",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -6595,7 +5771,6 @@
     "name": "ちびコノハ",
     "class": "ちび天狗",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -6603,7 +5778,6 @@
     "name": "ちびティニー",
     "class": "ちび鍛冶職人",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドワーフ", "ちび"]
   },
@@ -6611,7 +5785,6 @@
     "name": "ちびスーシェン",
     "class": "ちび屍道士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ちび"]
   },
@@ -6619,7 +5792,6 @@
     "name": "ちびフーロン",
     "class": "ちび屍道士",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["アンデッド", "ちび"]
   },
@@ -6627,7 +5799,6 @@
     "name": "ちびレミィ",
     "class": "ちび雷公",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -6635,7 +5806,6 @@
     "name": "ちびテンマ",
     "class": "ちびモンスターブレイカー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -6643,7 +5813,6 @@
     "name": "ちびクーコ",
     "class": "ちび風伯",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -6651,7 +5820,6 @@
     "name": "ちびリュクス",
     "class": "ちびグリフィンライダー",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ", "ちび"]
   },
@@ -6659,7 +5827,6 @@
     "name": "ちび金光聖菩",
     "class": "ちび大邪仙",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["仙人", "ちび"]
   },
@@ -6667,7 +5834,6 @@
     "name": "ちびシャディア",
     "class": "ちび魔王親衛隊",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6675,7 +5841,6 @@
     "name": "ちびオーガスタ",
     "class": "ちび料理長",
     "rarity": "gold",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -6683,7 +5848,6 @@
     "name": "鋼鉄弓クレア",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -6691,7 +5855,6 @@
     "name": "狩人ベラ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "弓兵"]
   },
@@ -6699,7 +5862,6 @@
     "name": "狩人ストレイ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -6707,7 +5869,6 @@
     "name": "彩華の射手シャオ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -6715,7 +5876,6 @@
     "name": "新春の弓巫女ソーマ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "お正月", "人間"]
   },
@@ -6723,7 +5883,6 @@
     "name": "夜涼の射的兵ダニエラ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "サマー", "人間"]
   },
@@ -6731,7 +5890,6 @@
     "name": "帝国弓兵エルネスタ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "弓兵", "人間"]
   },
@@ -6739,7 +5897,6 @@
     "name": "紅玉の射手ポミエ",
     "class": "アーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -6747,7 +5904,6 @@
     "name": "賢者バルバストラフ",
     "class": "メイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -6755,7 +5911,6 @@
     "name": "黒衣のサイラス",
     "class": "メイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -6763,7 +5918,6 @@
     "name": "見習い魔術師メーリス",
     "class": "メイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -6771,7 +5925,6 @@
     "name": "炎夏の魔術師マーヤ",
     "class": "メイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "サマー", "人間"]
   },
@@ -6779,7 +5932,6 @@
     "name": "駆け出し魔術師ミェール",
     "class": "メイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -6787,7 +5939,6 @@
     "name": "狂聖女フェドラ",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6795,7 +5946,6 @@
     "name": "癒し手イーリス",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6803,7 +5953,6 @@
     "name": "癒しの獅子ロベルト",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -6811,7 +5960,6 @@
     "name": "聖夜の癒し手アリサ",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["クリスマス", "人間"]
   },
@@ -6819,7 +5967,6 @@
     "name": "新春の癒し手イーリス",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["お正月", "人間"]
   },
@@ -6827,7 +5974,6 @@
     "name": "治癒術士シンディ",
     "class": "ヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6835,7 +5981,6 @@
     "name": "白き魔女クロリス",
     "class": "ウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -6843,7 +5988,6 @@
     "name": "ハーフエルフのユユ",
     "class": "ウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ハーフエルフ", "魔術師"]
   },
@@ -6851,7 +5995,6 @@
     "name": "聖夜の魔女リュリュ",
     "class": "ウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "クリスマス", "人間"]
   },
@@ -6859,7 +6002,6 @@
     "name": "麦わら帽の魔女カリオペ",
     "class": "ウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "サマー", "人間"]
   },
@@ -6867,7 +6009,6 @@
     "name": "勤勉猫魔女ネーニャ",
     "class": "ウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "学園", "人間"]
   },
@@ -6875,7 +6016,6 @@
     "name": "駆け出し海賊モニカ",
     "class": "パイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6883,7 +6023,6 @@
     "name": "爆裂海賊モーレット",
     "class": "パイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6891,7 +6030,6 @@
     "name": "海賊番長ジョヴァンニ",
     "class": "パイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["学園", "人間"]
   },
@@ -6899,7 +6037,6 @@
     "name": "仮装海賊ヴェロッテ",
     "class": "パイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ハロウィン", "人間"]
   },
@@ -6907,7 +6044,6 @@
     "name": "可憐海賊カリナ",
     "class": "パイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6915,7 +6051,6 @@
     "name": "復讐者ヴィンセント",
     "class": "ヴァンパイアハンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -6923,7 +6058,6 @@
     "name": "海辺の彩り狩人フーリ",
     "class": "ヴァンパイアハンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "サマー", "人間"]
   },
@@ -6931,7 +6065,6 @@
     "name": "新米狩人ピックル",
     "class": "ヴァンパイアハンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ドワーフ"]
   },
@@ -6939,7 +6072,6 @@
     "name": "妖精司祭ノエル",
     "class": "ビショップ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ドワーフ", "魔術師"]
   },
@@ -6947,7 +6079,6 @@
     "name": "見習い司祭ソレーユ",
     "class": "ビショップ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -6955,7 +6086,6 @@
     "name": "見習い召喚士リノ",
     "class": "サモナー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -6963,7 +6093,6 @@
     "name": "風水士クルル",
     "class": "風水使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6971,7 +6100,6 @@
     "name": "魔砲士ゾラ",
     "class": "砲術士",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6979,7 +6107,6 @@
     "name": "砲術士メル",
     "class": "砲術士",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -6987,7 +6114,6 @@
     "name": "帝国の舞姫ナターリエ",
     "class": "ダンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -6995,7 +6121,6 @@
     "name": "恋の応援団シャルキー",
     "class": "ダンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
   },
@@ -7003,7 +6128,6 @@
     "name": "紅の踊り子ブレリア",
     "class": "ダンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7011,7 +6135,6 @@
     "name": "森の守り手ローリエ",
     "class": "ドルイド",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7019,7 +6142,6 @@
     "name": "帝国神樹使いミステル",
     "class": "ドルイド",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -7027,7 +6149,6 @@
     "name": "緑森の番人フウカ",
     "class": "レンジャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -7035,7 +6156,6 @@
     "name": "破魔の森番フウカ",
     "class": "レンジャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "お正月", "人間"]
   },
@@ -7043,7 +6163,6 @@
     "name": "お宝泥棒レダ",
     "class": "シーフ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7051,7 +6170,6 @@
     "name": "呪術師ミトラ",
     "class": "呪術使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7059,7 +6177,6 @@
     "name": "付与魔術師リルケ",
     "class": "エンチャンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7067,7 +6184,6 @@
     "name": "深慮の海巫女ムイル",
     "class": "シービショップ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "魚人"]
   },
@@ -7075,7 +6191,6 @@
     "name": "ちびナナリー",
     "class": "ちびアーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間", "ちび"]
   },
@@ -7083,7 +6198,6 @@
     "name": "ちびソーマ",
     "class": "ちびアーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間", "ちび"]
   },
@@ -7091,7 +6205,6 @@
     "name": "ちびスピカ",
     "class": "ちびアーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["エルフ", "弓兵", "ちび"]
   },
@@ -7099,7 +6212,6 @@
     "name": "ちびアーシェラ",
     "class": "ちびアーチャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7107,7 +6219,6 @@
     "name": "ちびイリス",
     "class": "ちびヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7115,7 +6226,6 @@
     "name": "ちびイーリス",
     "class": "ちびヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7123,7 +6233,6 @@
     "name": "ちびリアナ",
     "class": "ちびヒーラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7131,7 +6240,6 @@
     "name": "ちびメーリス",
     "class": "ちびメイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7139,7 +6247,6 @@
     "name": "ちびエステル",
     "class": "ちびメイジ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7147,7 +6254,6 @@
     "name": "ちびデスピア",
     "class": "ちびウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7155,7 +6261,6 @@
     "name": "ちびサブリナ",
     "class": "ちびパイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7163,7 +6268,6 @@
     "name": "ちびミネルバ",
     "class": "ちびパイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7171,7 +6275,6 @@
     "name": "ちびデューオ",
     "class": "ちびパイレーツ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7179,7 +6282,6 @@
     "name": "ちびフーリ",
     "class": "ちびヴァンパイアハンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "人間", "ちび"]
   },
@@ -7187,7 +6289,6 @@
     "name": "ちびスー",
     "class": "ちびヴァンパイアハンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7195,7 +6296,6 @@
     "name": "ちびエターナー",
     "class": "ちびビショップ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7203,7 +6303,6 @@
     "name": "ちびポーラ",
     "class": "ちびビショップ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7211,7 +6310,6 @@
     "name": "ちびミコト",
     "class": "ちび陰陽師",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -7219,7 +6317,6 @@
     "name": "ちびアイシャ",
     "class": "ちび後衛戦術家",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7227,7 +6324,6 @@
     "name": "ちびレオナ",
     "class": "ちび後衛戦術家",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間", "ちび"]
   },
@@ -7235,7 +6331,6 @@
     "name": "ちびリノ",
     "class": "ちびサモナー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7243,7 +6338,6 @@
     "name": "ちびソラノ",
     "class": "ちびサモナー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7251,7 +6345,6 @@
     "name": "ちびピピン",
     "class": "ちび風水使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7259,7 +6352,6 @@
     "name": "ちびリンネ",
     "class": "ちび風水使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7267,7 +6359,6 @@
     "name": "ちびフレデリカ",
     "class": "ちび砲術士",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7275,7 +6366,6 @@
     "name": "ちびメル",
     "class": "ちび砲術士",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7283,7 +6373,6 @@
     "name": "ちびミヤビ",
     "class": "ちびダンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "人間", "ちび"]
   },
@@ -7291,7 +6380,6 @@
     "name": "ちびトワ",
     "class": "ちびクロノウィッチ",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7299,7 +6387,6 @@
     "name": "ちびメメント",
     "class": "ちびネクロマンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7307,7 +6394,6 @@
     "name": "ちびメトゥス",
     "class": "ちびネクロマンサー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7315,7 +6401,6 @@
     "name": "ちびメープル",
     "class": "ちびドルイド",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7323,7 +6408,6 @@
     "name": "ちびフィオレ",
     "class": "ちびドルイド",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7331,7 +6415,6 @@
     "name": "ちびマキナ",
     "class": "ちびアルケミスト",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7339,7 +6422,6 @@
     "name": "ちびロヴィニア",
     "class": "ちびレンジャー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ハーフエルフ", "弓兵", "ちび"]
   },
@@ -7347,7 +6429,6 @@
     "name": "ちびオロチヒメ",
     "class": "ちび呪術使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "魔術師", "人間", "ちび"]
   },
@@ -7355,7 +6436,6 @@
     "name": "ちびアンリ",
     "class": "ちびエンチャンター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間", "ちび"]
   },
@@ -7363,7 +6443,6 @@
     "name": "ちびモルテナ",
     "class": "ちび魔物使い",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7371,7 +6450,6 @@
     "name": "ちびドロテア",
     "class": "ちびダークプリースト",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["ダークエルフ", "ちび"]
   },
@@ -7379,7 +6457,6 @@
     "name": "ちびディエーラ",
     "class": "ちびマーチャント",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7387,7 +6464,6 @@
     "name": "ちびトトノ",
     "class": "ちびマーチャント",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7395,7 +6471,6 @@
     "name": "ちびソシエ",
     "class": "ちびモンスタースレイヤー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7403,7 +6478,6 @@
     "name": "ちびドルチェ",
     "class": "ちびモンスタースレイヤー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7411,7 +6485,6 @@
     "name": "ちびラピス",
     "class": "ちびデモンマスター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["デーモン", "魔術師", "ちび"]
   },
@@ -7419,7 +6492,6 @@
     "name": "ちびクラリーチェ",
     "class": "ちびエレメンタラー",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7427,7 +6499,6 @@
     "name": "ちびルフレ",
     "class": "ちびエレメンタルマスター",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間", "ちび"]
   },
@@ -7435,7 +6506,6 @@
     "name": "ちびコハル",
     "class": "ちび猫又",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
   },
@@ -7443,7 +6513,6 @@
     "name": "ちびヘカティエ",
     "class": "ちび儀典魔術師",
     "rarity": "gold",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "神", "魔術師", "ちび"]
   },
@@ -7451,7 +6520,6 @@
     "name": "帝国飛行士ケイトリッジ",
     "class": "ロケットトルーパー",
     "rarity": "gold",
-    "type": "both",
     "gender": "female",
     "attributes": ["白の帝国", "機械", "人間"]
   },
@@ -7459,7 +6527,6 @@
     "name": "黒翼の射手フーザント",
     "class": "スカイシューター",
     "rarity": "gold",
-    "type": "both",
     "gender": "female",
     "attributes": ["弓兵", "鳥人"]
   },
@@ -7467,7 +6534,6 @@
     "name": "傭兵クレイブ",
     "class": "ソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7475,7 +6541,6 @@
     "name": "新緑の兵士フィリス",
     "class": "ソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7483,7 +6548,6 @@
     "name": "妖精郷の戦士ロザリー",
     "class": "ソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["エルフ"]
   },
@@ -7491,7 +6555,6 @@
     "name": "ドワーフ戦士グスタフ",
     "class": "ソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["ドワーフ"]
   },
@@ -7499,7 +6562,6 @@
     "name": "砂漠の戦士アサル",
     "class": "ソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -7507,7 +6569,6 @@
     "name": "金色の盾ベルナール",
     "class": "ヘビーアーマー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7515,7 +6576,6 @@
     "name": "鋼鉄の女レアン",
     "class": "ヘビーアーマー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7523,7 +6583,6 @@
     "name": "密林の守護者ダナン",
     "class": "ヘビーアーマー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7531,7 +6590,6 @@
     "name": "帝国重装歩兵ドワイト",
     "class": "ヘビーアーマー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -7539,7 +6597,6 @@
     "name": "槍騎兵エレイン",
     "class": "ワルキューレ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7547,7 +6604,6 @@
     "name": "見習い騎兵ミーシャ",
     "class": "ワルキューレ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7555,7 +6611,6 @@
     "name": "密林の槍騎兵チグリ",
     "class": "ワルキューレ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7563,7 +6618,6 @@
     "name": "暗殺者セシリー",
     "class": "ローグ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7571,7 +6625,6 @@
     "name": "女盗賊ハリッサ",
     "class": "ローグ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7579,7 +6632,6 @@
     "name": "盗賊バラッド",
     "class": "ローグ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -7587,7 +6639,6 @@
     "name": "ロゼット",
     "class": "プリンセス",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7595,7 +6646,6 @@
     "name": "山賊頭モーティマ",
     "class": "バンデット",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7603,7 +6653,6 @@
     "name": "狂戦士フューネス",
     "class": "バンデット",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7611,7 +6660,6 @@
     "name": "青竜のガドラス",
     "class": "中級竜兵",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["竜人"]
   },
@@ -7619,7 +6667,6 @@
     "name": "足軽頭サノスケ",
     "class": "サムライ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -7627,7 +6674,6 @@
     "name": "侍剣士イロハ",
     "class": "サムライ",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -7635,7 +6681,6 @@
     "name": "忍者カゲロウ",
     "class": "忍者",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
   },
@@ -7643,7 +6688,6 @@
     "name": "忍者サイゾウ",
     "class": "忍者",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -7651,7 +6695,6 @@
     "name": "帝国天馬騎士クラーラ",
     "class": "ペガサスライダー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -7659,7 +6702,6 @@
     "name": "格闘家ダン",
     "class": "モンク",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7667,7 +6709,6 @@
     "name": "見習い拳士マオ",
     "class": "モンク",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7675,7 +6716,6 @@
     "name": "魔法剣士リカルド",
     "class": "魔法剣士",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -7683,7 +6723,6 @@
     "name": "魔法剣士カシス",
     "class": "魔法剣士",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7691,7 +6730,6 @@
     "name": "堕天使ニエル",
     "class": "エンジェル",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["天使"]
   },
@@ -7699,7 +6737,6 @@
     "name": "修道戦士エーテル",
     "class": "神官戦士",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7707,7 +6744,6 @@
     "name": "神官戦士ニコラウス",
     "class": "神官戦士",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7715,7 +6751,6 @@
     "name": "帝国魔鎧兵ルーテ",
     "class": "メイジアーマー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["白の帝国", "魔術師", "人間"]
   },
@@ -7723,7 +6758,6 @@
     "name": "竜騎士リエーレ",
     "class": "ドラゴンライダー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間"]
   },
@@ -7731,7 +6765,6 @@
     "name": "密林の弓騎兵ルナール",
     "class": "ボウライダー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -7739,7 +6772,6 @@
     "name": "弓騎兵ミゲル",
     "class": "ボウライダー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -7747,7 +6779,6 @@
     "name": "帝国騎士ルークス",
     "class": "インペリアルナイト",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -7755,7 +6786,6 @@
     "name": "魚人戦士オーベッド",
     "class": "シーソルジャー",
     "rarity": "silver",
-    "type": "melee",
     "gender": "male",
     "attributes": ["魚人"]
   },
@@ -7763,7 +6793,6 @@
     "name": "新人潜水騎士キュステ",
     "class": "アクアナイト",
     "rarity": "silver",
-    "type": "melee",
     "gender": "female",
     "attributes": ["機械", "人間"]
   },
@@ -7771,7 +6800,6 @@
     "name": "弓兵ソーマ",
     "class": "アーチャー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -7779,7 +6807,6 @@
     "name": "弓兵ダニエラ",
     "class": "アーチャー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["弓兵", "人間"]
   },
@@ -7787,7 +6814,6 @@
     "name": "妖精郷の射手ローレン",
     "class": "アーチャー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["エルフ", "弓兵"]
   },
@@ -7795,7 +6821,6 @@
     "name": "弓武者カズハ",
     "class": "アーチャー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["東の国", "弓兵", "人間"]
   },
@@ -7803,7 +6828,6 @@
     "name": "魔導師ヴァレリー",
     "class": "メイジ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -7811,7 +6835,6 @@
     "name": "魔術師パレス",
     "class": "メイジ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7819,7 +6842,6 @@
     "name": "魔術師マーヤ",
     "class": "メイジ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7827,7 +6849,6 @@
     "name": "癒し手アリサ",
     "class": "ヒーラー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7835,7 +6856,6 @@
     "name": "癒し手ドルカ",
     "class": "ヒーラー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7843,7 +6863,6 @@
     "name": "神官クリストファー",
     "class": "ヒーラー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7851,7 +6870,6 @@
     "name": "魔女カリオペ",
     "class": "ウィッチ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7859,7 +6877,6 @@
     "name": "猫魔女ネーニャ",
     "class": "ウィッチ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7867,7 +6884,6 @@
     "name": "魔女メローネ",
     "class": "ウィッチ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7875,7 +6891,6 @@
     "name": "海賊ジョヴァンニ",
     "class": "パイレーツ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -7883,7 +6898,6 @@
     "name": "海賊ヴェロッテ",
     "class": "パイレーツ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7891,7 +6905,6 @@
     "name": "吸血鬼狩人フーリ",
     "class": "ヴァンパイアハンター",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -7899,7 +6912,6 @@
     "name": "破魔僧正フドウ",
     "class": "ビショップ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["東の国", "魔術師", "人間"]
   },
@@ -7907,7 +6919,6 @@
     "name": "司祭シャロン",
     "class": "ビショップ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "人間"]
   },
@@ -7915,7 +6926,6 @@
     "name": "門弟の風水士フェイ",
     "class": "風水使い",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7923,7 +6933,6 @@
     "name": "砲兵パーシス",
     "class": "砲術士",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7931,7 +6940,6 @@
     "name": "踊り子シャルキー",
     "class": "ダンサー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7939,7 +6947,6 @@
     "name": "帝国神樹使いソラーレ",
     "class": "ドルイド",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["白の帝国", "人間"]
   },
@@ -7947,7 +6954,6 @@
     "name": "錬金術士テルマ",
     "class": "アルケミスト",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7955,7 +6961,6 @@
     "name": "帝国遊撃兵エリック",
     "class": "レンジャー",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["白の帝国", "弓兵", "人間"]
   },
@@ -7963,7 +6968,6 @@
     "name": "新進の泥棒ピッキー",
     "class": "シーフ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["人間"]
   },
@@ -7971,7 +6975,6 @@
     "name": "帝国付与魔術師ヒース",
     "class": "エンチャンター",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["白の帝国", "魔術師", "人間"]
   },
@@ -7979,7 +6982,6 @@
     "name": "見習い海巫女リバン",
     "class": "シービショップ",
     "rarity": "silver",
-    "type": "ranged",
     "gender": "female",
     "attributes": ["魔術師", "魚人"]
   },
@@ -7987,7 +6989,6 @@
     "name": "鳶翼の鳥人戦士",
     "class": "スカイウォリアー",
     "rarity": "silver",
-    "type": "both",
     "gender": "male",
     "attributes": ["鳥人"]
   },
@@ -7995,7 +6996,6 @@
     "name": "雀翼の射手アエロ",
     "class": "スカイシューター",
     "rarity": "silver",
-    "type": "both",
     "gender": "female",
     "attributes": ["弓兵", "鳥人"]
   },
@@ -8003,7 +7003,6 @@
     "name": "王国兵士ヘクター",
     "class": "下級ソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8011,7 +7010,6 @@
     "name": "王国兵士レオ",
     "class": "下級ソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8019,7 +7017,6 @@
     "name": "妖精郷の戦士アトラ",
     "class": "下級ソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["エルフ"]
   },
@@ -8027,7 +7024,6 @@
     "name": "熟練兵ハシム",
     "class": "下級ソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -8035,7 +7031,6 @@
     "name": "帝国歩兵ディルク",
     "class": "下級ソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["白の帝国", "人間"]
   },
@@ -8043,7 +7038,6 @@
     "name": "王国重歩兵ラセル",
     "class": "下級ヘビーアーマー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8051,7 +7045,6 @@
     "name": "山賊バーガン",
     "class": "下級バンデット",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8059,7 +7052,6 @@
     "name": "竜人戦士",
     "class": "下級竜兵",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["竜人"]
   },
@@ -8067,7 +7059,6 @@
     "name": "熟練足軽ヨジロウ",
     "class": "下級サムライ",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -8075,7 +7066,6 @@
     "name": "中忍ハヤテ",
     "class": "下級忍者",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -8083,7 +7073,6 @@
     "name": "下級深海兵",
     "class": "下級シーソルジャー",
     "rarity": "bronze",
-    "type": "melee",
     "gender": "male",
     "attributes": ["魚人"]
   },
@@ -8091,7 +7080,6 @@
     "name": "弓兵アルス",
     "class": "下級アーチャー",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8099,7 +7087,6 @@
     "name": "弓兵ウィルフレッド",
     "class": "下級アーチャー",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8107,7 +7094,6 @@
     "name": "密林の老練射手ガガ",
     "class": "下級アーチャー",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8115,7 +7101,6 @@
     "name": "王国魔術師ロイ",
     "class": "下級メイジ",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -8123,7 +7108,6 @@
     "name": "老魔術師ゼンメル",
     "class": "下級メイジ",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -8131,7 +7115,6 @@
     "name": "魔界魔術師ネヴィン",
     "class": "下級メイジ",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["ダークエルフ", "魔術師"]
   },
@@ -8139,7 +7122,6 @@
     "name": "海賊マウロ",
     "class": "下級パイレーツ",
     "rarity": "bronze",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8147,7 +7129,6 @@
     "name": "鷹翼の鳥人戦士",
     "class": "下級スカイウォリアー",
     "rarity": "bronze",
-    "type": "both",
     "gender": "male",
     "attributes": ["鳥人"]
   },
@@ -8155,7 +7136,6 @@
     "name": "隼翼の鳥人弓士",
     "class": "下級スカイシューター",
     "rarity": "bronze",
-    "type": "both",
     "gender": "male",
     "attributes": ["弓兵", "鳥人"]
   },
@@ -8163,7 +7143,6 @@
     "name": "一般兵A",
     "class": "下級ソルジャー",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8171,7 +7150,6 @@
     "name": "一般兵B",
     "class": "下級ソルジャー",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8179,7 +7157,6 @@
     "name": "砂漠兵士",
     "class": "下級ソルジャー",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["砂漠の国", "人間"]
   },
@@ -8187,7 +7164,6 @@
     "name": "一般兵A【重装】",
     "class": "下級ヘビーアーマー",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8195,7 +7171,6 @@
     "name": "一般兵B【重装】",
     "class": "下級ヘビーアーマー",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8203,7 +7178,6 @@
     "name": "山賊 手下A",
     "class": "下級バンデット",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8211,7 +7185,6 @@
     "name": "山賊 手下B",
     "class": "下級バンデット",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["人間"]
   },
@@ -8219,7 +7192,6 @@
     "name": "足軽",
     "class": "下級サムライ",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -8227,7 +7199,6 @@
     "name": "下忍",
     "class": "下級忍者",
     "rarity": "iron",
-    "type": "melee",
     "gender": "male",
     "attributes": ["東の国", "人間"]
   },
@@ -8235,7 +7206,6 @@
     "name": "一般兵A【弓】",
     "class": "下級アーチャー",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8243,7 +7213,6 @@
     "name": "一般兵B【弓】",
     "class": "下級アーチャー",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8251,7 +7220,6 @@
     "name": "密林の射手",
     "class": "下級アーチャー",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["弓兵", "人間"]
   },
@@ -8259,7 +7227,6 @@
     "name": "一般兵A【魔法】",
     "class": "下級メイジ",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -8267,7 +7234,6 @@
     "name": "一般兵B【魔法】",
     "class": "下級メイジ",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["魔術師", "人間"]
   },
@@ -8275,7 +7241,6 @@
     "name": "海賊手下",
     "class": "下級パイレーツ",
     "rarity": "iron",
-    "type": "ranged",
     "gender": "male",
     "attributes": ["人間"]
   }
