@@ -5056,6 +5056,62 @@
     "weapon": "gun"
   },
   {
+    "id": 633,
+    "name": "クラック・デ・シュヴァリエ",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
+    "id": 634,
+    "name": "プレッドヤマ城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "scythe"
+  },
+  {
+    "id": 635,
+    "name": "勝野城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "whip"
+  },
+  {
+    "id": 636,
+    "name": "新納石城",
+    "rarity": 5,
+    "terrains": ["mountain", "water"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 637,
+    "name": "越前大野城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "hokuriku",
+    "weapon": "book"
+  },
+  {
+    "id": 638,
+    "name": "チリンガム城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "scythe"
+  },
+  {
+    "id": 639,
+    "name": "マルメゾン城",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "bow"
+  },
+  {
     "id": 7001,
     "name": "DMM城",
     "rarity": 7,
