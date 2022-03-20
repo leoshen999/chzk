@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Add new char for aigis</title>
+  </head>
+
+  <body>
+    <div class="row">
+      <div class="header">Name</div>
+      <input id="name" type="text" />
+    </div>
+
+    <div class="row">
+      <div class="header">Class</div>
+      <input id="class" type="text" />
+      <select id="classSelect">
+        <option value="none" selected></option>
+      </select>
+    </div>
+
+    <div class="row">
+      <div class="header">Rarity</div>
+      <div id="rarityContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Gender</div>
+      <div id="genderContainer">
+        <input type="radio" id="male" name="gender" value="male" />
+        <label for="male">male</label>
+        <input type="radio" id="female" name="gender" value="female" checked />
+        <label for="female">female</label>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="header">Attributes</div>
+      <div id="attributeContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Seasons</div>
+      <div id="seasonContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Icon</div>
+      <input id="icon" type="text" />
+      <br />
+      <img id="iconPreview" src="" alt="" />
+    </div>
+
+    <div class="row">
+      <div class="header">Preview</div>
+      <pre id="jsonPreview"></pre>
+    </div>
+
+    <div class="row">
+      <input type="button" id="submit" value="Submit" />
+    </div>
+
+    <div class="row">
+      <div id="log"></div>
+    </div>
+  </body>
+
+  <script>
+    async function setup() {
+      var nameInput = document.getElementById("name");
+      var classInput = document.getElementById("class");
+      var classSelect = document.getElementById("classSelect");
+      var rarityContainer = document.getElementById("rarityContainer");
+      var attributeContainer = document.getElementById("attributeContainer");
+      var seasonContainer = document.getElementById("seasonContainer");
+      var iconInput = document.getElementById("icon");
+      var iconPreview = document.getElementById("iconPreview");
+      var jsonPreview = document.getElementById("jsonPreview");
+      var submitButton = document.getElementById("submit");
+      var logContainer = document.getElementById("log");
+
+      function log(msg) {
+        console.log(msg);
+        logContainer.appendChild(document.createTextNode(msg));
+        logContainer.appendChild(document.createElement("br"));
+      }
+
+      function updateJsonPreview() {
+        const json = {
+          name: nameInput.value.trim(),
+          class: classSelect.value === "none" ? "" : classSelect.value,
+          rarity: rarities.filter((r) => document.getElementById(r).checked)[0],
+          gender: genders.filter((g) => document.getElementById(g).checked)[0],
+          attributes: attributes
+            .filter((attr) => document.getElementById(attr).checked)
+            .concat(
+              seasons.filter(
+                (season) => document.getElementById(season).checked
+              )
+            ),
+          icon: iconInput.value.trim(),
+        };
+        jsonPreview.textContent = JSON.stringify(json, null, 2);
+      }
+
+      const rawClasses = await (await fetch("/classes.json")).json();
+      const attributes = await (await fetch("/attributes.json")).json();
+      const rarities = [
+        "black",
+        "platinum",
+        "sapphire",
+        "gold",
+        "silver",
+        "bronze",
+        "iron",
+      ];
+      const seasons = await (await fetch("/seasons.json")).json();
+      const genders = ["male", "female"];
+      const classes = [];
+
+      ["melee", "ranged", "both"].forEach((ct) => {
+        rawClasses[ct].forEach((cl) => {
+          classes.push(cl);
+        });
+      });
+
+      classes.forEach((cl) => {
+        var option = document.createElement("option");
+        option.value = cl;
+        option.textContent = cl;
+        classSelect.appendChild(option);
+      });
+
+      document
+        .getElementById("male")
+        .addEventListener("change", updateJsonPreview);
+      document
+        .getElementById("female")
+        .addEventListener("change", updateJsonPreview);
+
+      rarities.forEach((rarity) => {
+        var radio = document.createElement("input");
+        radio.type = "radio";
+        radio.id = rarity;
+        radio.name = "rarity";
+        radio.value = rarity;
+        if (rarity === "black") radio.checked = true;
+        radio.addEventListener("change", updateJsonPreview);
+        rarityContainer.appendChild(radio);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", rarity);
+        label.textContent = rarity;
+        rarityContainer.appendChild(label);
+      });
+
+      attributes.forEach((attr) => {
+        var checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.id = attr;
+        checkbox.addEventListener("change", updateJsonPreview);
+        attributeContainer.appendChild(checkbox);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", attr);
+        label.textContent = attr;
+        attributeContainer.appendChild(label);
+      });
+
+      seasons.forEach((season) => {
+        var checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.id = season;
+        checkbox.addEventListener("change", updateJsonPreview);
+        seasonContainer.appendChild(checkbox);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", season);
+        label.textContent = season;
+        seasonContainer.appendChild(label);
+      });
+
+      nameInput.addEventListener("input", updateJsonPreview);
+
+      classInput.addEventListener("input", () => {
+        if (classes.includes(classInput.value))
+          classSelect.value = classInput.value;
+        else classSelect.value = "none";
+        updateJsonPreview();
+      });
+
+      classSelect.addEventListener("change", () => {
+        updateJsonPreview();
+        if (classInput.value !== classSelect.value)
+          classInput.value = classSelect.value;
+      });
+
+      iconInput.addEventListener("input", () => {
+        updateJsonPreview();
+        iconPreview.src = iconInput.value;
+      });
+
+      submitButton.addEventListener("click", async (e) => {
+        const name = nameInput.value.trim();
+        const icon = iconInput.value.trim();
+        if (name === "") {
+          log("Error: Empty name");
+          return;
+        }
+        if (icon === "") {
+          log("Error: Empty icon");
+          return;
+        }
+        if (classSelect.value === "none") {
+          log("Erorr: Invalid class");
+          return;
+        }
+
+        const json = {
+          name,
+          class: classSelect.value,
+          rarity: rarities.filter((r) => document.getElementById(r).checked)[0],
+          gender: genders.filter((g) => document.getElementById(g).checked)[0],
+          attributes: attributes
+            .filter((attr) => document.getElementById(attr).checked)
+            .concat(
+              seasons.filter(
+                (season) => document.getElementById(season).checked
+              )
+            ),
+          icon,
+        };
+        log("Submit: " + JSON.stringify(json));
+
+        const response = await fetch("/submit", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(json),
+        });
+        log("Response: " + (await response.text()));
+      });
+
+      updateJsonPreview();
+    }
+
+    if (
+      document.readyState === "interactive" ||
+      document.readyState === "complete"
+    ) {
+      setup();
+    } else {
+      document.addEventListener("DOMContentLoaded", setup, true);
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      margin: 0;
+    }
+    input,
+    select {
+      font-family: sans-serif;
+      font-size: 16px;
+      border-style: solid;
+      border-width: 1px;
+      padding: 3px;
+    }
+    select,
+    #submit {
+      cursor: pointer;
+    }
+    label {
+      margin-right: 10px;
+    }
+    .row {
+      margin: 20px;
+    }
+    .header {
+      font-weight: bold;
+      text-decoration: underline;
+      margin-bottom: 5px;
+    }
+  </style>
+</html>

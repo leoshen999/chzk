@@ -43,6 +43,9 @@
     ]
   },
   "devDependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "path": "^0.12.7",
     "prettier": "^2.4.1",
     "request": "^2.88.2"
   }
