@@ -1,8 +1,15 @@
 import classes from "./classes.json";
 
 const classToIdx: any = {};
-classes.forEach((cl, idx) => {
-  classToIdx[cl] = idx;
+
+const classTypes = ["melee", "ranged", "both"];
+let classCount = 0;
+classTypes.forEach((ct) => {
+  // @ts-ignore
+  classes[ct].forEach((cl) => {
+    classToIdx[cl] = classCount;
+    classCount = classCount + 1;
+  });
 });
 
 const rarityNameToNumber: any = {

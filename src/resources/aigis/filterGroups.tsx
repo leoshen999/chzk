@@ -1,5 +1,14 @@
 import attributes from "./attributes.json";
 import seasons from "./seasons.json";
+import classes from "./classes.json";
+
+const classToType: any = {};
+Object.keys(classes).forEach((ct) => {
+  // @ts-ignore
+  classes[ct].forEach((cl: string) => {
+    classToType[cl] = ct;
+  });
+});
 
 const rarities = [
   {
@@ -86,7 +95,7 @@ const filterGroups = [
       id: t.id,
       name: t.name,
       color: t.color,
-      func: (chara: any) => chara.type === t.id,
+      func: (chara: any) => classToType[chara.class] === t.id,
     })),
   },
   {

@@ -3,6 +3,7 @@ var fs = require("fs");
 var classes = JSON.parse(
   fs.readFileSync(__dirname + "/../../src/resources/aigis/classes.json", "utf8")
 );
+classes = [...classes["melee"], ...classes["ranged"], ...classes["both"]];
 
 var rarities = [
   "black",
