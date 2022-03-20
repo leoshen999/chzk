@@ -27,10 +27,20 @@
     <div class="row">
       <div class="header">Gender</div>
       <div id="genderContainer">
-        <input type="radio" id="male" name="gender" value="male" />
-        <label for="male">male</label>
-        <input type="radio" id="female" name="gender" value="female" checked />
-        <label for="female">female</label>
+        <div class="selectable">
+          <input type="radio" id="male" name="gender" value="male" />
+          <label for="male">male</label>
+        </div>
+        <div class="selectable">
+          <input
+            type="radio"
+            id="female"
+            name="gender"
+            value="female"
+            checked
+          />
+          <label for="female">female</label>
+        </div>
       </div>
     </div>
 
@@ -139,6 +149,9 @@
         .addEventListener("change", updateJsonPreview);
 
       rarities.forEach((rarity) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
         var radio = document.createElement("input");
         radio.type = "radio";
         radio.id = rarity;
@@ -146,38 +159,50 @@
         radio.value = rarity;
         if (rarity === "black") radio.checked = true;
         radio.addEventListener("change", updateJsonPreview);
-        rarityContainer.appendChild(radio);
+        selectable.appendChild(radio);
 
         var label = document.createElement("label");
         label.setAttribute("for", rarity);
         label.textContent = rarity;
-        rarityContainer.appendChild(label);
+        selectable.appendChild(label);
+
+        rarityContainer.appendChild(selectable);
       });
 
       attributes.forEach((attr) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
         var checkbox = document.createElement("input");
         checkbox.type = "checkbox";
         checkbox.id = attr;
         checkbox.addEventListener("change", updateJsonPreview);
-        attributeContainer.appendChild(checkbox);
+        selectable.appendChild(checkbox);
 
         var label = document.createElement("label");
         label.setAttribute("for", attr);
         label.textContent = attr;
-        attributeContainer.appendChild(label);
+        selectable.appendChild(label);
+
+        attributeContainer.appendChild(selectable);
       });
 
       seasons.forEach((season) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
         var checkbox = document.createElement("input");
         checkbox.type = "checkbox";
         checkbox.id = season;
         checkbox.addEventListener("change", updateJsonPreview);
-        seasonContainer.appendChild(checkbox);
+        selectable.appendChild(checkbox);
 
         var label = document.createElement("label");
         label.setAttribute("for", season);
         label.textContent = season;
-        seasonContainer.appendChild(label);
+        selectable.appendChild(label);
+
+        seasonContainer.appendChild(selectable);
       });
 
       nameInput.addEventListener("input", updateJsonPreview);
@@ -283,6 +308,16 @@
       font-weight: bold;
       text-decoration: underline;
       margin-bottom: 5px;
+    }
+    #name,
+    #class {
+      width: 300px;
+    }
+    #icon {
+      width: 600px;
+    }
+    .selectable {
+      display: inline-block;
     }
   </style>
 </html>
