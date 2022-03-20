@@ -360,6 +360,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F31290c2c7caddc604093a4d6c8ac2b01.png"
   },
   {
+    "name": "暗黒学園騎士コーネリア",
+    "class": "ダークファイター",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["学園", "人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7d2a80dcf1dceffa725f8d30f8dfc40e.png"
+  },
+  {
     "name": "降魔の復讐者ノワール",
     "class": "アベンジャー",
     "rarity": "black",
@@ -918,6 +927,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fbd5a5306bf51eb82ab221eba9163bd7a.png"
   },
   {
+    "name": "熱砂の騎士アスラハ",
+    "class": "グランドナイト",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "砂漠の国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff3305a93e021c530e4393e770552eac7.png"
+  },
+  {
     "name": "鷲獅騎兵リュクス",
     "class": "グリフィンライダー",
     "rarity": "black",
@@ -1141,6 +1159,15 @@
     "gender": "female",
     "attributes": ["東の国", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F754c5d111dd06bf5dc50845222e62b3e.png"
+  },
+  {
+    "name": "帝国戦巫女カオル",
+    "class": "戦巫女",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F868183a248549b3498ef9a70900d0290.png"
   },
   {
     "name": "怒りの鮫戦士スカー",
@@ -1510,6 +1537,15 @@
     "gender": "female",
     "attributes": ["竜人"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd565112af4610d3dfe4793789f0be492.png"
+  },
+  {
+    "name": "白の竜巫女ラウラ",
+    "class": "ドラゴンシャーマン",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "竜人"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd3850c3be1a17e71834f0d49aafbe768.png"
   },
   {
     "name": "霊鳥の射手スー",
@@ -2025,6 +2061,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb367527488b1f641042afb6baa971a35.png"
   },
   {
+    "name": "帝国建機工兵マルレーン",
+    "class": "支援工兵",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fdf32c1cf61bc5b28c60d4e5c6e7b30b4.png"
+  },
+  {
     "name": "異界召喚士グリム",
     "class": "異界召喚士",
     "rarity": "black",
@@ -2104,6 +2149,15 @@
     "gender": "female",
     "attributes": ["妖怪", "東の国"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fe216cf495956d0eda35e9e8c28cef5af.png"
+  },
+  {
+    "name": "焔の竜砲騎兵ジゼル",
+    "class": "ドラグーン",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F80c5ec5b3b0194c6c561f461a0bb5e3b.png"
   },
   {
     "name": "星を詠む者ソラス",
@@ -2250,6 +2304,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FuC7RfHV.png"
   },
   {
+    "name": "天眼の偵察者レナータ",
+    "class": "スカウト",
+    "rarity": "black",
+    "type": "both",
+    "gender": "female",
+    "attributes": ["人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7621fd7b04701c9e2146a0aa69cb2419.png"
+  },
+  {
     "name": "用兵家ジェローム",
     "class": "ソルジャー",
     "rarity": "platinum",
@@ -2311,6 +2374,15 @@
     "gender": "female",
     "attributes": ["デーモン"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa271a24f6b32df2c422557d3c27c2610.png"
+  },
+  {
+    "name": "戦術科教師ケイティ",
+    "class": "ソルジャー",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "学園"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F05c09d73c9a7c60c4d109bc9607b5328.png"
   },
   {
     "name": "光の盾ジェリウス",
@@ -2653,6 +2725,15 @@
     "gender": "female",
     "attributes": ["バレンタイン", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd2b608c813c2bdc6873f0c9e3b3a2ed1.png"
+  },
+  {
+    "name": "山賊食堂モーティマ",
+    "class": "バンデット",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "male",
+    "attributes": ["人間", "学園"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5503ffd1d1e6a05ab01d8740a2d9ddd4.png"
   },
   {
     "name": "火竜のイグニス",
@@ -4140,6 +4221,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb509992e8d31d959c0deb50ea7d2c828.png"
   },
   {
+    "name": "闇炎の魔将イルムガルト",
+    "class": "デーモンロード",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "デーモン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fce8d5dbccbd6def788c805917251846a.png"
+  },
+  {
     "name": "犬神ツムジ",
     "class": "犬神",
     "rarity": "platinum",
@@ -4588,6 +4678,15 @@
     "gender": "female",
     "attributes": ["獣人", "弓兵", "サマー"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F01bd356898c8594102dd95b1c6ecdd95.png"
+  },
+  {
+    "name": "恋心の射手ポミエ",
+    "class": "アーチャー",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["弓兵", "人間", "バレンタイン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F714894315af6736ee57ba6926253335e.png"
   },
   {
     "name": "神秘の探究者ガラニア",
@@ -5400,6 +5499,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc220849fb457b27687e7490522ba3a31.png"
   },
   {
+    "name": "帝都の大泥棒レーネ",
+    "class": "シーフ",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F16335bea721a7517dcac29514d0d7eba.png"
+  },
+  {
     "name": "呪術師エヴァ",
     "class": "呪術使い",
     "rarity": "platinum",
@@ -5922,6 +6030,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7a92184f6f6e9bb6cf9d23eb08da21ba.png"
   },
   {
+    "name": "氷竜魔術士カラザ",
+    "class": "ドラゴンメイジ",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["竜人", "魔術師"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fef10c49a1e0be8c683bc2f43c8c0afc2.png"
+  },
+  {
     "name": "星を詠む者ソラス(プラチナ)",
     "class": "占星術師",
     "rarity": "platinum",
@@ -6019,6 +6136,15 @@
     "gender": "female",
     "attributes": ["鳥人"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5308fdb42eaaae1ef3c574e81bd237f7.png"
+  },
+  {
+    "name": "木兎翼の戦士ポタル",
+    "class": "スカイウォリアー",
+    "rarity": "platinum",
+    "type": "both",
+    "gender": "female",
+    "attributes": ["鳥人"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F69de97557ab95544e8c08fc7dce03d55.png"
   },
   {
     "name": "覚賀鳥の射手オーキュ",
@@ -6840,6 +6966,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa1246308cf2c35a401516c5a7d8e1648.png"
   },
   {
+    "name": "ちびディーネ",
+    "class": "ちびヘビーアーマー",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd1570a632d860847f9ad8dd748e287a6.png"
+  },
+  {
     "name": "ちびキャリー",
     "class": "ちびワルキューレ",
     "rarity": "gold",
@@ -6964,6 +7099,15 @@
     "gender": "female",
     "attributes": ["竜人", "白の帝国", "ちび"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F46a60fcfb1b56bac4a432d0ef42eeaea.png"
+  },
+  {
+    "name": "ちびリキュノス",
+    "class": "ちび中級竜兵",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["竜人", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F7a8cbb88a44e85c11c5cd08834fe8bdf.png"
   },
   {
     "name": "ちびエルドラ",
@@ -7180,6 +7324,15 @@
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間", "ちび"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9801958eebca5a2041f8c231aa719a7b.png"
+  },
+  {
+    "name": "ちびリオン",
+    "class": "ちびボウライダー",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "ちび", "弓兵"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F3f41ef3db8f5f3783022746c75ccfedb.png"
   },
   {
     "name": "ちびセーラ",
@@ -8172,6 +8325,15 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fce6df3ae798d0b5df166055a22cd85a3.png"
   },
   {
+    "name": "ちびドルチェ",
+    "class": "ちびモンスタースレイヤー",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0392c757c89e2ef9036f0ed400f045c0.png"
+  },
+  {
     "name": "ちびラピス",
     "class": "ちびデモンマスター",
     "rarity": "gold",
@@ -8206,6 +8368,15 @@
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffb004ba7900a0565c3304f37ff977def.png"
+  },
+  {
+    "name": "ちびヘカティエ",
+    "class": "ちび儀典魔術師",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "神", "魔術師", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F2a1753940dc59410fb885068356e5aa5.png"
   },
   {
     "name": "帝国飛行士ケイトリッジ",

@@ -320,6 +320,14 @@
     "attributes": ["クリスマス", "人間"]
   },
   {
+    "name": "暗黒学園騎士コーネリア",
+    "class": "ダークファイター",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["学園", "人間"]
+  },
+  {
     "name": "降魔の復讐者ノワール",
     "class": "アベンジャー",
     "rarity": "black",
@@ -816,6 +824,14 @@
     "attributes": ["人間"]
   },
   {
+    "name": "熱砂の騎士アスラハ",
+    "class": "グランドナイト",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "砂漠の国"]
+  },
+  {
     "name": "鷲獅騎兵リュクス",
     "class": "グリフィンライダー",
     "rarity": "black",
@@ -1014,6 +1030,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
+  },
+  {
+    "name": "帝国戦巫女カオル",
+    "class": "戦巫女",
+    "rarity": "black",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"]
   },
   {
     "name": "怒りの鮫戦士スカー",
@@ -1342,6 +1366,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["竜人"]
+  },
+  {
+    "name": "白の竜巫女ラウラ",
+    "class": "ドラゴンシャーマン",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "竜人"]
   },
   {
     "name": "霊鳥の射手スー",
@@ -1800,6 +1832,14 @@
     "attributes": ["白の帝国", "サマー", "人間"]
   },
   {
+    "name": "帝国建機工兵マルレーン",
+    "class": "支援工兵",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"]
+  },
+  {
     "name": "異界召喚士グリム",
     "class": "異界召喚士",
     "rarity": "black",
@@ -1870,6 +1910,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国"]
+  },
+  {
+    "name": "焔の竜砲騎兵ジゼル",
+    "class": "ドラグーン",
+    "rarity": "black",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"]
   },
   {
     "name": "星を詠む者ソラス",
@@ -2000,6 +2048,14 @@
     "attributes": ["鳥人", "ハロウィン"]
   },
   {
+    "name": "天眼の偵察者レナータ",
+    "class": "スカウト",
+    "rarity": "black",
+    "type": "both",
+    "gender": "female",
+    "attributes": ["人間"]
+  },
+  {
     "name": "用兵家ジェローム",
     "class": "ソルジャー",
     "rarity": "platinum",
@@ -2054,6 +2110,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["デーモン"]
+  },
+  {
+    "name": "戦術科教師ケイティ",
+    "class": "ソルジャー",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "学園"]
   },
   {
     "name": "光の盾ジェリウス",
@@ -2358,6 +2422,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["バレンタイン", "人間"]
+  },
+  {
+    "name": "山賊食堂モーティマ",
+    "class": "バンデット",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "male",
+    "attributes": ["人間", "学園"]
   },
   {
     "name": "火竜のイグニス",
@@ -3680,6 +3752,14 @@
     "attributes": ["人間"]
   },
   {
+    "name": "闇炎の魔将イルムガルト",
+    "class": "デーモンロード",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "デーモン"]
+  },
+  {
     "name": "犬神ツムジ",
     "class": "犬神",
     "rarity": "platinum",
@@ -4078,6 +4158,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["獣人", "弓兵", "サマー"]
+  },
+  {
+    "name": "恋心の射手ポミエ",
+    "class": "アーチャー",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["弓兵", "人間", "バレンタイン"]
   },
   {
     "name": "神秘の探究者ガラニア",
@@ -4800,6 +4888,14 @@
     "attributes": ["人間"]
   },
   {
+    "name": "帝都の大泥棒レーネ",
+    "class": "シーフ",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"]
+  },
+  {
     "name": "呪術師エヴァ",
     "class": "呪術使い",
     "rarity": "platinum",
@@ -5264,6 +5360,14 @@
     "attributes": ["妖怪", "東の国"]
   },
   {
+    "name": "氷竜魔術士カラザ",
+    "class": "ドラゴンメイジ",
+    "rarity": "platinum",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["竜人", "魔術師"]
+  },
+  {
     "name": "星を詠む者ソラス(プラチナ)",
     "class": "占星術師",
     "rarity": "platinum",
@@ -5345,6 +5449,14 @@
   },
   {
     "name": "鷲翼の戦士ライノー",
+    "class": "スカイウォリアー",
+    "rarity": "platinum",
+    "type": "both",
+    "gender": "female",
+    "attributes": ["鳥人"]
+  },
+  {
+    "name": "木兎翼の戦士ポタル",
     "class": "スカイウォリアー",
     "rarity": "platinum",
     "type": "both",
@@ -6080,6 +6192,14 @@
     "attributes": ["人間", "ちび"]
   },
   {
+    "name": "ちびディーネ",
+    "class": "ちびヘビーアーマー",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "ちび"]
+  },
+  {
     "name": "ちびキャリー",
     "class": "ちびワルキューレ",
     "rarity": "gold",
@@ -6190,6 +6310,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["竜人", "白の帝国", "ちび"]
+  },
+  {
+    "name": "ちびリキュノス",
+    "class": "ちび中級竜兵",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["竜人", "ちび"]
   },
   {
     "name": "ちびエルドラ",
@@ -6382,6 +6510,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["ドラゴンライダー", "人間", "ちび"]
+  },
+  {
+    "name": "ちびリオン",
+    "class": "ちびボウライダー",
+    "rarity": "gold",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["人間", "ちび", "弓兵"]
   },
   {
     "name": "ちびセーラ",
@@ -7264,6 +7400,14 @@
     "attributes": ["人間", "ちび"]
   },
   {
+    "name": "ちびドルチェ",
+    "class": "ちびモンスタースレイヤー",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["人間", "ちび"]
+  },
+  {
     "name": "ちびラピス",
     "class": "ちびデモンマスター",
     "rarity": "gold",
@@ -7294,6 +7438,14 @@
     "type": "ranged",
     "gender": "female",
     "attributes": ["妖怪", "東の国", "ちび"]
+  },
+  {
+    "name": "ちびヘカティエ",
+    "class": "ちび儀典魔術師",
+    "rarity": "gold",
+    "type": "ranged",
+    "gender": "female",
+    "attributes": ["白の帝国", "神", "魔術師", "ちび"]
   },
   {
     "name": "帝国飛行士ケイトリッジ",
