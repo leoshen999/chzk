@@ -1161,15 +1161,6 @@
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F754c5d111dd06bf5dc50845222e62b3e.png"
   },
   {
-    "name": "帝国戦巫女カオル",
-    "class": "戦巫女",
-    "rarity": "black",
-    "type": "melee",
-    "gender": "female",
-    "attributes": ["白の帝国", "人間"],
-    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F868183a248549b3498ef9a70900d0290.png"
-  },
-  {
     "name": "怒りの鮫戦士スカー",
     "class": "シャークウォリアー",
     "rarity": "black",
@@ -4399,6 +4390,15 @@
     "gender": "female",
     "attributes": ["東の国", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb06418ebd18c9e9185a5004715620977.png"
+  },
+  {
+    "name": "帝国戦巫女カオル",
+    "class": "戦巫女",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F868183a248549b3498ef9a70900d0290.png"
   },
   {
     "name": "深淵を知る者アトナテス(プラチナ)",

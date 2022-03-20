@@ -1032,14 +1032,6 @@
     "attributes": ["東の国", "人間"]
   },
   {
-    "name": "帝国戦巫女カオル",
-    "class": "戦巫女",
-    "rarity": "black",
-    "type": "melee",
-    "gender": "female",
-    "attributes": ["白の帝国", "人間"]
-  },
-  {
     "name": "怒りの鮫戦士スカー",
     "class": "シャークウォリアー",
     "rarity": "black",
@@ -3910,6 +3902,14 @@
     "type": "melee",
     "gender": "female",
     "attributes": ["東の国", "人間"]
+  },
+  {
+    "name": "帝国戦巫女カオル",
+    "class": "戦巫女",
+    "rarity": "platinum",
+    "type": "melee",
+    "gender": "female",
+    "attributes": ["白の帝国", "人間"]
   },
   {
     "name": "深淵を知る者アトナテス(プラチナ)",
