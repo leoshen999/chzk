@@ -1,5 +1,14 @@
 import styles from "./CharaItem.module.css";
 import clsx from "clsx";
+import classes from "../../resources/aigis/classes.json";
+
+const classToType: any = {};
+Object.keys(classes).forEach((ct) => {
+  // @ts-ignore
+  classes[ct].forEach((cl: string) => {
+    classToType[cl] = ct;
+  });
+});
 
 interface Props {
   chara: {
@@ -7,7 +16,6 @@ interface Props {
     name: string;
     class: string;
     rarity: number;
-    type: string;
     gender: string;
     attributes: Array<string>;
   };
@@ -15,6 +23,7 @@ interface Props {
 }
 
 export default function CharaItem({ chara, shows }: Props) {
+  const type = classToType[chara.class];
   return (
     <a
       className={clsx(styles.container, !shows && styles.containerHidden)}
@@ -31,9 +40,9 @@ export default function CharaItem({ chara, shows }: Props) {
       <div
         className={clsx(
           styles.textContainer,
-          chara.type === "melee" && styles.textContainerMelee,
-          chara.type === "ranged" && styles.textContainerRanged,
-          chara.type === "both" && styles.textContainerBoth
+          type === "melee" && styles.textContainerMelee,
+          type === "ranged" && styles.textContainerRanged,
+          type === "both" && styles.textContainerBoth
         )}
       >
         <div className={styles.name}>{chara.name}</div>
