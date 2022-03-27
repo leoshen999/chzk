@@ -5110,5 +5110,21 @@
     "terrains": ["plain"],
     "location": "kaigai",
     "weapon": "bow"
+  },
+  {
+    "id": 640,
+    "name": "四代目江戸城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "sonohoka",
+    "weapon": "jinkai"
+  },
+  {
+    "id": 641,
+    "name": "滸我御所",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "sonohoka",
+    "weapon": "dual_sword"
   }
 ]
