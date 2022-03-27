@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Add new char for oshirore</title>
+  </head>
+
+  <body>
+    <div class="row">
+      <div class="header">Name</div>
+      <input id="name" type="text" />
+    </div>
+
+    <div class="row">
+      <div class="header">Rarity</div>
+      <div id="rarityContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Terrain</div>
+      <div id="terrainContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Location</div>
+      <div id="locationContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Weapon</div>
+      <div id="weaponContainer"></div>
+    </div>
+
+    <div class="row">
+      <div class="header">Icon</div>
+      <img id="iconPreview" src="" alt="" />
+    </div>
+
+    <div class="row">
+      <div class="header">Preview</div>
+      <pre id="jsonPreview"></pre>
+    </div>
+
+    <div class="row">
+      <input type="button" id="submit" value="Submit" />
+    </div>
+
+    <div class="row">
+      <div id="log"></div>
+    </div>
+  </body>
+
+  <script>
+    async function setup() {
+      var nameInput = document.getElementById("name");
+      var rarityContainer = document.getElementById("rarityContainer");
+      var terrainContainer = document.getElementById("terrainContainer");
+      var locationContainer = document.getElementById("locationContainer");
+      var weaponContainer = document.getElementById("weaponContainer");
+      var iconPreview = document.getElementById("iconPreview");
+      var jsonPreview = document.getElementById("jsonPreview");
+      var submitButton = document.getElementById("submit");
+      var logContainer = document.getElementById("log");
+
+      function log(msg) {
+        console.log(msg);
+        logContainer.appendChild(document.createTextNode(msg));
+        logContainer.appendChild(document.createElement("br"));
+      }
+
+      function updateJsonPreview() {
+        const json = {
+          name: nameInput.value.trim(),
+          rarity: [...Array(7).keys()]
+            .map((r) => r + 1)
+            .filter((r) => document.getElementById("r" + r).checked)[0],
+          terrains: terrains
+            .map((t) => t.id)
+            .filter((terrain) => document.getElementById(terrain).checked),
+          location: locations
+            .map((l) => l.id)
+            .filter((location) => document.getElementById(location).checked)[0],
+          weapon: weapons
+            .map((w) => w.id)
+            .filter((weapon) => document.getElementById(weapon).checked)[0],
+        };
+        jsonPreview.textContent = JSON.stringify(json, null, 2);
+      }
+
+      const terrains = await (await fetch("/terrains.json")).json();
+      const locations = await (await fetch("/locations.json")).json();
+      const weapons = await (await fetch("/weapons.json")).json();
+
+      [...Array(7).keys()]
+        .map((r) => r + 1)
+        .forEach((rarity) => {
+          var selectable = document.createElement("div");
+          selectable.className = "selectable";
+
+          var radio = document.createElement("input");
+          radio.type = "radio";
+          radio.id = "r" + rarity;
+          radio.name = "rarity";
+          radio.value = "r" + rarity;
+          if (rarity === 7) radio.checked = true;
+          radio.addEventListener("change", updateJsonPreview);
+          selectable.appendChild(radio);
+
+          var label = document.createElement("label");
+          label.setAttribute("for", "r" + rarity);
+          label.textContent = "★" + rarity;
+          selectable.appendChild(label);
+
+          rarityContainer.appendChild(selectable);
+        });
+
+      terrains.forEach((terrain) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
+        var checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.id = terrain.id;
+        checkbox.addEventListener("change", updateJsonPreview);
+        selectable.appendChild(checkbox);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", terrain.id);
+        label.textContent = terrain.name;
+        selectable.appendChild(label);
+
+        terrainContainer.appendChild(selectable);
+      });
+
+      locations.forEach((location, key) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
+        var radio = document.createElement("input");
+        radio.type = "radio";
+        radio.id = location.id;
+        radio.name = "location";
+        radio.value = location.id;
+        if (key === 0) radio.checked = true;
+        radio.addEventListener("change", updateJsonPreview);
+        selectable.appendChild(radio);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", location.id);
+        label.textContent = location.name;
+        selectable.appendChild(label);
+
+        locationContainer.appendChild(selectable);
+      });
+
+      weapons.forEach((weapon, key) => {
+        var selectable = document.createElement("div");
+        selectable.className = "selectable";
+
+        var radio = document.createElement("input");
+        radio.type = "radio";
+        radio.id = weapon.id;
+        radio.name = "weapon";
+        radio.value = weapon.id;
+        if (key === 0) radio.checked = true;
+        radio.addEventListener("change", updateJsonPreview);
+        selectable.appendChild(radio);
+
+        var label = document.createElement("label");
+        label.setAttribute("for", weapon.id);
+        label.textContent = weapon.name;
+        selectable.appendChild(label);
+
+        weaponContainer.appendChild(selectable);
+      });
+
+      nameInput.addEventListener("input", () => {
+        updateJsonPreview();
+        iconPreview.src =
+          "https://image.swiki.jp/img0/?host=scre&page=%E7%94%BB%E5%83%8F%E3%81%A7%E4%B8%80%E8%A6%A7RE&src=" +
+          encodeURIComponent(nameInput.value) +
+          ".png";
+      });
+
+      submitButton.addEventListener("click", async (e) => {
+        const name = nameInput.value.trim();
+        if (name === "") {
+          log("Error: Empty name");
+          return;
+        }
+        const selectedTerrainIds = terrains
+          .map((t) => t.id)
+          .filter((terrain) => document.getElementById(terrain).checked);
+        if (selectedTerrainIds.length === 0) {
+          log("Error: Empty terrains");
+          return;
+        }
+
+        const json = {
+          name: nameInput.value.trim(),
+          rarity: [...Array(7).keys()]
+            .map((r) => r + 1)
+            .filter((r) => document.getElementById("r" + r).checked)[0],
+          terrains: selectedTerrainIds,
+          location: locations
+            .map((l) => l.id)
+            .filter((location) => document.getElementById(location).checked)[0],
+          weapon: weapons
+            .map((w) => w.id)
+            .filter((weapon) => document.getElementById(weapon).checked)[0],
+        };
+        log("Submit: " + JSON.stringify(json));
+
+        const response = await fetch("/submit", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(json),
+        });
+        log("Response: " + (await response.text()));
+      });
+
+      updateJsonPreview();
+    }
+
+    if (
+      document.readyState === "interactive" ||
+      document.readyState === "complete"
+    ) {
+      setup();
+    } else {
+      document.addEventListener("DOMContentLoaded", setup, true);
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      margin: 0;
+    }
+    input,
+    select {
+      font-family: sans-serif;
+      font-size: 16px;
+      border-style: solid;
+      border-width: 1px;
+      padding: 3px;
+    }
+    select,
+    #submit {
+      cursor: pointer;
+    }
+    label {
+      margin-right: 10px;
+    }
+    .row {
+      margin: 20px;
+    }
+    .header {
+      font-weight: bold;
+      text-decoration: underline;
+      margin-bottom: 5px;
+    }
+    #name,
+    #class {
+      width: 300px;
+    }
+    #icon {
+      width: 600px;
+    }
+    .selectable {
+      display: inline-block;
+    }
+  </style>
+</html>
