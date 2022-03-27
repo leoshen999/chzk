@@ -17,6 +17,13 @@ var musumes = JSON.parse(
     __dirname + "/../../src/resources/oshirore/characters.json",
     "utf8"
   )
+).concat(
+  JSON.parse(
+    fs.readFileSync(
+      __dirname + "/../../src/resources/oshirore/characters_special.json",
+      "utf8"
+    )
+  )
 );
 
 var target_dir = __dirname + "/../../public/oshirore/ch/";
