@@ -88,7 +88,7 @@
     "id": "jinkai",
     "name": "陣貝",
     "color": "rgb(8, 135, 44)",
-    "type": "ranged"
+    "type": "both"
   },
   {
     "id": "other",
