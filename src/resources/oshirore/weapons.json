@@ -16,6 +16,12 @@
   },
   { "id": "scythe", "name": "鎌", "color": "rgb(22, 44, 44)", "type": "melee" },
   { "id": "mace", "name": "棍", "color": "rgb(91, 247, 54)", "type": "melee" },
+  {
+    "id": "dual_sword",
+    "name": "双",
+    "color": "rgb(247, 21, 93)",
+    "type": "melee"
+  },
   { "id": "bow", "name": "弓", "color": "rgb(38, 86, 208)", "type": "ranged" },
   {
     "id": "crossbow",
@@ -59,6 +65,12 @@
     "id": "book",
     "name": "本",
     "color": "rgb(157, 171, 41)",
+    "type": "ranged"
+  },
+  {
+    "id": "jinkai",
+    "name": "貝",
+    "color": "rgb(8, 135, 44)",
     "type": "ranged"
   },
   {
