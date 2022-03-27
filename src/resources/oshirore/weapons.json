@@ -15,36 +15,46 @@
     "type": "melee"
   },
   { "id": "scythe", "name": "鎌", "color": "rgb(22, 44, 44)", "type": "melee" },
-  { "id": "mace", "name": "棍", "color": "rgb(91, 247, 54)", "type": "melee" },
+  {
+    "id": "mace",
+    "name": "戦棍",
+    "color": "rgb(91, 247, 54)",
+    "type": "melee"
+  },
   {
     "id": "dual_sword",
-    "name": "双",
+    "name": "双剣",
     "color": "rgb(247, 21, 93)",
     "type": "melee"
   },
   { "id": "bow", "name": "弓", "color": "rgb(38, 86, 208)", "type": "ranged" },
   {
     "id": "crossbow",
-    "name": "石",
+    "name": "石弓",
     "color": "rgb(48, 43, 178)",
     "type": "ranged"
   },
-  { "id": "gun", "name": "鉄", "color": "rgb(12, 156, 148)", "type": "ranged" },
+  {
+    "id": "gun",
+    "name": "鉄砲",
+    "color": "rgb(12, 156, 148)",
+    "type": "ranged"
+  },
   {
     "id": "cannon",
-    "name": "大",
+    "name": "大砲",
     "color": "rgb(56, 54, 55)",
     "type": "ranged"
   },
   {
     "id": "dancing",
-    "name": "歌",
+    "name": "歌舞",
     "color": "rgb(60, 173, 10)",
     "type": "ranged"
   },
   {
     "id": "spell",
-    "name": "術",
+    "name": "法術",
     "color": "rgb(11, 140, 194)",
     "type": "ranged"
   },
@@ -57,7 +67,7 @@
   },
   {
     "id": "haraegushi",
-    "name": "祓",
+    "name": "祓串",
     "color": "rgb(139, 0, 0)",
     "type": "ranged"
   },
@@ -68,18 +78,18 @@
     "type": "ranged"
   },
   {
-    "id": "jinkai",
-    "name": "貝",
-    "color": "rgb(8, 135, 44)",
-    "type": "ranged"
-  },
-  {
     "id": "throwing",
-    "name": "投",
+    "name": "投剣",
     "color": "rgb(247, 166, 60)",
     "type": "both"
   },
   { "id": "whip", "name": "鞭", "color": "rgb(255, 125, 203)", "type": "both" },
+  {
+    "id": "jinkai",
+    "name": "陣貝",
+    "color": "rgb(8, 135, 44)",
+    "type": "ranged"
+  },
   {
     "id": "other",
     "name": "他",
