@@ -15,8 +15,6 @@ var rarities = [
   "iron",
 ];
 
-var types = ["melee", "ranged", "both"];
-
 var genders = ["male", "female"];
 
 var allAttributes = JSON.parse(
@@ -48,7 +46,6 @@ characters.map((ch) => {
   checkString(ch, "name");
   checkString(ch, "class");
   checkString(ch, "rarity");
-  checkString(ch, "type");
   checkString(ch, "gender");
   checkString(ch, "icon");
   ch.attributes.forEach((attr) => {
@@ -63,8 +60,6 @@ characters.map((ch) => {
 
   if (!rarities.includes(ch.rarity))
     die("Unknown rarity: " + ch.name + " " + ch.rarity);
-
-  if (!types.includes(ch.type)) die("Unknown type: " + ch.name + " " + ch.type);
 
   if (!genders.includes(ch.gender))
     die("Unknown gender: " + ch.name + " " + ch.gender);
