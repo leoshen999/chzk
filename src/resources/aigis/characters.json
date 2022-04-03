@@ -7243,5 +7243,26 @@
     "rarity": "iron",
     "gender": "male",
     "attributes": ["人間"]
+  },
+  {
+    "name": "鋼鉄の弓術部員クレア",
+    "class": "アーチャー",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "弓兵", "学園"]
+  },
+  {
+    "name": "かまいたち群青姉妹",
+    "class": "かまいたち",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国"]
+  },
+  {
+    "name": "超古代発明家アルレット",
+    "class": "発明家",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "機械"]
   }
 ]

@@ -8278,5 +8278,29 @@
     "gender": "male",
     "attributes": ["人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffd4535fad17e3b8dbfa594fd3b980fd3.png"
+  },
+  {
+    "name": "鋼鉄の弓術部員クレア",
+    "class": "アーチャー",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "弓兵", "学園"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F44d167c9e2b27dcb135d860e4d4ff8f6.png"
+  },
+  {
+    "name": "かまいたち群青姉妹",
+    "class": "かまいたち",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F55c94f9da4ac3117066d2fa91dc1bd00.png"
+  },
+  {
+    "name": "超古代発明家アルレット",
+    "class": "発明家",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "機械"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd77f7d35d2acbc9bc4e8507e53b9315c.png"
   }
 ]
