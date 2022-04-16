@@ -5126,5 +5126,45 @@
     "terrains": ["plain", "water"],
     "location": "sonohoka",
     "weapon": "dual_sword"
+  },
+  {
+    "id": 642,
+    "name": "［学園］足利学校",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kantou",
+    "weapon": "book"
+  },
+  {
+    "id": 643,
+    "name": "［学園］鳥羽城",
+    "rarity": 5,
+    "terrains": ["hill", "water"],
+    "location": "kinki",
+    "weapon": "gun"
+  },
+  {
+    "id": 644,
+    "name": "［学園］都於郡城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kyuushuu",
+    "weapon": "dancing"
+  },
+  {
+    "id": 645,
+    "name": "［学園］マルボルク城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 646,
+    "name": "［学園］城塞都市アビラ",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "kaigai",
+    "weapon": "hammer"
   }
 ]

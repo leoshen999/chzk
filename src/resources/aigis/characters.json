@@ -7264,5 +7264,47 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["人間", "機械"]
+  },
+  {
+    "name": "ちびアナトリア",
+    "class": "ちびグラディエーター",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["オーク", "ちび"]
+  },
+  {
+    "name": "ちび竜吉公主",
+    "class": "ちび真人",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["仙人", "ちび"]
+  },
+  {
+    "name": "紫炎の鬼傭兵アクラ",
+    "class": "鬼",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国"]
+  },
+  {
+    "name": "混沌うさぎの祝祭ニーヴ",
+    "class": "エレメンタラー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "エッグハント"]
+  },
+  {
+    "name": "黒兎の魔剣士タラニア",
+    "class": "魔法剣士",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "魔術師", "エッグハント"]
+  },
+  {
+    "name": "卵祭りの山賊娘リーフ",
+    "class": "バンデット",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "エッグハント"]
   }
 ]

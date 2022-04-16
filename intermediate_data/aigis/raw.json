@@ -8302,5 +8302,53 @@
     "gender": "female",
     "attributes": ["人間", "機械"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd77f7d35d2acbc9bc4e8507e53b9315c.png"
+  },
+  {
+    "name": "ちびアナトリア",
+    "class": "ちびグラディエーター",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["オーク", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
+  },
+  {
+    "name": "ちび竜吉公主",
+    "class": "ちび真人",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["仙人", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fca0e6f35c3ff7ac36dfdf1a721a6d46e.png"
+  },
+  {
+    "name": "紫炎の鬼傭兵アクラ",
+    "class": "鬼",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6a0a283ec6d473b0b7ca0455266f8ef5.png"
+  },
+  {
+    "name": "混沌うさぎの祝祭ニーヴ",
+    "class": "エレメンタラー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "エッグハント"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F447bcbbdecbae835d9edc8aabd14733d.png"
+  },
+  {
+    "name": "黒兎の魔剣士タラニア",
+    "class": "魔法剣士",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "魔術師", "エッグハント"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F61d99b855f635cbfdf49fadc1f72f9a1.png"
+  },
+  {
+    "name": "卵祭りの山賊娘リーフ",
+    "class": "バンデット",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "エッグハント"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
   }
 ]
