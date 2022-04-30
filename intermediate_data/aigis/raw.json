@@ -8309,7 +8309,7 @@
     "rarity": "gold",
     "gender": "female",
     "attributes": ["オーク", "ちび"],
-    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F0399e14ad97d70a36e95b4c4ea4712be.png"
   },
   {
     "name": "ちび竜吉公主",
@@ -8349,6 +8349,38 @@
     "rarity": "platinum",
     "gender": "female",
     "attributes": ["人間", "エッグハント"],
-    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png"
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F761c6638a1285fb1ffa9f1f82acc6e2c.png"
+  },
+  {
+    "name": "世界を超える者エフトラ",
+    "class": "異世界戦士",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "英傑"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FOF2Afm7.png"
+  },
+  {
+    "name": "生命を謳う者イムラウ",
+    "class": "ピューティアー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "英傑"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff6275e155c48f74b73647ec3d4006ccc.png"
+  },
+  {
+    "name": "生命を謳う者イムラウ(プラチナ)",
+    "class": "ピューティアー",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "英傑"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FJ3KENy9.png"
+  },
+  {
+    "name": "世界を超える者エフトラ(プラチナ)",
+    "class": "異世界戦士",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "英傑"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.gyazo.com%2Fa9c3d119cfb4277f510eaa452cb85843.png"
   }
 ]

@@ -5166,5 +5166,29 @@
     "terrains": ["mountain"],
     "location": "kaigai",
     "weapon": "hammer"
+  },
+  {
+    "id": 647,
+    "name": "城塞都市ウルク",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
+    "id": 648,
+    "name": "吉野城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "spell"
+  },
+  {
+    "id": 649,
+    "name": "リズラン城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "kaigai",
+    "weapon": "book"
   }
 ]
