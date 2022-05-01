@@ -33,6 +33,7 @@ const newCharacters = rawCharacters.map((ch) => {
     rarity: ch.rarity,
     gender: ch.gender,
     attributes: ch.attributes,
+    h_scene_3: ch.h_scene_3,
   };
 });
 
