@@ -79,6 +79,14 @@ const genders = [
   },
 ];
 
+const h_scene = [
+  {
+    id: "h_scene_3",
+    name: "交流クエスト",
+    color: "#C71585",
+  },
+];
+
 const filterGroups = [
   {
     id: "rarity",
@@ -123,6 +131,15 @@ const filterGroups = [
       name: s,
       color: "#5f875f",
       func: (chara: any) => chara.attributes.includes(s),
+    })),
+  },
+  {
+    id: "h_scene",
+    filters: h_scene.map((h) => ({
+      id: h.id,
+      name: h.name,
+      color: h.color,
+      func: (chara: any) => chara.h_scene_3,
     })),
   },
 ];
