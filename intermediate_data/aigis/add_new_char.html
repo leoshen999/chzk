@@ -55,6 +55,17 @@
     </div>
 
     <div class="row">
+      <div class="header">H scene 3</div>
+      <div id="hScene3Container">
+        <div class="selectable">
+          <input type="checkbox" id="hScene3" /><label for="hScene3"
+            >Exists</label
+          >
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
       <div class="header">Icon</div>
       <input id="icon" type="text" />
       <br />
@@ -109,6 +120,7 @@
               )
             ),
           icon: iconInput.value.trim(),
+          h_scene_3: document.getElementById("hScene3").checked,
         };
         jsonPreview.textContent = JSON.stringify(json, null, 2);
       }
@@ -205,6 +217,10 @@
         seasonContainer.appendChild(selectable);
       });
 
+      document
+        .getElementById("hScene3")
+        .addEventListener("change", updateJsonPreview);
+
       nameInput.addEventListener("input", updateJsonPreview);
 
       classInput.addEventListener("input", () => {
@@ -254,6 +270,7 @@
               )
             ),
           icon,
+          h_scene_3: document.getElementById("hScene3").checked,
         };
         log("Submit: " + JSON.stringify(json));
 

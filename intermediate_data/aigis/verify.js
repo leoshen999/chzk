@@ -37,6 +37,11 @@ function die(msg) {
   process.exit(1);
 }
 
+function checkBoolean(ch, field) {
+  if (typeof ch[field] !== "boolean")
+    die("Invalid " + field + ": " + ch.name + " " + ch[field]);
+}
+
 function checkString(ch, field) {
   if (typeof ch[field] !== "string")
     die("Invalid " + field + ": " + ch.name + " " + ch[field]);
@@ -48,6 +53,7 @@ characters.map((ch) => {
   checkString(ch, "rarity");
   checkString(ch, "gender");
   checkString(ch, "icon");
+  checkBoolean(ch, "h_scene_3");
   ch.attributes.forEach((attr) => {
     if (typeof attr !== "string") die("Invalid attr: " + ch.name + " " + attr);
   });
