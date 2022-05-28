@@ -797,7 +797,7 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["人間"],
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "風神の娘クーコ",

@@ -897,7 +897,7 @@
     "gender": "female",
     "attributes": ["人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4cba8add0c6fec832cd3a34dfbed3330.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "風神の娘クーコ",
