@@ -5190,5 +5190,69 @@
     "terrains": ["hill", "water"],
     "location": "kaigai",
     "weapon": "book"
+  },
+  {
+    "id": 650,
+    "name": "金剛山城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "kinki",
+    "weapon": "gaunlets"
+  },
+  {
+    "id": 651,
+    "name": "ヘレンキームゼー城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "dancing"
+  },
+  {
+    "id": 652,
+    "name": "比志城",
+    "rarity": 6,
+    "terrains": ["hill", "water"],
+    "location": "shigoku",
+    "weapon": "scythe"
+  },
+  {
+    "id": 653,
+    "name": "アルモウロル城",
+    "rarity": 5,
+    "terrains": ["water"],
+    "location": "kaigai",
+    "weapon": "mace"
+  },
+  {
+    "id": 654,
+    "name": "［絢爛］七尾城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "spear"
+  },
+  {
+    "id": 655,
+    "name": "枉死城",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "whip"
+  },
+  {
+    "id": 656,
+    "name": "［裏］淀城",
+    "rarity": 7,
+    "terrains": ["plain", "hell"],
+    "location": "sonohoka",
+    "weapon": "bow"
+  },
+  {
+    "id": 657,
+    "name": "ドゥアト",
+    "rarity": 7,
+    "terrains": ["hell"],
+    "location": "sonohoka",
+    "weapon": "mace"
   }
 ]

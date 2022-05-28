@@ -64,6 +64,14 @@
     "weapon": "shield"
   },
   {
+    "id": 8008,
+    "name": "福島正則",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "chuugoku",
+    "weapon": "crossbow"
+  },
+  {
     "id": 9001,
     "name": "鹿目まどか",
     "rarity": 7,
