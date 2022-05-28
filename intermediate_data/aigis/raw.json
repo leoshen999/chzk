@@ -9430,5 +9430,50 @@
     "attributes": ["人間", "英傑"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.gyazo.com%2Fa9c3d119cfb4277f510eaa452cb85843.png",
     "h_scene_3": false
+  },
+  {
+    "name": "ちびエレオノーラ",
+    "class": "ちびルーンアコライト",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F906703982aacce4aef7cd96b8578ed72.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびヴァイス",
+    "class": "ちびソードマスター",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["獣人", "白の帝国", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4ee6f61872fb5371812437112bf04fea.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "土竜魔術士ロカ",
+    "class": "ドラゴンメイジ",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["竜人", "魔術師"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F399f40b1c3fda7687b52ea9a0bf58a4e.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "流浪の竜砲騎兵ミカ",
+    "class": "ドラグーン",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2F3h5YC91.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "渦潮の亜神メシナ",
+    "class": "儀式魔術師",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["魔術師", "神"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff97a9eeeb783fd406b26aaf66ee704e4.png",
+    "h_scene_3": false
   }
 ]

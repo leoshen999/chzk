@@ -8382,5 +8382,45 @@
     "gender": "female",
     "attributes": ["人間", "英傑"],
     "h_scene_3": false
+  },
+  {
+    "name": "ちびエレオノーラ",
+    "class": "ちびルーンアコライト",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびヴァイス",
+    "class": "ちびソードマスター",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["獣人", "白の帝国", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "土竜魔術士ロカ",
+    "class": "ドラゴンメイジ",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["竜人", "魔術師"],
+    "h_scene_3": false
+  },
+  {
+    "name": "流浪の竜砲騎兵ミカ",
+    "class": "ドラグーン",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"],
+    "h_scene_3": false
+  },
+  {
+    "name": "渦潮の亜神メシナ",
+    "class": "儀式魔術師",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["魔術師", "神"],
+    "h_scene_3": false
   }
 ]
