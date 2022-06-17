@@ -1572,7 +1572,7 @@
     "gender": "female",
     "attributes": ["魔術師", "ジューンブライド", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F9c579433cfb973ad01237cbbc92e97c0.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "伏龍の軍師アイシャ",
@@ -1869,7 +1869,7 @@
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fa3e44d3ae834aea8dce0964198aba99e.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "白狼の朋ツァーユ",
@@ -9474,6 +9474,69 @@
     "gender": "female",
     "attributes": ["魔術師", "神"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff97a9eeeb783fd406b26aaf66ee704e4.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびジュウベエ",
+    "class": "ちびサムライ",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "東の国", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F5dd12585c21efc8ea46182b22b2c223e.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびハツネ",
+    "class": "ちび忍者",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "東の国", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fef3254d0d84df0f422f14267b6e468d5.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "銀月の亜神アラン",
+    "class": "儀仗軍神",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["魔術師", "神"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F69d1386c7a980bfb507f163377093315.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "婚礼の大盾ベルニス",
+    "class": "ヘビーアーマー",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "ジューンブライド"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F86d6bb7949f9ba271f34fed29572fe01.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ひだまりの花嫁ユーティ",
+    "class": "ウィッチ",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "魔術師", "ジューンブライド"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F3e7b17240fa218fbb37908097c54b462.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "堕天使シェミア",
+    "class": "エンジェル",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["天使"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc2baeed2cd4b786cf67661df6c49254d.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "幽境新婦フーロン",
+    "class": "キョンシー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["アンデッド", "ジューンブライド"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6bb1b4ee2b151f55485cd30b8e44a89a.png",
     "h_scene_3": false
   }
 ]

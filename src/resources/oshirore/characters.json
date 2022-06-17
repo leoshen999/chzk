@@ -5254,5 +5254,37 @@
     "terrains": ["hell"],
     "location": "sonohoka",
     "weapon": "mace"
+  },
+  {
+    "id": 658,
+    "name": "［花嫁衣装］リープ城",
+    "rarity": 5,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
+    "id": 659,
+    "name": "［花嫁衣装］春日山城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "sword"
+  },
+  {
+    "id": 660,
+    "name": "［花嫁衣装］許昌城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 661,
+    "name": "［花嫁衣装］鮫ヶ尾城",
+    "rarity": 6,
+    "terrains": ["mountain"],
+    "location": "koushinetsu",
+    "weapon": "crossbow"
   }
 ]

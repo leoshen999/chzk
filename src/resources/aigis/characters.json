@@ -1397,7 +1397,7 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["魔術師", "ジューンブライド", "人間"],
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "伏龍の軍師アイシャ",
@@ -1661,7 +1661,7 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["ジューンブライド", "人間"],
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "白狼の朋ツァーユ",
@@ -8421,6 +8421,62 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["魔術師", "神"],
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびジュウベエ",
+    "class": "ちびサムライ",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "東の国", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびハツネ",
+    "class": "ちび忍者",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "東の国", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "銀月の亜神アラン",
+    "class": "儀仗軍神",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["魔術師", "神"],
+    "h_scene_3": false
+  },
+  {
+    "name": "婚礼の大盾ベルニス",
+    "class": "ヘビーアーマー",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "ジューンブライド"],
+    "h_scene_3": false
+  },
+  {
+    "name": "ひだまりの花嫁ユーティ",
+    "class": "ウィッチ",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "魔術師", "ジューンブライド"],
+    "h_scene_3": false
+  },
+  {
+    "name": "堕天使シェミア",
+    "class": "エンジェル",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["天使"],
+    "h_scene_3": false
+  },
+  {
+    "name": "幽境新婦フーロン",
+    "class": "キョンシー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["アンデッド", "ジューンブライド"],
     "h_scene_3": false
   }
 ]
