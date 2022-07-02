@@ -72,6 +72,14 @@
     "weapon": "crossbow"
   },
   {
+    "id": 8009,
+    "name": "島津義弘",
+    "rarity": 7,
+    "terrains": ["none"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
     "id": 9001,
     "name": "鹿目まどか",
     "rarity": 7,

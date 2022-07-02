@@ -91,6 +91,12 @@
     "type": "both"
   },
   {
+    "id": "ship",
+    "name": "軍船",
+    "color": "rgb(255, 0, 0)",
+    "type": "both"
+  },
+  {
     "id": "other",
     "name": "他",
     "color": "rgb(127, 127, 127)",

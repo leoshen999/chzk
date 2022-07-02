@@ -5286,5 +5286,13 @@
     "terrains": ["mountain"],
     "location": "koushinetsu",
     "weapon": "crossbow"
+  },
+  {
+    "id": 662,
+    "name": "安宅船 日本丸",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "kinki",
+    "weapon": "ship"
   }
 ]

@@ -8478,5 +8478,29 @@
     "gender": "female",
     "attributes": ["アンデッド", "ジューンブライド"],
     "h_scene_3": false
+  },
+  {
+    "name": "常夜の料理人アシュリン",
+    "class": "料理人",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["アンデッド", "ヴァンパイア"],
+    "h_scene_3": false
+  },
+  {
+    "name": "白無垢の狛犬コマ",
+    "class": "狛犬",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国", "ジューンブライド"],
+    "h_scene_3": false
+  },
+  {
+    "name": "紫風の竜砲騎兵イーファ",
+    "class": "ドラグーン",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"],
+    "h_scene_3": false
   }
 ]

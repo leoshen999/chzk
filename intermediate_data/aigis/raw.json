@@ -9538,5 +9538,32 @@
     "attributes": ["アンデッド", "ジューンブライド"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F6bb1b4ee2b151f55485cd30b8e44a89a.png",
     "h_scene_3": false
+  },
+  {
+    "name": "常夜の料理人アシュリン",
+    "class": "料理人",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["アンデッド", "ヴァンパイア"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F45fe5f049c8dbbf72d66615f843c8c39.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "白無垢の狛犬コマ",
+    "class": "狛犬",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国", "ジューンブライド"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F53903c1052c2120f7b3862e8017105ba.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "紫風の竜砲騎兵イーファ",
+    "class": "ドラグーン",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "ドラグーン"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F970b58a30c5f1c5f11b5a2abc98af7d8.png",
+    "h_scene_3": false
   }
 ]
