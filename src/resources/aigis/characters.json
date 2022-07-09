@@ -8502,5 +8502,93 @@
     "gender": "female",
     "attributes": ["人間", "ドラグーン"],
     "h_scene_3": false
+  },
+  {
+    "name": "ちびアデライド",
+    "class": "ちびグランドナイト",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびスイレン",
+    "class": "ちびドラゴンライダー",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "ドラゴンライダー", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "光剣の神聖騎士デシレア",
+    "class": "テンプルナイト",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間"],
+    "h_scene_3": false
+  },
+  {
+    "name": "夏陽海仙 竜吉公主",
+    "class": "真人",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["仙人", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "水遁遊戯ハツネ",
+    "class": "忍者",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "東の国", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "砂浜の工作兵パトリシア",
+    "class": "支援工兵",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "浜辺の武術女官マリカ",
+    "class": "メイド",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "潮風の守護者アルティア",
+    "class": "ソルジャー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "夏の賢仙 清源妙道真君",
+    "class": "真人",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["仙人", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "女皇の夏季休暇ハリナ",
+    "class": "エンプレス",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["エルフ", "白の帝国", "サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "夏の月下冥神ヘカティエ",
+    "class": "儀式魔術師",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["白の帝国", "魔術師", "神", "サマー"],
+    "h_scene_3": false
   }
 ]

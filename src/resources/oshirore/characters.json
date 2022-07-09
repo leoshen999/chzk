@@ -5294,5 +5294,69 @@
     "terrains": ["water"],
     "location": "kinki",
     "weapon": "ship"
+  },
+  {
+    "id": 663,
+    "name": "［夏］唐津城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kyuushuu",
+    "weapon": "hammer"
+  },
+  {
+    "id": 664,
+    "name": "［夏］烏城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "koushinetsu",
+    "weapon": "bell"
+  },
+  {
+    "id": 665,
+    "name": "［夏］亀田御役所土塁",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "hokkaido",
+    "weapon": "sword"
+  },
+  {
+    "id": 666,
+    "name": "［夏］島原城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kyuushuu",
+    "weapon": "bow"
+  },
+  {
+    "id": 667,
+    "name": "［夏］白鷺城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "scythe"
+  },
+  {
+    "id": 668,
+    "name": "［夏］栗橋城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "kantou",
+    "weapon": "crossbow"
+  },
+  {
+    "id": 669,
+    "name": "［夏］丹波亀山城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kinki",
+    "weapon": "sword"
+  },
+  {
+    "id": 670,
+    "name": "［夏］平井城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spear"
   }
 ]
