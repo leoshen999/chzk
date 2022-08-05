@@ -4290,7 +4290,7 @@
     "gender": "female",
     "attributes": ["機械", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb4ffbd8d0e2cda0cdd93d86e64986d9a.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "蒸気武者ユカリ",
@@ -5964,7 +5964,7 @@
     "gender": "female",
     "attributes": ["機械", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F053b8696d03e9c71b7f59e23f540557c.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "帝国発明家ヘンドリカ",
@@ -6171,7 +6171,7 @@
     "gender": "female",
     "attributes": ["人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb3c07bec5e86567b38ab3bba079e6996.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "月姫カグヤ",
@@ -9572,7 +9572,7 @@
     "rarity": "gold",
     "gender": "female",
     "attributes": ["人間", "ちび"],
-    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4dd044bba28577d21667a7d9256d1691.png",
     "h_scene_3": false
   },
   {
@@ -9581,7 +9581,7 @@
     "rarity": "gold",
     "gender": "female",
     "attributes": ["人間", "ドラゴンライダー", "ちび"],
-    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fd80c616798124e0c5f040a483e2d3221.png",
     "h_scene_3": false
   },
   {
@@ -9663,6 +9663,69 @@
     "gender": "female",
     "attributes": ["白の帝国", "魔術師", "神", "サマー"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fefe3cc0dcc2a7570a7f420d06a69fee8.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "白き浜辺の剣士ヴァイス",
+    "class": "ソードマスター",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["獣人", "白の帝国", "サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F4dfead7408ab22039be42df6f388cdb5.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "真夏の覇者レオーネ",
+    "class": "バンデット",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["獣人", "サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffa216029f17ef31df76c01bb74c4f192.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "祭夜のぬりかべシラヌイ",
+    "class": "ぬりかべ",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["妖怪", "東の国", "サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2FjBDuYIo.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "不敗の縁日ラトゥール",
+    "class": "道化師",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ff1f329fefd4c02e1fca3e1a3883d2074.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "癒しの夕涼みリアナ",
+    "class": "ヒーラー",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fi.imgur.com%2F53LT09A.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびディアナ",
+    "class": "ちびインペリアルナイト",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "ちびローザ",
+    "class": "ちびレンジャー",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "弓兵", "ちび"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
     "h_scene_3": false
   }
 ]

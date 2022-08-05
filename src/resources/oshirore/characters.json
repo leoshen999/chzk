@@ -5358,5 +5358,45 @@
     "terrains": ["hill"],
     "location": "kantou",
     "weapon": "spear"
+  },
+  {
+    "id": 671,
+    "name": "城塞都市イントラムロス",
+    "rarity": 6,
+    "terrains": ["plain"],
+    "location": "kaigai",
+    "weapon": "dual_sword"
+  },
+  {
+    "id": 672,
+    "name": "［絢爛］玉縄城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "dancing"
+  },
+  {
+    "id": 673,
+    "name": "［絢爛］佐倉城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "kantou",
+    "weapon": "spell"
+  },
+  {
+    "id": 674,
+    "name": "［絢爛］松倉城",
+    "rarity": 7,
+    "terrains": ["mountain"],
+    "location": "hokuriku",
+    "weapon": "sword"
+  },
+  {
+    "id": 675,
+    "name": "［絢爛］アラゴネーゼ城",
+    "rarity": 7,
+    "terrains": ["mountain", "water"],
+    "location": "kaigai",
+    "weapon": "whip"
   }
 ]

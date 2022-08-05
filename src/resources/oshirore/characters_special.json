@@ -80,6 +80,14 @@
     "weapon": "hammer"
   },
   {
+    "id": 8010,
+    "name": "片倉小十郎",
+    "rarity": 6,
+    "terrains": ["none"],
+    "location": "touhoku",
+    "weapon": "spell"
+  },
+  {
     "id": 9001,
     "name": "鹿目まどか",
     "rarity": 7,
