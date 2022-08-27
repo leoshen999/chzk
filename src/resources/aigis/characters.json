@@ -1773,7 +1773,7 @@
     "rarity": "black",
     "gender": "female",
     "attributes": ["白の帝国", "人間"],
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "八咫の夏陽ツキコ",
@@ -5285,7 +5285,7 @@
     "rarity": "platinum",
     "gender": "female",
     "attributes": ["白の帝国", "人間"],
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "魔神の共鳴者レライエ",
@@ -8645,6 +8645,70 @@
     "rarity": "gold",
     "gender": "female",
     "attributes": ["人間", "白の帝国", "弓兵", "ちび"],
+    "h_scene_3": false
+  },
+  {
+    "name": "新米砲術士リーシェ",
+    "class": "砲術士",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間"],
+    "h_scene_3": false
+  },
+  {
+    "name": "夏祭りの金魚姫スキュレ",
+    "class": "イビルプリンセス",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["サマー"],
+    "h_scene_3": false
+  },
+  {
+    "name": "豪放遊侠フーイェン",
+    "class": "武侠",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "華の国"],
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国鍛冶師グラティア",
+    "class": "鍛冶職人",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国忍者ウルスラ",
+    "class": "忍者",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "h_scene_3": false
+  },
+  {
+    "name": "深潭の魔将アブグルント",
+    "class": "デーモンロード",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["デーモン", "白の帝国"],
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国神官戦士長トゥーダ",
+    "class": "神官戦士",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国時術士ロミルダ",
+    "class": "クロノウィッチ",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "魔術師"],
     "h_scene_3": false
   }
 ]

@@ -1995,7 +1995,7 @@
     "gender": "female",
     "attributes": ["白の帝国", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F13056467ecdab6e5fdffdd1e0f557a03.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "八咫の夏陽ツキコ",
@@ -5946,7 +5946,7 @@
     "gender": "female",
     "attributes": ["白の帝国", "人間"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F18c838fec671a4bb7f132f1c57568004.png",
-    "h_scene_3": false
+    "h_scene_3": true
   },
   {
     "name": "魔神の共鳴者レライエ",
@@ -9726,6 +9726,78 @@
     "gender": "female",
     "attributes": ["人間", "白の帝国", "弓兵", "ちび"],
     "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fc7d37a97449e7edb4b064ca7be7ccf57.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "新米砲術士リーシェ",
+    "class": "砲術士",
+    "rarity": "gold",
+    "gender": "female",
+    "attributes": ["人間"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F94cc464d4a9fda1918abbaf152827ec1.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "夏祭りの金魚姫スキュレ",
+    "class": "イビルプリンセス",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["サマー"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fb932d78e23d8e6266e66c6e7a9cca092.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "豪放遊侠フーイェン",
+    "class": "武侠",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "華の国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F49db64b863768df2114184c56cc3d3d6.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国鍛冶師グラティア",
+    "class": "鍛冶職人",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Fcf2bfebf5dfd1cb344abd14126f2a2ee.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国忍者ウルスラ",
+    "class": "忍者",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F1e3656a038bb201ef6e98f07bde47a75.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "深潭の魔将アブグルント",
+    "class": "デーモンロード",
+    "rarity": "platinum",
+    "gender": "female",
+    "attributes": ["デーモン", "白の帝国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F86397ddb9597ab1379c66a5517c99920.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国神官戦士長トゥーダ",
+    "class": "神官戦士",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2F12a00fdc7d858d4068d90255052709a1.png",
+    "h_scene_3": false
+  },
+  {
+    "name": "帝国時術士ロミルダ",
+    "class": "クロノウィッチ",
+    "rarity": "black",
+    "gender": "female",
+    "attributes": ["人間", "白の帝国", "魔術師"],
+    "icon": "https://cdn.wikiwiki.jp/proxy-image?url=https%3A%2F%2Fgyazo.com%2Ffe81a474ecafae465f43975f676696a6.png",
     "h_scene_3": false
   }
 ]

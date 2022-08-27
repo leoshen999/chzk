@@ -5398,5 +5398,37 @@
     "terrains": ["mountain", "water"],
     "location": "kaigai",
     "weapon": "whip"
+  },
+  {
+    "id": 676,
+    "name": "三重城",
+    "rarity": 6,
+    "terrains": ["water"],
+    "location": "okinawa",
+    "weapon": "mace"
+  },
+  {
+    "id": 677,
+    "name": "［肝試し］丸亀城",
+    "rarity": 7,
+    "terrains": ["hill"],
+    "location": "shigoku",
+    "weapon": "spear"
+  },
+  {
+    "id": 678,
+    "name": "［肝試し］鶴ヶ岡城",
+    "rarity": 7,
+    "terrains": ["plain"],
+    "location": "touhoku",
+    "weapon": "dancing"
+  },
+  {
+    "id": 679,
+    "name": "［肝試し］大垣城",
+    "rarity": 6,
+    "terrains": ["plain", "water"],
+    "location": "toukai",
+    "weapon": "hammer"
   }
 ]
