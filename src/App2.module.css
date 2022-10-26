@@ -1,0 +1,51 @@
+.charIcon {
+  width: 72px;
+  height: 72px;
+  transition: filter 0.2s;
+}
+
+.charIconDark {
+  filter: brightness(40%);
+}
+
+.separator {
+  background-color: #323232;
+  width: 100%;
+  height: 5px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.inputContainer {
+  height: 30px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.rarityLabel {
+  margin: 3px;
+}
+
+.rarityInput {
+  margin: 3px;
+  width: 30px;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #323232;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #323232;
+  margin: 3px;
+}
+
+.partyContainer {
+  height: 400px;
+}
